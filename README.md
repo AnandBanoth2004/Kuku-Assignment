@@ -59,5 +59,3 @@ New episodes only need their own parse plus a registry update. Not yet done: a d
 
 ## Confidentiality
 The input pack is assessment material marked confidential: it is git-ignored (`data/input`, `data/extracted`) and must not be published. `outputs/` quotes lines from it, so share it only with the assessors and keep any repository private. API keys are read only from env vars.
-
-See `docs/FAILURE_ANALYSIS.md` (observed vs hypothetical failures), `docs/WALKTHROUGH.md`, `docs/INTERVIEW_PREP.md`.
