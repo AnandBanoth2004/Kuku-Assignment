@@ -1,0 +1,2213 @@
+{
+  "characters": {
+    "Juliana": {
+      "canonical": "Juliana",
+      "kind": "named",
+      "aliases": {
+        "LADY JULIANA": {
+          "evidence": "honorific + bare name both occur as speaker labels",
+          "votes": 110
+        }
+      },
+      "first_episode": 1,
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        34,
+        37,
+        38,
+        41,
+        42,
+        45,
+        46,
+        47
+      ],
+      "lines": 462
+    },
+    "Alexander": {
+      "canonical": "Alexander",
+      "kind": "named",
+      "aliases": {
+        "BEARDED STRANGER": {
+          "evidence": "editor-supplied alias file",
+          "votes": 15
+        },
+        "MYSTERIOUS BEARDED MAN": {
+          "evidence": "editor-supplied alias file",
+          "votes": 28
+        },
+        "SCARRED BEARDED MAN": {
+          "evidence": "editor-supplied alias file",
+          "votes": 1
+        }
+      },
+      "first_episode": 3,
+      "episodes": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        16,
+        17,
+        18,
+        19,
+        25,
+        35,
+        36,
+        39,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "lines": 246
+    },
+    "Catherine": {
+      "canonical": "Catherine",
+      "kind": "named",
+      "aliases": {
+        "LADY CATHERINE": {
+          "evidence": "honorific + bare name both occur as speaker labels",
+          "votes": 9
+        }
+      },
+      "first_episode": 20,
+      "episodes": [
+        20,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        37,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "lines": 196
+    },
+    "Rupert": {
+      "canonical": "Rupert",
+      "kind": "named",
+      "aliases": {
+        "BLOND NOBLEMAN": {
+          "evidence": "explicit name inside the speaker label (4 line(s))",
+          "votes": 4
+        }
+      },
+      "first_episode": 2,
+      "episodes": [
+        2,
+        9,
+        20,
+        27,
+        28,
+        30,
+        37,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ],
+      "lines": 75
+    },
+    "Alexander's Mother": {
+      "canonical": "Alexander's Mother",
+      "kind": "role",
+      "aliases": {
+        "DOWAGER DUCHESS": {
+          "evidence": "editor-supplied alias file",
+          "votes": 26
+        }
+      },
+      "first_episode": 26,
+      "episodes": [
+        26,
+        27,
+        28,
+        35,
+        36,
+        42,
+        43
+      ],
+      "lines": 65
+    },
+    "Gerald": {
+      "canonical": "Gerald",
+      "kind": "named",
+      "aliases": {
+        "FORMER GROOM": {
+          "evidence": "editor-supplied alias file",
+          "votes": 16
+        }
+      },
+      "first_episode": 1,
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        11,
+        12,
+        13
+      ],
+      "lines": 48
+    },
+    "Clarissa": {
+      "canonical": "Clarissa",
+      "kind": "named",
+      "aliases": {
+        "LADY CLARISSA": {
+          "evidence": "honorific + bare name both occur as speaker labels",
+          "votes": 11
+        },
+        "LADY IN GOLD GOWN": {
+          "evidence": "editor-supplied alias file",
+          "votes": 17
+        }
+      },
+      "first_episode": 1,
+      "episodes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        12,
+        13,
+        37
+      ],
+      "lines": 45
+    },
+    "Prudence": {
+      "canonical": "Prudence",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 21,
+      "episodes": [
+        21,
+        22,
+        23,
+        24,
+        34
+      ],
+      "lines": 38
+    },
+    "Lord": {
+      "canonical": "Lord",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 33,
+      "episodes": [
+        33,
+        34
+      ],
+      "lines": 36
+    },
+    "High Priest": {
+      "canonical": "High Priest",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 45,
+      "episodes": [
+        45,
+        46
+      ],
+      "lines": 22
+    },
+    "Maid": {
+      "canonical": "Maid",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 33,
+      "episodes": [
+        33
+      ],
+      "lines": 20
+    },
+    "Elder Nobleman": {
+      "canonical": "Elder Nobleman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 30,
+      "episodes": [
+        30,
+        40
+      ],
+      "lines": 19
+    },
+    "Judge": {
+      "canonical": "Judge",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 34,
+      "episodes": [
+        34
+      ],
+      "lines": 19
+    },
+    "Father Thomas": {
+      "canonical": "Father Thomas",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 49,
+      "episodes": [
+        49,
+        50
+      ],
+      "lines": 17
+    },
+    "Noblewoman": {
+      "canonical": "Noblewoman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 24,
+      "episodes": [
+        24,
+        41
+      ],
+      "lines": 14
+    },
+    "Noble Matriarch": {
+      "canonical": "Noble Matriarch",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 3,
+      "episodes": [
+        3
+      ],
+      "lines": 11
+    },
+    "Thug With Cap": {
+      "canonical": "Thug With Cap",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 15,
+      "episodes": [
+        15,
+        16
+      ],
+      "lines": 10
+    },
+    "Informant": {
+      "canonical": "Informant",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 19,
+      "episodes": [
+        19
+      ],
+      "lines": 9
+    },
+    "Crown Official": {
+      "canonical": "Crown Official",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 43,
+      "episodes": [
+        43
+      ],
+      "lines": 9
+    },
+    "Matriarch": {
+      "canonical": "Matriarch",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 1,
+      "episodes": [
+        1
+      ],
+      "lines": 8
+    },
+    "Lord Ashcroft": {
+      "canonical": "Lord Ashcroft",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 5,
+      "episodes": [
+        5
+      ],
+      "lines": 8
+    },
+    "Nobleman": {
+      "canonical": "Nobleman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 37,
+      "episodes": [
+        37,
+        41
+      ],
+      "lines": 8
+    },
+    "Peasant Mother": {
+      "canonical": "Peasant Mother",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 9,
+      "episodes": [
+        9
+      ],
+      "lines": 7
+    },
+    "Housekeeper": {
+      "canonical": "Housekeeper",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 22,
+      "episodes": [
+        22
+      ],
+      "lines": 7
+    },
+    "Lady Harrington": {
+      "canonical": "Lady Harrington",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 40,
+      "episodes": [
+        40
+      ],
+      "lines": 7
+    },
+    "Royal Guard": {
+      "canonical": "Royal Guard",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 3,
+      "episodes": [
+        3,
+        40,
+        42,
+        43
+      ],
+      "lines": 6
+    },
+    "Priest": {
+      "canonical": "Priest",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 4,
+      "episodes": [
+        4,
+        41
+      ],
+      "lines": 6
+    },
+    "Lady Ashcroft": {
+      "canonical": "Lady Ashcroft",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 4,
+      "episodes": [
+        4,
+        5
+      ],
+      "lines": 6
+    },
+    "Elder Villager": {
+      "canonical": "Elder Villager",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 19,
+      "episodes": [
+        19
+      ],
+      "lines": 6
+    },
+    "Seamus": {
+      "canonical": "Seamus",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 20,
+      "episodes": [
+        20
+      ],
+      "lines": 6
+    },
+    "Aristocratic Woman": {
+      "canonical": "Aristocratic Woman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 7,
+      "episodes": [
+        7
+      ],
+      "lines": 5
+    },
+    "Constable": {
+      "canonical": "Constable",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 11,
+      "episodes": [
+        11,
+        12
+      ],
+      "lines": 5
+    },
+    "Loyalist Fighter": {
+      "canonical": "Loyalist Fighter",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 39,
+      "episodes": [
+        39
+      ],
+      "lines": 4
+    },
+    "Lord Harrington": {
+      "canonical": "Lord Harrington",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 40,
+      "episodes": [
+        40
+      ],
+      "lines": 4
+    },
+    "Bald Thug": {
+      "canonical": "Bald Thug",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 15,
+      "episodes": [
+        15,
+        16
+      ],
+      "lines": 3
+    },
+    "Guard": {
+      "canonical": "Guard",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 29,
+      "episodes": [
+        29,
+        38
+      ],
+      "lines": 3
+    },
+    "Police Constable": {
+      "canonical": "Police Constable",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 43,
+      "episodes": [
+        43,
+        44
+      ],
+      "lines": 3
+    },
+    "Agnes": {
+      "canonical": "Agnes",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 48,
+      "episodes": [
+        48
+      ],
+      "lines": 3
+    },
+    "Off-screen Voice": {
+      "canonical": "Off-screen Voice",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 2,
+      "episodes": [
+        2
+      ],
+      "lines": 2
+    },
+    "Townsman": {
+      "canonical": "Townsman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 34,
+      "episodes": [
+        34
+      ],
+      "lines": 2
+    },
+    "Loyalist Scout": {
+      "canonical": "Loyalist Scout",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 39,
+      "episodes": [
+        39
+      ],
+      "lines": 2
+    },
+    "Cart Driver": {
+      "canonical": "Cart Driver",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 39,
+      "episodes": [
+        39
+      ],
+      "lines": 2
+    },
+    "Loyalist": {
+      "canonical": "Loyalist",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 39,
+      "episodes": [
+        39
+      ],
+      "lines": 2
+    },
+    "Lady Ashbourne": {
+      "canonical": "Lady Ashbourne",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 47,
+      "episodes": [
+        47
+      ],
+      "lines": 2
+    },
+    "Tall Thug": {
+      "canonical": "Tall Thug",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 15,
+      "episodes": [
+        15
+      ],
+      "lines": 1
+    },
+    "Third Thug": {
+      "canonical": "Third Thug",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 16,
+      "episodes": [
+        16
+      ],
+      "lines": 1
+    },
+    "Old Woman": {
+      "canonical": "Old Woman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 34,
+      "episodes": [
+        34
+      ],
+      "lines": 1
+    },
+    "Butler": {
+      "canonical": "Butler",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 37,
+      "episodes": [
+        37
+      ],
+      "lines": 1
+    },
+    "Royal Sentry": {
+      "canonical": "Royal Sentry",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 39,
+      "episodes": [
+        39
+      ],
+      "lines": 1
+    },
+    "Footman": {
+      "canonical": "Footman",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 40,
+      "episodes": [
+        40
+      ],
+      "lines": 1
+    },
+    "Lord Sterling": {
+      "canonical": "Lord Sterling",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 44,
+      "episodes": [
+        44
+      ],
+      "lines": 1
+    },
+    "Conspirator": {
+      "canonical": "Conspirator",
+      "kind": "role",
+      "aliases": {},
+      "first_episode": 47,
+      "episodes": [
+        47
+      ],
+      "lines": 1
+    },
+    "Vaughn": {
+      "canonical": "Vaughn",
+      "kind": "named",
+      "aliases": {},
+      "first_episode": 47,
+      "episodes": [
+        47
+      ],
+      "lines": 1
+    }
+  },
+  "label_to_canonical": {
+    "MATRIARCH": "Matriarch",
+    "LADY JULIANA": "Juliana",
+    "LADY IN GOLD GOWN": "Clarissa",
+    "FORMER GROOM": "Gerald",
+    "BLOND NOBLEMAN": "Rupert",
+    "OFF-SCREEN VOICE": "Off-screen Voice",
+    "NOBLE MATRIARCH": "Noble Matriarch",
+    "BEARDED STRANGER": "Alexander",
+    "ROYAL GUARD": "Royal Guard",
+    "GERALD": "Gerald",
+    "CLARISSA": "Clarissa",
+    "JULIANA": "Juliana",
+    "MYSTERIOUS BEARDED MAN": "Alexander",
+    "PRIEST": "Priest",
+    "LADY ASHCROFT": "Lady Ashcroft",
+    "LORD ASHCROFT": "Lord Ashcroft",
+    "ARISTOCRATIC WOMAN": "Aristocratic Woman",
+    "SCARRED BEARDED MAN": "Alexander",
+    "ALEXANDER": "Alexander",
+    "PEASANT MOTHER": "Peasant Mother",
+    "CONSTABLE": "Constable",
+    "THUG WITH CAP": "Thug With Cap",
+    "BALD THUG": "Bald Thug",
+    "TALL THUG": "Tall Thug",
+    "THIRD THUG": "Third Thug",
+    "ELDER VILLAGER": "Elder Villager",
+    "INFORMANT": "Informant",
+    "CATHERINE": "Catherine",
+    "RUPERT": "Rupert",
+    "SEAMUS": "Seamus",
+    "PRUDENCE": "Prudence",
+    "HOUSEKEEPER": "Housekeeper",
+    "NOBLEWOMAN": "Noblewoman",
+    "DOWAGER DUCHESS": "Alexander's Mother",
+    "LADY CATHERINE": "Catherine",
+    "GUARD": "Guard",
+    "ELDER NOBLEMAN": "Elder Nobleman",
+    "LORD": "Lord",
+    "MAID": "Maid",
+    "JUDGE": "Judge",
+    "TOWNSMAN": "Townsman",
+    "OLD WOMAN": "Old Woman",
+    "ALEXANDER'S MOTHER": "Alexander's Mother",
+    "BUTLER": "Butler",
+    "LADY CLARISSA": "Clarissa",
+    "NOBLEMAN": "Nobleman",
+    "LOYALIST SCOUT": "Loyalist Scout",
+    "LOYALIST FIGHTER": "Loyalist Fighter",
+    "ROYAL SENTRY": "Royal Sentry",
+    "CART DRIVER": "Cart Driver",
+    "LOYALIST": "Loyalist",
+    "FOOTMAN": "Footman",
+    "LADY HARRINGTON": "Lady Harrington",
+    "LORD HARRINGTON": "Lord Harrington",
+    "CROWN OFFICIAL": "Crown Official",
+    "POLICE CONSTABLE": "Police Constable",
+    "LORD STERLING": "Lord Sterling",
+    "HIGH PRIEST": "High Priest",
+    "CONSPIRATOR": "Conspirator",
+    "LADY ASHBOURNE": "Lady Ashbourne",
+    "VAUGHN": "Vaughn",
+    "AGNES": "Agnes",
+    "FATHER THOMAS": "Father Thomas",
+    "THE FORMER GROOM": "Gerald",
+    "THE BEARDED STRANGER": "Alexander",
+    "THE PRIEST": "Priest"
+  },
+  "unresolved_descriptors": [
+    {
+      "label": "MATRIARCH",
+      "lines": 8,
+      "episodes": [
+        1
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "OFF-SCREEN VOICE",
+      "lines": 2,
+      "episodes": [
+        2
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "NOBLE MATRIARCH",
+      "lines": 11,
+      "episodes": [
+        3
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "ROYAL GUARD",
+      "lines": 6,
+      "episodes": [
+        3,
+        40,
+        42,
+        43
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "PRIEST",
+      "lines": 6,
+      "episodes": [
+        4,
+        41
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "ARISTOCRATIC WOMAN",
+      "lines": 5,
+      "episodes": [
+        7
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "PEASANT MOTHER",
+      "lines": 7,
+      "episodes": [
+        9
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "CONSTABLE",
+      "lines": 5,
+      "episodes": [
+        11,
+        12
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "THUG WITH CAP",
+      "lines": 10,
+      "episodes": [
+        15,
+        16
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "BALD THUG",
+      "lines": 3,
+      "episodes": [
+        15,
+        16
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "TALL THUG",
+      "lines": 1,
+      "episodes": [
+        15
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "THIRD THUG",
+      "lines": 1,
+      "episodes": [
+        16
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "ELDER VILLAGER",
+      "lines": 6,
+      "episodes": [
+        19
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "INFORMANT",
+      "lines": 9,
+      "episodes": [
+        19
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "HOUSEKEEPER",
+      "lines": 7,
+      "episodes": [
+        22
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "NOBLEWOMAN",
+      "lines": 14,
+      "episodes": [
+        24,
+        41
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "GUARD",
+      "lines": 3,
+      "episodes": [
+        29,
+        38
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "ELDER NOBLEMAN",
+      "lines": 19,
+      "episodes": [
+        30,
+        40
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "LORD",
+      "lines": 36,
+      "episodes": [
+        33,
+        34
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "MAID",
+      "lines": 20,
+      "episodes": [
+        33
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "JUDGE",
+      "lines": 19,
+      "episodes": [
+        34
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "TOWNSMAN",
+      "lines": 2,
+      "episodes": [
+        34
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "OLD WOMAN",
+      "lines": 1,
+      "episodes": [
+        34
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "ALEXANDER'S MOTHER",
+      "lines": 39,
+      "episodes": [
+        35,
+        36,
+        42
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "BUTLER",
+      "lines": 1,
+      "episodes": [
+        37
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "NOBLEMAN",
+      "lines": 8,
+      "episodes": [
+        37,
+        41
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "LOYALIST SCOUT",
+      "lines": 2,
+      "episodes": [
+        39
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "LOYALIST FIGHTER",
+      "lines": 4,
+      "episodes": [
+        39
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "ROYAL SENTRY",
+      "lines": 1,
+      "episodes": [
+        39
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "CART DRIVER",
+      "lines": 2,
+      "episodes": [
+        39
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "LOYALIST",
+      "lines": 2,
+      "episodes": [
+        39
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "FOOTMAN",
+      "lines": 1,
+      "episodes": [
+        40
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "CROWN OFFICIAL",
+      "lines": 9,
+      "episodes": [
+        43
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "POLICE CONSTABLE",
+      "lines": 3,
+      "episodes": [
+        43,
+        44
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "HIGH PRIEST",
+      "lines": 22,
+      "episodes": [
+        45,
+        46
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    },
+    {
+      "label": "CONSPIRATOR",
+      "lines": 1,
+      "episodes": [
+        47
+      ],
+      "reason": "descriptor label with no explicit name hint and no entry in the alias file"
+    }
+  ],
+  "episode_memory": {
+    "1": {
+      "number": 1,
+      "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+      "continuity": "First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa.",
+      "picks_up_from": [],
+      "depends_on_previous": false,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [
+        {
+          "relation": "fiancé",
+          "person": "Gerald",
+          "owner_pronoun": "her",
+          "confidence": "low",
+          "evidence": "er the ultimate betrayal when her fiancé Gerald abandons"
+        },
+        {
+          "relation": "sister",
+          "person": "Clarissa",
+          "owner_pronoun": "her",
+          "confidence": "low",
+          "evidence": "abandons her at the altar for her cruel sister Clarissa with her"
+        }
+      ],
+      "characters_present": [
+        "Matriarch",
+        "Juliana",
+        "Clarissa",
+        "Gerald"
+      ],
+      "new_characters": [
+        "Matriarch",
+        "Juliana",
+        "Clarissa",
+        "Gerald"
+      ]
+    },
+    "2": {
+      "number": 2,
+      "logline": "Publicly cast aside at the altar by Gerald for her sister Clarissa and abandoned by her own family, Juliana stands tall and turns her public humiliation into an unyielding indictment of Gerald's honor.",
+      "continuity": "Picks up directly from Episode 1's cliffhanger. Gerald has turned away from Juliana at the altar, leaving her devastated before the entire aristocratic congregation.",
+      "picks_up_from": [
+        1
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [
+        {
+          "relation": "sister",
+          "person": "Clarissa",
+          "owner_pronoun": "her",
+          "confidence": "low",
+          "evidence": "de at the altar by Gerald for her sister Clarissa and aband"
+        }
+      ],
+      "characters_present": [
+        "Gerald",
+        "Juliana",
+        "Rupert",
+        "Clarissa",
+        "Off-screen Voice"
+      ],
+      "new_characters": [
+        "Rupert",
+        "Off-screen Voice"
+      ]
+    },
+    "3": {
+      "number": 3,
+      "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+      "continuity": "Follows directly from Episode 2's confrontation at the altar, where Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation.",
+      "picks_up_from": [
+        2
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "confrontation",
+        "snippet": "Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation",
+        "described_by_episode": 3
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Clarissa",
+        "Juliana",
+        "Noble Matriarch",
+        "Alexander",
+        "Royal Guard",
+        "Gerald"
+      ],
+      "new_characters": [
+        "Noble Matriarch",
+        "Alexander",
+        "Royal Guard"
+      ]
+    },
+    "4": {
+      "number": 4,
+      "logline": "Defying Gerald and Clarissa's cruel mockery, Juliana accepts the mysterious scarred warrior's solemn proposal and is officially wed, choosing exile and dignity over her family's cruelty as they walk out into the light together.",
+      "continuity": "Picks up directly from Episode 3's cliffhanger where the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana.",
+      "picks_up_from": [
+        3
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "the Mysterious Bearded Man dropped to one knee before the altar, presenting a ring to Lady Juliana",
+        "described_by_episode": 4
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Gerald",
+        "Clarissa",
+        "Juliana",
+        "Alexander",
+        "Priest",
+        "Lady Ashcroft"
+      ],
+      "new_characters": [
+        "Priest",
+        "Lady Ashcroft"
+      ]
+    },
+    "5": {
+      "number": 5,
+      "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+      "continuity": "Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.",
+      "picks_up_from": [
+        4
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "ending",
+        "snippet": "Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows",
+        "described_by_episode": 5
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Lord Ashcroft",
+        "Juliana",
+        "Lady Ashcroft",
+        "Clarissa",
+        "Gerald",
+        "Alexander"
+      ],
+      "new_characters": [
+        "Lord Ashcroft"
+      ]
+    },
+    "6": {
+      "number": 6,
+      "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+      "continuity": "Picks up immediately from Episode 5, as Juliana and her mysterious new husband leave the Ashcroft estate behind and venture out into the rainy countryside.",
+      "picks_up_from": [
+        5
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [
+        "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Alexander",
+        "Juliana"
+      ],
+      "new_characters": []
+    },
+    "7": {
+      "number": 7,
+      "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+      "continuity": "Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep.",
+      "picks_up_from": [
+        6
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Aristocratic Woman",
+        "Gerald",
+        "Juliana",
+        "Alexander"
+      ],
+      "new_characters": [
+        "Aristocratic Woman"
+      ]
+    },
+    "8": {
+      "number": 8,
+      "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+      "continuity": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.",
+      "picks_up_from": [
+        7
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "9": {
+      "number": 9,
+      "logline": "When a frantic mother brings her critically ill child to the woodland cottage, Juliana successfully cures him with her mother's herbal remedies, unknowingly igniting dangerous rumors that reach the ears of the Blond Nobleman.",
+      "continuity": "Picks up immediately after Episode 8, continuing the peaceful evening inside the cottage before an urgent knock shatters the calm.",
+      "picks_up_from": [
+        8
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Alexander",
+        "Peasant Mother",
+        "Juliana",
+        "Rupert",
+        "Gerald"
+      ],
+      "new_characters": [
+        "Peasant Mother"
+      ]
+    },
+    "10": {
+      "number": 10,
+      "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+      "continuity": "Follows the ominous revelation from Episode 9 of rumors circulating about a scarred war veteran, cutting directly to the secluded cottage where Alexander arrives bearing fresh wounds.",
+      "picks_up_from": [
+        9
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "revelation",
+        "snippet": "Alexander arrives bearing fresh wounds",
+        "described_by_episode": 10
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "11": {
+      "number": 11,
+      "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+      "continuity": "Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald.",
+      "picks_up_from": [
+        10
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [
+        "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Gerald",
+        "Alexander",
+        "Constable"
+      ],
+      "new_characters": [
+        "Constable"
+      ]
+    },
+    "12": {
+      "number": 12,
+      "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+      "continuity": "Picks up directly from Episode 11's cliffhanger where the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat.",
+      "picks_up_from": [
+        11
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat",
+        "described_by_episode": 12
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Constable",
+        "Juliana",
+        "Gerald",
+        "Alexander",
+        "Clarissa"
+      ],
+      "new_characters": []
+    },
+    "13": {
+      "number": 13,
+      "logline": "Defying Alexander's desperate pleas, Juliana crawls barehanded into the razor-sharp blackthorn garden, enduring brutal lacerations under Clarissa and Gerald's cruel taunts until she unearths the lost emerald signet ring.",
+      "continuity": "Picks up immediately from Episode 12's climax where Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows.",
+      "picks_up_from": [
+        12
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "climax",
+        "snippet": "Juliana demanded to know where the frozen blackthorn garden was located to save Alexander from the gallows",
+        "described_by_episode": 13
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Alexander",
+        "Juliana",
+        "Clarissa",
+        "Gerald"
+      ],
+      "new_characters": []
+    },
+    "14": {
+      "number": 14,
+      "logline": "After Juliana secures Alexander's freedom with the unearthed emerald signet ring, he carries her home to bandage her torn hands, silently swearing that no one will ever harm her again.",
+      "continuity": "Picks up immediately from Episode 13's cliffhanger where Juliana grasped the emerald ring beneath the razor-sharp blackthorns.",
+      "picks_up_from": [
+        13
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "Juliana grasped the emerald ring beneath the razor-sharp blackthorns",
+        "described_by_episode": 14
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "15": {
+      "number": 15,
+      "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+      "continuity": "Follows Episode 14 where Alexander solemnly vowed Juliana would never be hurt again; Juliana's hands remain heavily bandaged from retrieving the emerald ring.",
+      "picks_up_from": [
+        14
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Thug With Cap",
+        "Bald Thug",
+        "Tall Thug"
+      ],
+      "new_characters": [
+        "Thug With Cap",
+        "Bald Thug",
+        "Tall Thug"
+      ]
+    },
+    "16": {
+      "number": 16,
+      "logline": "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind.",
+      "continuity": "Picks up immediately from Episode 15's cliffhanger where Alexander confronted the three thugs in the moonlit garden while Juliana huddled injured on the ground.",
+      "picks_up_from": [
+        15
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "Alexander confronted the three thugs in the moonlit garden while Juliana huddled injured on the ground",
+        "described_by_episode": 16
+      },
+      "revelations": [
+        "When hired thugs attack Juliana's medicinal garden, Alexander unleashes his combat training to effortlessly overpower them, extracting a shocking confession that unmasks Gerald Harrington as the mastermind."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Thug With Cap",
+        "Juliana",
+        "Alexander",
+        "Bald Thug",
+        "Third Thug"
+      ],
+      "new_characters": [
+        "Third Thug"
+      ]
+    },
+    "17": {
+      "number": 17,
+      "logline": "In the aftermath of the brutal attack, Alexander repairs Juliana's devastated garden and swears to protect her with his life, drawing them into a tender, intimate embrace by the hearth.",
+      "continuity": "Picks up the morning after Episode 16's moonlit confrontation where Alexander defended Juliana and defeated Harrington's hired thugs in her medicinal garden.",
+      "picks_up_from": [
+        16
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "confrontation",
+        "snippet": "Alexander defended Juliana and defeated Harrington's hired thugs in her medicinal garden",
+        "described_by_episode": 17
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "18": {
+      "number": 18,
+      "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+      "continuity": "Picks up directly from Episode 17's intimate hearthside moment; their peaceful sanctuary is shattered when arsonists trap Juliana and Alexander inside their burning home.",
+      "picks_up_from": [
+        17
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "19": {
+      "number": 19,
+      "logline": "Standing before the smoldering ash of their home, Juliana and Alexander receive shelter and food from grateful villagers before Alexander meets in secret with a loyal spy, learning that his usurping enemies have imprisoned his mother and claimed his ducal seat.",
+      "continuity": "Picks up directly from Episode 18's devastating fire; Juliana and Alexander stand amidst the morning ruins of Blackwood cottage with her mother's surviving herbal book before retreating to an abandoned barn.",
+      "picks_up_from": [
+        18
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Elder Villager",
+        "Alexander",
+        "Informant"
+      ],
+      "new_characters": [
+        "Elder Villager",
+        "Informant"
+      ]
+    },
+    "20": {
+      "number": 20,
+      "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+      "continuity": "Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.",
+      "picks_up_from": [
+        19
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Rupert",
+        "Seamus",
+        "Juliana"
+      ],
+      "new_characters": [
+        "Catherine",
+        "Seamus"
+      ]
+    },
+    "21": {
+      "number": 21,
+      "logline": "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor.",
+      "continuity": "Directly follows Episode 20's cliffhanger where Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise; in the village, Juliana puts aside her grief over her burned cottage to save young Toby, stumbling upon critical intelligence regarding the manor.",
+      "picks_up_from": [
+        20
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "Catherine and Rupert plotted to seize Ashbury upon the Dowager Duchess's demise",
+        "described_by_episode": 21
+      },
+      "revelations": [
+        "After defying her own despair to cure a fever-stricken village boy with her mother's herbal remedies, Lady Juliana learns that the Dowager Duchess is secretly withering away from a mysterious illness inside Ashbury Manor."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Prudence",
+        "Juliana"
+      ],
+      "new_characters": [
+        "Prudence"
+      ]
+    },
+    "22": {
+      "number": 22,
+      "logline": "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction.",
+      "continuity": "Directly follows Episode 21 where Prudence revealed that the Dowager Duchess is dying from a mysterious illness; Juliana sets aside her aristocratic identity to sneak into Ashbury Manor under the guise of domestic help to save her.",
+      "picks_up_from": [
+        21
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [
+        "Disguised as a common scullery maid, Lady Juliana infiltrates Ashbury Manor alongside Prudence and slips into the forbidden West Wing, where she discovers the dying Dowager Duchess suffering from an unnatural, poisoned affliction."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Prudence",
+        "Juliana",
+        "Housekeeper"
+      ],
+      "new_characters": [
+        "Housekeeper"
+      ]
+    },
+    "23": {
+      "number": 23,
+      "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+      "continuity": "Picks up immediately from the Episode 22 cliffhanger inside the forbidden West Wing of Ashbury Manor, where Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness.",
+      "picks_up_from": [
+        22
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness",
+        "described_by_episode": 23
+      },
+      "revelations": [
+        "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Prudence",
+        "Juliana"
+      ],
+      "new_characters": []
+    },
+    "24": {
+      "number": 24,
+      "logline": "When an arrogant noblewoman catches Juliana in the poisoned Dowager Duchess's chambers, she strikes Juliana with a riding crop and sentences her to scrub the hearth, unaware that Juliana has secretly hidden the antidote and remedy journal to finish the Duchess's cure.",
+      "continuity": "Picks up directly from Episode 23's cliffhanger inside the West Wing bedchamber, as the brass latch turns and the door swings open to reveal an unexpected intruder confronting Lady Juliana and Prudence.",
+      "picks_up_from": [
+        23
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "the brass latch turns and the door swings open to reveal an unexpected intruder confronting Lady Juliana and Prudence",
+        "described_by_episode": 24
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Noblewoman",
+        "Juliana",
+        "Prudence"
+      ],
+      "new_characters": [
+        "Noblewoman"
+      ]
+    },
+    "25": {
+      "number": 25,
+      "logline": "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic.",
+      "continuity": "Picks up immediately following Juliana's ordeal at Ashburg Manor, where she escaped punishment after hiding the antidote and now encounters Alexander awaiting her on the woodland trail.",
+      "picks_up_from": [],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "ordeal",
+        "snippet": "she escaped punishment after hiding the antidote and now encounters Alexander awaiting her on the woodland trail",
+        "described_by_episode": 25
+      },
+      "revelations": [
+        "Deep in the misty forest, Alexander confronts an injured Juliana and uncovers the wound inflicted by Lady Catherine, reacting with fury and protective concern upon learning that someone is systematically poisoning the Dowager Duchess with arsenic."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Alexander",
+        "Juliana"
+      ],
+      "new_characters": []
+    },
+    "26": {
+      "number": 26,
+      "logline": "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity.",
+      "continuity": "Following her encounter with Alexander in the forest where she vowed to protect the Duchess, Juliana sneaks into the bedchamber at Ashburg Manor to deliver the remaining antidote before Rupert and Catherine's poison takes full hold.",
+      "picks_up_from": [],
+      "depends_on_previous": false,
+      "previous_ending": null,
+      "revelations": [
+        "While secretly administering a charcoal antidote to the poisoned Dowager Duchess in the dead of night, Juliana is stunned when the Duchess suddenly recognizes a distinctive family ring on her hand and fiercely demands the truth about her identity."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Alexander's Mother",
+        "Juliana"
+      ],
+      "new_characters": [
+        "Alexander's Mother"
+      ]
+    },
+    "27": {
+      "number": 27,
+      "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+      "continuity": "Picks up immediately from Episode 26's cliffhanger where the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her origin.",
+      "picks_up_from": [
+        26
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her origin",
+        "described_by_episode": 27
+      },
+      "revelations": [
+        "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Alexander's Mother",
+        "Juliana",
+        "Catherine",
+        "Rupert"
+      ],
+      "new_characters": []
+    },
+    "28": {
+      "number": 28,
+      "logline": "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons.",
+      "continuity": "Picks up directly from Episode 27 as Rupert orders the guard to seize Juliana, ignoring the waking Duchess.",
+      "picks_up_from": [
+        27
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [
+        "Rupert and Catherine frame Juliana for poisoning the Duchess despite the bedridden matriarch's protests, uncovering Juliana's true noble identity and her mother's herbarium before ordering her to the castle dungeons."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Juliana",
+        "Rupert",
+        "Alexander's Mother"
+      ],
+      "new_characters": []
+    },
+    "29": {
+      "number": 29,
+      "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+      "continuity": "Follows directly from Episode 28 where Rupert ordered the guards to drag Juliana down to the wet cells while Catherine seized her mother's herbarium.",
+      "picks_up_from": [
+        28
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Catherine",
+        "Guard"
+      ],
+      "new_characters": [
+        "Guard"
+      ]
+    },
+    "30": {
+      "number": 30,
+      "logline": "When rumors of the poisoned Duchess begin spreading among the servants, Rupert and Catherine conspire with an elder nobleman to fabricate a witchcraft charge against Juliana, sealing her fate for the gallows.",
+      "continuity": "Follows directly from Episode 29 where Juliana was locked away in the castle's subterranean wet cells, vowing never to let them take Alexander from her.",
+      "picks_up_from": [
+        29
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Elder Nobleman",
+        "Rupert",
+        "Catherine"
+      ],
+      "new_characters": [
+        "Elder Nobleman"
+      ]
+    },
+    "31": {
+      "number": 31,
+      "logline": "Catherine enters the wet cells armed with a red-hot iron and Juliana's late mother's botanical book, subjecting the chained heiress to ruthless psychological torment until Juliana's unyielding pride pushes Catherine to a violent brink.",
+      "continuity": "Follows directly from Episode 30 where Rupert and Catherine plotted to frame Juliana as a witch while Juliana huddled chained in the subterranean dungeon.",
+      "picks_up_from": [
+        30
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Juliana"
+      ],
+      "new_characters": []
+    },
+    "32": {
+      "number": 32,
+      "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+      "continuity": "Picks up immediately from Episode 31's cliffhanger where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book.",
+      "picks_up_from": [
+        31
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "Catherine used a glowing branding iron to scorch Juliana's mother's herbal book",
+        "described_by_episode": 32
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Juliana"
+      ],
+      "new_characters": []
+    },
+    "33": {
+      "number": 33,
+      "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+      "continuity": "Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.",
+      "picks_up_from": [],
+      "depends_on_previous": false,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Lord",
+        "Maid"
+      ],
+      "new_characters": [
+        "Lord",
+        "Maid"
+      ]
+    },
+    "34": {
+      "number": 34,
+      "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+      "continuity": "Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana.",
+      "picks_up_from": [],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Judge",
+        "Juliana",
+        "Prudence",
+        "Lord",
+        "Townsman",
+        "Old Woman"
+      ],
+      "new_characters": [
+        "Judge",
+        "Townsman",
+        "Old Woman"
+      ]
+    },
+    "35": {
+      "number": 35,
+      "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+      "continuity": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.",
+      "picks_up_from": [],
+      "depends_on_previous": false,
+      "previous_ending": null,
+      "revelations": [
+        "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Alexander's Mother",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "36": {
+      "number": 36,
+      "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+      "continuity": "Picking up immediately from the revelation in Episode 35 that the men ruling Ashwood orchestrated Alexander's ambush, Alexander learns of Juliana's imprisonment and looming execution.",
+      "picks_up_from": [
+        35
+      ],
+      "depends_on_previous": false,
+      "previous_ending": {
+        "type": "revelation",
+        "snippet": "the men ruling Ashwood orchestrated Alexander's ambush, Alexander learns of Juliana's imprisonment and looming execution",
+        "described_by_episode": 36
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Alexander's Mother",
+        "Alexander"
+      ],
+      "new_characters": []
+    },
+    "37": {
+      "number": 37,
+      "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+      "continuity": "Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution.",
+      "picks_up_from": [],
+      "depends_on_previous": false,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Rupert",
+        "Catherine",
+        "Butler",
+        "Clarissa",
+        "Nobleman",
+        "Juliana"
+      ],
+      "new_characters": [
+        "Butler",
+        "Nobleman"
+      ]
+    },
+    "38": {
+      "number": 38,
+      "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+      "continuity": "Following Rupert and Catherine's cruel announcement pairing their wedding with Juliana's public execution, Juliana remains starved in the subterranean dungeon awaiting her fate.",
+      "picks_up_from": [],
+      "depends_on_previous": false,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Guard"
+      ],
+      "new_characters": []
+    },
+    "39": {
+      "number": 39,
+      "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+      "continuity": "Picks up as the wedding bells toll for Rupert and Catherine's ceremony. While Juliana prepares for execution in the dungeon below, Alexander's coordinated strike to liberate the cathedral and reclaim his birthright begins.",
+      "picks_up_from": [],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Loyalist Scout",
+        "Loyalist Fighter",
+        "Royal Sentry",
+        "Cart Driver",
+        "Alexander",
+        "Loyalist"
+      ],
+      "new_characters": [
+        "Loyalist Scout",
+        "Loyalist Fighter",
+        "Royal Sentry",
+        "Cart Driver",
+        "Loyalist"
+      ]
+    },
+    "40": {
+      "number": 40,
+      "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+      "continuity": "Picks up right after Alexander commands his men to secure the chapel and vows to reclaim his house and rescue Juliana; inside the cathedral, the wedding guests arrive and the conspirators finalize their sinister plot.",
+      "picks_up_from": [],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Footman",
+        "Lady Harrington",
+        "Lord Harrington",
+        "Rupert",
+        "Elder Nobleman",
+        "Royal Guard",
+        "Catherine"
+      ],
+      "new_characters": [
+        "Footman",
+        "Lady Harrington",
+        "Lord Harrington"
+      ]
+    },
+    "41": {
+      "number": 41,
+      "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+      "continuity": "Follows Episode 40 where Rupert and Catherine met at the altar; Catherine halts the vows to stage a public humiliation of Juliana, unaware that Alexander's forces are already detonating the cathedral gates.",
+      "picks_up_from": [
+        40
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Rupert",
+        "Noblewoman",
+        "Nobleman",
+        "Juliana",
+        "Priest"
+      ],
+      "new_characters": []
+    },
+    "42": {
+      "number": 42,
+      "logline": "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother.",
+      "continuity": "Directly follows Episode 41 where Alexander's forces breached the cathedral entrance; Alexander now steps through the ruins, halting the wedding and unmasking Rupert's illegitimate reign.",
+      "picks_up_from": [
+        41
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [
+        "Emerging from the smoke of the shattered cathedral gates in full ducal regalia, Alexander confronts Rupert, wins the loyalty of the royal guards, and is proclaimed the rightful Duke of Ashburn by his weeping mother."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Rupert",
+        "Alexander",
+        "Juliana",
+        "Royal Guard",
+        "Catherine",
+        "Alexander's Mother"
+      ],
+      "new_characters": []
+    },
+    "43": {
+      "number": 43,
+      "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+      "continuity": "Follows directly from Episode 42; inside the ruined cathedral, Alexander confronts Rupert before the congregation, armed with evidence from the Crown to reclaim his rightful title.",
+      "picks_up_from": [
+        42
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [
+        "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Rupert",
+        "Royal Guard",
+        "Alexander",
+        "Crown Official",
+        "Alexander's Mother",
+        "Catherine",
+        "Police Constable"
+      ],
+      "new_characters": [
+        "Crown Official",
+        "Police Constable"
+      ]
+    },
+    "44": {
+      "number": 44,
+      "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+      "continuity": "Picks up immediately from Episode 43's cliffhanger at the church side exit; Lord Sterling's escape is blocked by the Police Constable, leading into the downfall of the conspirators.",
+      "picks_up_from": [
+        43
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Police Constable",
+        "Lord Sterling",
+        "Rupert",
+        "Catherine",
+        "Alexander"
+      ],
+      "new_characters": [
+        "Lord Sterling"
+      ]
+    },
+    "45": {
+      "number": 45,
+      "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+      "continuity": "Picks up directly from Episode 44's climax where Alexander walked away from Catherine towards Juliana standing in chains at the church doorway.",
+      "picks_up_from": [
+        44
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "climax",
+        "snippet": "Alexander walked away from Catherine towards Juliana standing in chains at the church doorway",
+        "described_by_episode": 45
+      },
+      "revelations": [
+        "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid."
+      ],
+      "relationships": [],
+      "characters_present": [
+        "Juliana",
+        "Alexander",
+        "Catherine",
+        "Rupert",
+        "High Priest"
+      ],
+      "new_characters": [
+        "High Priest"
+      ]
+    },
+    "46": {
+      "number": 46,
+      "logline": "The High Priest places the sanctuary under Crown seizure and invalidates Alexander and Juliana's wedding for lack of royal license, prompting Alexander to demand a ten-day ecclesiastical trial while Catherine schemes to destroy them.",
+      "continuity": "Picks up directly from Episode 45's cliffhanger where the High Priest stormed into the church with royal guards and challenged the legality of Alexander and Juliana's marriage.",
+      "picks_up_from": [
+        45
+      ],
+      "depends_on_previous": true,
+      "previous_ending": {
+        "type": "cliffhanger",
+        "snippet": "the High Priest stormed into the church with royal guards and challenged the legality of Alexander and Juliana's marriage",
+        "described_by_episode": 46
+      },
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "High Priest",
+        "Alexander",
+        "Juliana",
+        "Catherine"
+      ],
+      "new_characters": []
+    },
+    "47": {
+      "number": 47,
+      "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+      "continuity": "Follows Episode 46's ecclesiastical challenge by the High Priest. While Catherine plots in secret to remain on the estate, the morning brings her disgrace to light as Juliana decides her fate.",
+      "picks_up_from": [
+        46
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Conspirator",
+        "Juliana",
+        "Alexander",
+        "Lady Ashbourne",
+        "Vaughn"
+      ],
+      "new_characters": [
+        "Conspirator",
+        "Lady Ashbourne",
+        "Vaughn"
+      ]
+    },
+    "48": {
+      "number": 48,
+      "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+      "continuity": "Directly follows Episode 47's public disgrace where Catherine bowed to Juliana and accepted the position of a maid; in private, Catherine sheds her feigned defeat and initiates her counter-plot.",
+      "picks_up_from": [
+        47
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Agnes"
+      ],
+      "new_characters": [
+        "Agnes"
+      ]
+    },
+    "49": {
+      "number": 49,
+      "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+      "continuity": "Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.",
+      "picks_up_from": [],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Father Thomas"
+      ],
+      "new_characters": [
+        "Father Thomas"
+      ]
+    },
+    "50": {
+      "number": 50,
+      "logline": "Following their illicit passion in the abandoned manor wing, Catherine negotiates Father Thomas's corrupt silence with territorial control—unaware that Agnes has walked in and witnessed their scandalous intimacy.",
+      "continuity": "Directly follows Episode 49, where Father Thomas and Catherine sealed their covert alliance in the secluded wing; now, their secret affair deepens into political extortion before being shattered by an unexpected witness.",
+      "picks_up_from": [
+        49
+      ],
+      "depends_on_previous": true,
+      "previous_ending": null,
+      "revelations": [],
+      "relationships": [],
+      "characters_present": [
+        "Catherine",
+        "Father Thomas"
+      ],
+      "new_characters": []
+    }
+  }
+}

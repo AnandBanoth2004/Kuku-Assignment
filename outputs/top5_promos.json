@@ -1,0 +1,2711 @@
+[
+  {
+    "promo_id": "P-E003-0058.30-0089.30",
+    "rank": 1,
+    "in_top5": true,
+    "top5_rank": 1,
+    "title": "E3: Confrontation — “And who are you to give orders in my family's chape…”",
+    "episodes": [
+      3
+    ],
+    "total_duration": 31.0,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "flagged",
+    "flags": [
+      "limited standalone clarity (5.7)"
+    ],
+    "reasons": [],
+    "segments": [
+      {
+        "episode": 3,
+        "source_file": "episode-003-Episode 1671705.txt",
+        "scene_numbers": [
+          2,
+          3
+        ],
+        "start": 58.3,
+        "end": 89.3,
+        "start_ts": "00:58.30",
+        "end_ts": "01:29.30",
+        "duration": 31.0,
+        "selected_dialogue": [
+          {
+            "element_id": "E003-S02-030",
+            "kind": "dialogue",
+            "speaker": "NOBLE MATRIARCH",
+            "delivery": [
+              "Shouting",
+              "Imperious"
+            ],
+            "voice": null,
+            "text": "Guards! Remove her!",
+            "start": 58.3,
+            "end": 60.0,
+            "start_ts": "00:58.30",
+            "end_ts": "01:00.00",
+            "line_no": 205,
+            "canonical": "Noble Matriarch"
+          },
+          {
+            "element_id": "E003-S02-033",
+            "kind": "dialogue",
+            "speaker": "LADY JULIANA",
+            "delivery": [
+              "Screaming",
+              "Resisting"
+            ],
+            "voice": null,
+            "text": "Let me go!",
+            "start": 60.6,
+            "end": 62.3,
+            "start_ts": "01:00.60",
+            "end_ts": "01:02.30",
+            "line_no": 217,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E003-S02-035",
+            "kind": "dialogue",
+            "speaker": "LADY JULIANA",
+            "delivery": [
+              "Desperate",
+              "Begging"
+            ],
+            "voice": null,
+            "text": "Please! Someone!",
+            "start": 62.4,
+            "end": 63.5,
+            "start_ts": "01:02.40",
+            "end_ts": "01:03.50",
+            "line_no": 225,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E003-S03-005",
+            "kind": "dialogue",
+            "speaker": "THE BEARDED STRANGER",
+            "delivery": [
+              "Low",
+              "Thunderous",
+              "Imposing"
+            ],
+            "voice": null,
+            "text": "Take your hands off her.",
+            "start": 69.9,
+            "end": 72.1,
+            "start_ts": "01:09.90",
+            "end_ts": "01:12.10",
+            "line_no": 260,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E003-S03-008",
+            "kind": "dialogue",
+            "speaker": "NOBLE MATRIARCH",
+            "delivery": [
+              "Indignant",
+              "Screeching"
+            ],
+            "voice": null,
+            "text": "And who are you to give orders in my family's chapel?!",
+            "start": 73.0,
+            "end": 76.8,
+            "start_ts": "01:13.00",
+            "end_ts": "01:16.80",
+            "line_no": 272,
+            "canonical": "Noble Matriarch"
+          },
+          {
+            "element_id": "E003-S03-011",
+            "kind": "dialogue",
+            "speaker": "ROYAL GUARD",
+            "delivery": [
+              "Aggressive",
+              "Threatening"
+            ],
+            "voice": null,
+            "text": "Stand aside, stranger!",
+            "start": 77.2,
+            "end": 78.9,
+            "start_ts": "01:17.20",
+            "end_ts": "01:18.90",
+            "line_no": 284,
+            "canonical": "Royal Guard"
+          },
+          {
+            "element_id": "E003-S03-013",
+            "kind": "dialogue",
+            "speaker": "THE BEARDED STRANGER",
+            "delivery": [
+              "Quiet",
+              "Deadly"
+            ],
+            "voice": null,
+            "text": "I said...",
+            "start": 79.3,
+            "end": 80.9,
+            "start_ts": "01:19.30",
+            "end_ts": "01:20.90",
+            "line_no": 292,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E003-S03-015",
+            "kind": "dialogue",
+            "speaker": "THE BEARDED STRANGER",
+            "delivery": [
+              "Dangerous",
+              "Uncompromising"
+            ],
+            "voice": null,
+            "text": "...let her go.",
+            "start": 81.8,
+            "end": 83.9,
+            "start_ts": "01:21.80",
+            "end_ts": "01:23.90",
+            "line_no": 300,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E003-S03-020",
+            "kind": "dialogue",
+            "speaker": "THE FORMER GROOM",
+            "delivery": [
+              "Frantic",
+              "Shouting"
+            ],
+            "voice": null,
+            "text": "What are you waiting for?! He's only one man!",
+            "start": 85.6,
+            "end": 88.0,
+            "start_ts": "01:25.60",
+            "end_ts": "01:28.00",
+            "line_no": 320,
+            "canonical": "Gerald"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E003-S02-032",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The guards forcefully grab Juliana by both shoulders and drag her backwards.",
+            "start": 60.5,
+            "end": 62.5,
+            "start_ts": "01:00.50",
+            "end_ts": "01:02.50",
+            "line_no": 213
+          },
+          {
+            "element_id": "E003-S02-036",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The guards tear her grip away from the pew.",
+            "start": 63.0,
+            "end": 64.5,
+            "start_ts": "01:03.00",
+            "end_ts": "01:04.50",
+            "line_no": 229
+          },
+          {
+            "element_id": "E003-S02-037",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone.",
+            "start": 63.0,
+            "end": 64.5,
+            "start_ts": "01:03.00",
+            "end_ts": "01:04.50",
+            "line_no": 233
+          },
+          {
+            "element_id": "E003-S03-003",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing.",
+            "start": 66.0,
+            "end": 68.1,
+            "start_ts": "01:06.00",
+            "end_ts": "01:08.10",
+            "line_no": 252
+          },
+          {
+            "element_id": "E003-S03-017",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor.",
+            "start": 84.0,
+            "end": 85.5,
+            "start_ts": "01:24.00",
+            "end_ts": "01:25.50",
+            "line_no": 308
+          },
+          {
+            "element_id": "E003-S03-018",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor.",
+            "start": 84.5,
+            "end": 85.4,
+            "start_ts": "01:24.50",
+            "end_ts": "01:25.40",
+            "line_no": 312
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E003-S02-031",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms.",
+            "start": 60.0,
+            "end": 62.0,
+            "start_ts": "01:00.00",
+            "end_ts": "01:02.00",
+            "line_no": 209
+          },
+          {
+            "element_id": "E003-S02-034",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain.",
+            "start": 62.0,
+            "end": 63.2,
+            "start_ts": "01:02.00",
+            "end_ts": "01:03.20",
+            "line_no": 221
+          },
+          {
+            "element_id": "E003-S03-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana.",
+            "start": 64.5,
+            "end": 66.0,
+            "start_ts": "01:04.50",
+            "end_ts": "01:06.00",
+            "line_no": 244
+          },
+          {
+            "element_id": "E003-S03-002",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave.",
+            "start": 66.0,
+            "end": 68.1,
+            "start_ts": "01:06.00",
+            "end_ts": "01:08.10",
+            "line_no": 248
+          },
+          {
+            "element_id": "E003-S03-004",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on the Noble Matriarch freezing in utter shock and outrage.",
+            "start": 68.1,
+            "end": 70.5,
+            "start_ts": "01:08.10",
+            "end_ts": "01:10.50",
+            "line_no": 256
+          },
+          {
+            "element_id": "E003-S03-006",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose.",
+            "start": 70.5,
+            "end": 72.8,
+            "start_ts": "01:10.50",
+            "end_ts": "01:12.80",
+            "line_no": 264
+          },
+          {
+            "element_id": "E003-S03-007",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him.",
+            "start": 72.8,
+            "end": 75.1,
+            "start_ts": "01:12.80",
+            "end_ts": "01:15.10",
+            "line_no": 268
+          },
+          {
+            "element_id": "E003-S03-009",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle.",
+            "start": 75.1,
+            "end": 77.0,
+            "start_ts": "01:15.10",
+            "end_ts": "01:17.00",
+            "line_no": 276
+          },
+          {
+            "element_id": "E003-S03-010",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him.",
+            "start": 77.0,
+            "end": 79.0,
+            "start_ts": "01:17.00",
+            "end_ts": "01:19.00",
+            "line_no": 280
+          },
+          {
+            "element_id": "E003-S03-012",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve.",
+            "start": 79.0,
+            "end": 81.0,
+            "start_ts": "01:19.00",
+            "end_ts": "01:21.00",
+            "line_no": 288
+          },
+          {
+            "element_id": "E003-S03-014",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on The Bearded Stranger's intense, scarred face.",
+            "start": 81.0,
+            "end": 84.0,
+            "start_ts": "01:21.00",
+            "end_ts": "01:24.00",
+            "line_no": 296
+          },
+          {
+            "element_id": "E003-S03-016",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium action shot as the guard charges toward The Bearded Stranger.",
+            "start": 84.0,
+            "end": 85.5,
+            "start_ts": "01:24.00",
+            "end_ts": "01:25.50",
+            "line_no": 304
+          },
+          {
+            "element_id": "E003-S03-019",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking.",
+            "start": 85.5,
+            "end": 88.1,
+            "start_ts": "01:25.50",
+            "end_ts": "01:28.10",
+            "line_no": 316
+          },
+          {
+            "element_id": "E003-S03-021",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana.",
+            "start": 88.1,
+            "end": 89.3,
+            "start_ts": "01:28.10",
+            "end_ts": "01:29.30",
+            "line_no": 324
+          }
+        ],
+        "event_description": "Confrontation between Alexander & Noble Matriarch & Royal Guard - peak line \"And who are you to give orders in my family's chapel?!\"",
+        "source_lines": [
+          205,
+          324
+        ]
+      }
+    ],
+    "hook": {
+      "score": 8.03,
+      "element_id": "E003-S02-030",
+      "text": "Guards! Remove her!",
+      "kind": "dialogue",
+      "speaker": "NOBLE MATRIARCH",
+      "timestamp": 58.3,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording",
+        "intense delivery (Shouting, Imperious)",
+        "direct address / command"
+      ],
+      "explanation": "Noble Matriarch Says \"Guards! Remove her!\" 0.0s in. Cues: high-stakes wording; intense delivery (Shouting, Imperious); direct address / command.",
+      "timestamp_str": "00:58.30"
+    },
+    "cliffhanger": {
+      "score": 6.78,
+      "element_id": "E003-S03-020",
+      "text": "What are you waiting for?! He's only one man!",
+      "kind": "dialogue",
+      "speaker": "THE FORMER GROOM",
+      "timestamp": 89.3,
+      "cues": [
+        "sudden event / shock image: A heavy, bone-rattling punch followed by the clatter and thud of the g",
+        "lingering reaction shot (supporting)",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "The Bearded Stranger: \"Are you hurt?\"",
+      "explanation": "Ends on The Former Groom: \"What are you waiting for?! He's only one man!\" Open because: sudden event / shock image: A heavy, bone-rattling punch followed by the clatter and thud of the g; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+      "timestamp_str": "01:29.30",
+      "anchor_start": 85.6,
+      "anchor_end": 88.0
+    },
+    "narrative_summary": "Noble Matriarch & Juliana & Alexander — Confrontation between Alexander & Noble Matriarch & Royal Guard - peak line \"And who are you to give orders in my family's chapel?!\". Opens on NOBLE MATRIARCH: “Guards! Remove her!” and cuts at The Former Groom: “What are you waiting for?! He's only one man!”. 9 spoken line(s) across scene(s) 2, 3 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Emotion 9.8/10 — Peak beat \"The guards forcefully grab Juliana by both shoulders and drag her backwards.\" (intensity 0.87); average over 15 spoken/physical beats 0.57. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns. Hook 8.0/10 — Noble Matriarch Says \"Guards! Remove her!\" 0.0s in. Cues: high-stakes wording; intense delivery (Shouting, Imperious); direct address / command. Cliffhanger 6.8/10 — Ends on The Former Groom: \"What are you waiting for?! He's only one man!\" Open because: sudden event / shock image: A heavy, bone-rattling punch followed by the clatter and thud of the g; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Flag: limited standalone clarity (5.7)",
+      "Needs context: Lady Juliana is never addressed by name in the clip",
+      "Speaker label(s) never resolved to a name by the continuity layer: NOBLE MATRIARCH, ROYAL GUARD"
+    ],
+    "context_required": [
+      "Lady Juliana is never addressed by name in the clip"
+    ],
+    "spoiler_risk": "low",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Noble Matriarch",
+      "Juliana",
+      "Alexander",
+      "Royal Guard",
+      "Gerald"
+    ],
+    "event_category": "confrontation",
+    "secondary_category": "power_shift",
+    "scoring": {
+      "components": {
+        "hook": 8.03,
+        "cliff": 6.78,
+        "emotion": 9.78,
+        "standalone": 5.72,
+        "coherence": 7.82,
+        "character": 6.21
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 76.09,
+      "cap": 92.8,
+      "capped": false,
+      "final": 76.09,
+      "explanations": {
+        "hook": "Noble Matriarch Says \"Guards! Remove her!\" 0.0s in. Cues: high-stakes wording; intense delivery (Shouting, Imperious); direct address / command.",
+        "cliff": "Ends on The Former Groom: \"What are you waiting for?! He's only one man!\" Open because: sudden event / shock image: A heavy, bone-rattling punch followed by the clatter and thud of the g; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"The guards forcefully grab Juliana by both shoulders and drag her backwards.\" (intensity 0.87); average over 15 spoken/physical beats 0.57. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 5 speaker(s); situation cues: authority, danger, emotion, family; 2/9 lines self-contained; Lady Juliana is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: crosses a scene change with a different cast.",
+        "character": "5 speaking role(s) (Noble Matriarch, Juliana, Alexander, Royal Guard, Gerald); outside the easy 2-4 range; identification 0.76."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.76,
+          "situation": 0.9,
+          "self_contained": 0.22,
+          "simplicity": 0.5,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Lady Juliana is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "NOBLE MATRIARCH",
+            "LADY JULIANA",
+            "THE BEARDED STRANGER",
+            "ROYAL GUARD",
+            "THE FORMER GROOM"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 0.65,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 0.79,
+              "scene_cross": true,
+              "notes": [
+                "crosses a scene change with a different cast"
+              ]
+            }
+          ],
+          "duration_fit": 1.0
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 50
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E013-0045.80-0080.50",
+    "rank": 2,
+    "in_top5": true,
+    "top5_rank": 2,
+    "title": "E13: Confrontation — “Please... enough!”",
+    "episodes": [
+      13
+    ],
+    "total_duration": 34.7,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "eligible",
+    "flags": [],
+    "reasons": [],
+    "segments": [
+      {
+        "episode": 13,
+        "source_file": "episode-013-Episode 1671715.txt",
+        "scene_numbers": [
+          2
+        ],
+        "start": 45.8,
+        "end": 80.5,
+        "start_ts": "00:45.80",
+        "end_ts": "01:20.50",
+        "duration": 34.7,
+        "selected_dialogue": [
+          {
+            "element_id": "E013-S02-004",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Screaming",
+              "Panicked"
+            ],
+            "voice": null,
+            "text": "Juliana, stop!",
+            "start": 47.2,
+            "end": 48.8,
+            "start_ts": "00:47.20",
+            "end_ts": "00:48.80",
+            "line_no": 133,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E013-S02-008",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Strangled",
+              "Weeping"
+            ],
+            "voice": null,
+            "text": "Please...",
+            "start": 51.5,
+            "end": 52.6,
+            "start_ts": "00:51.50",
+            "end_ts": "00:52.60",
+            "line_no": 149,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E013-S02-012",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Gasping in Pain"
+            ],
+            "voice": null,
+            "text": "No...",
+            "start": 54.5,
+            "end": 55.8,
+            "start_ts": "00:54.50",
+            "end_ts": "00:55.80",
+            "line_no": 165,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E013-S02-014",
+            "kind": "dialogue",
+            "speaker": "CLARISSA",
+            "delivery": [
+              "Gleeful",
+              "Derisive"
+            ],
+            "voice": "O.S.",
+            "text": "Look at her hands.",
+            "start": 57.2,
+            "end": 58.6,
+            "start_ts": "00:57.20",
+            "end_ts": "00:58.60",
+            "line_no": 173,
+            "canonical": "Clarissa"
+          },
+          {
+            "element_id": "E013-S02-016",
+            "kind": "dialogue",
+            "speaker": "CLARISSA",
+            "delivery": [
+              "Mocking",
+              "Spiteful"
+            ],
+            "voice": null,
+            "text": "The lady has finally found something worthy of her.",
+            "start": 58.8,
+            "end": 61.8,
+            "start_ts": "00:58.80",
+            "end_ts": "01:01.80",
+            "line_no": 181,
+            "canonical": "Clarissa"
+          },
+          {
+            "element_id": "E013-S02-019",
+            "kind": "dialogue",
+            "speaker": "GERALD",
+            "delivery": [
+              "Taunting",
+              "Cruel"
+            ],
+            "voice": null,
+            "text": "Keep searching, Juliana. Your husband's freedom is somewhere in that garden.",
+            "start": 62.2,
+            "end": 67.0,
+            "start_ts": "01:02.20",
+            "end_ts": "01:07.00",
+            "line_no": 193,
+            "canonical": "Gerald"
+          },
+          {
+            "element_id": "E013-S02-023",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Desperate",
+              "Choked"
+            ],
+            "voice": null,
+            "text": "Please... enough!",
+            "start": 71.4,
+            "end": 73.8,
+            "start_ts": "01:11.40",
+            "end_ts": "01:13.80",
+            "line_no": 209,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E013-S02-027",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Screaming in Pain"
+            ],
+            "voice": null,
+            "text": "Ah!",
+            "start": 78.5,
+            "end": 80.5,
+            "start_ts": "01:18.50",
+            "end_ts": "01:20.50",
+            "line_no": 225,
+            "canonical": "Juliana"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E013-S02-001",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.",
+            "start": 45.8,
+            "end": 47.0,
+            "start_ts": "00:45.80",
+            "end_ts": "00:47.00",
+            "line_no": 121
+          },
+          {
+            "element_id": "E013-S02-005",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Rattling of heavy iron chains.",
+            "start": 47.8,
+            "end": 49.2,
+            "start_ts": "00:47.80",
+            "end_ts": "00:49.20",
+            "line_no": 137
+          },
+          {
+            "element_id": "E013-S02-006",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana crawls forward on all fours, lowering her head under the jagged, arching thorns.",
+            "start": 50.0,
+            "end": 53.0,
+            "start_ts": "00:50.00",
+            "end_ts": "00:53.00",
+            "line_no": 141
+          },
+          {
+            "element_id": "E013-S02-011",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Sharp blackthorn spines rake across Juliana's fingers and knuckles, carving bloody gashes across her skin.",
+            "start": 54.0,
+            "end": 56.5,
+            "start_ts": "00:54.00",
+            "end_ts": "00:56.50",
+            "line_no": 161
+          },
+          {
+            "element_id": "E013-S02-017",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Gerald leans his hands on the terrace railing, sneering callously.",
+            "start": 62.0,
+            "end": 64.0,
+            "start_ts": "01:02.00",
+            "end_ts": "01:04.00",
+            "line_no": 185
+          },
+          {
+            "element_id": "E013-S02-021",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Sickening crunch and scrape of thorns slicing through flesh.",
+            "start": 68.5,
+            "end": 70.2,
+            "start_ts": "01:08.50",
+            "end_ts": "01:10.20",
+            "line_no": 201
+          },
+          {
+            "element_id": "E013-S02-025",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana drags her body across the frozen, cracked soil beneath the dense roof of briars.",
+            "start": 74.5,
+            "end": 78.0,
+            "start_ts": "01:14.50",
+            "end_ts": "01:18.00",
+            "line_no": 217
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E013-S02-002",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Juliana kneeling on the frozen soil at the edge of the briars.",
+            "start": 45.8,
+            "end": 47.0,
+            "start_ts": "00:45.80",
+            "end_ts": "00:47.00",
+            "line_no": 125
+          },
+          {
+            "element_id": "E013-S02-003",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Alexander lunging forward with chained hands raised high, roaring in fury as the Constable grabs him.",
+            "start": 47.0,
+            "end": 50.0,
+            "start_ts": "00:47.00",
+            "end_ts": "00:50.00",
+            "line_no": 129
+          },
+          {
+            "element_id": "E013-S02-007",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Eye-level shot looking through the thorny thicket at Juliana crawling deeper into the briars.",
+            "start": 50.0,
+            "end": 52.0,
+            "start_ts": "00:50.00",
+            "end_ts": "00:52.00",
+            "line_no": 145
+          },
+          {
+            "element_id": "E013-S02-009",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Extreme close-up of Alexander's anguished face as he strains furiously against his handcuffs.",
+            "start": 52.0,
+            "end": 53.5,
+            "start_ts": "00:52.00",
+            "end_ts": "00:53.50",
+            "line_no": 153
+          },
+          {
+            "element_id": "E013-S02-010",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Ground-level shot of Juliana's bare hands reaching out onto the cracked, frozen ground.",
+            "start": 53.5,
+            "end": 56.0,
+            "start_ts": "00:53.50",
+            "end_ts": "00:56.00",
+            "line_no": 157
+          },
+          {
+            "element_id": "E013-S02-013",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Extreme close-up of Juliana's hand scraping against the frost-covered stone, bright red blood welling from deep puncture wounds.",
+            "start": 56.0,
+            "end": 58.2,
+            "start_ts": "00:56.00",
+            "end_ts": "00:58.20",
+            "line_no": 169
+          },
+          {
+            "element_id": "E013-S02-015",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot on the balcony as Clarissa gleefully points down at Juliana, Gerald chuckling beside her.",
+            "start": 58.2,
+            "end": 62.0,
+            "start_ts": "00:58.20",
+            "end_ts": "01:02.00",
+            "line_no": 177
+          },
+          {
+            "element_id": "E013-S02-018",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Low-angle medium close-up of Gerald shouting down into the garden.",
+            "start": 62.0,
+            "end": 67.5,
+            "start_ts": "01:02.00",
+            "end_ts": "01:07.50",
+            "line_no": 189
+          },
+          {
+            "element_id": "E013-S02-020",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Macro close-up of a massive blackthorn needle stabbing deep into the back of Juliana's bleeding hand.",
+            "start": 67.5,
+            "end": 71.2,
+            "start_ts": "01:07.50",
+            "end_ts": "01:11.20",
+            "line_no": 197
+          },
+          {
+            "element_id": "E013-S02-022",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Alexander struggling in agony, tears forming in his eyes.",
+            "start": 71.2,
+            "end": 74.0,
+            "start_ts": "01:11.20",
+            "end_ts": "01:14.00",
+            "line_no": 205
+          },
+          {
+            "element_id": "E013-S02-024",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Wide tunnel shot through the briars as Juliana crawls deeper into the dark, frozen tangle.",
+            "start": 74.0,
+            "end": 78.0,
+            "start_ts": "01:14.00",
+            "end_ts": "01:18.00",
+            "line_no": 213
+          },
+          {
+            "element_id": "E013-S02-026",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Juliana's hand getting snagged between two vicious thorns, tearing her sleeve and flesh.",
+            "start": 78.0,
+            "end": 80.5,
+            "start_ts": "01:18.00",
+            "end_ts": "01:20.50",
+            "line_no": 221
+          }
+        ],
+        "event_description": "Confrontation between Gerald & Alexander & Juliana - peak line \"Please... enough!\"",
+        "source_lines": [
+          121,
+          225
+        ]
+      }
+    ],
+    "hook": {
+      "score": 7.21,
+      "element_id": "E013-S02-001",
+      "text": "Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath.",
+      "kind": "action",
+      "speaker": null,
+      "timestamp": 45.8,
+      "in_first_3s": true,
+      "cues": [
+        "strong physical / visual shock"
+      ],
+      "explanation": "Shows: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath. 0.0s in. Cues: strong physical / visual shock.",
+      "timestamp_str": "00:45.80"
+    },
+    "cliffhanger": {
+      "score": 6.78,
+      "element_id": "E013-S02-027",
+      "text": "Ah!",
+      "kind": "dialogue",
+      "speaker": "JULIANA",
+      "timestamp": 80.5,
+      "cues": [
+        "sudden event / shock image: Juliana drags her body across the frozen, cracked soil beneath the den",
+        "lingering reaction shot (supporting)",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Alexander: \"Stop!\"",
+      "explanation": "Ends on Juliana: \"Ah!\" Open because: sudden event / shock image: Juliana drags her body across the frozen, cracked soil beneath the den; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+      "timestamp_str": "01:20.50",
+      "anchor_start": 78.5,
+      "anchor_end": 80.5
+    },
+    "narrative_summary": "Alexander & Juliana & Clarissa — Confrontation between Gerald & Alexander & Juliana - peak line \"Please... enough!\". Opens on the screen: “Juliana drops to her knees in front of the frozen blackthorn branches, steadyin…” and cuts at Juliana: “Ah!”. 8 spoken line(s) across scene(s) 2 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Emotion 8.1/10 — Peak beat \"Juliana drops to her knees in front of the frozen blackthorn branches, steady...\" (intensity 0.86); average over 15 spoken/physical beats 0.41. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns. Hook 7.2/10 — Shows: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath. 0.0s in. Cues: strong physical / visual shock. Standalone clarity 6.8/10 — First-time-viewer proxy: 4 speaker(s); situation cues: authority, danger, emotion, marriage; 3/8 lines self-contained; Alexander is never addressed by name in the clip; Clarissa is never addressed by name in the clip.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Needs context: Alexander is never addressed by name in the clip",
+      "Needs context: Clarissa is never addressed by name in the clip",
+      "Needs context: Gerald is never addressed by name in the clip"
+    ],
+    "context_required": [
+      "Alexander is never addressed by name in the clip",
+      "Clarissa is never addressed by name in the clip",
+      "Gerald is never addressed by name in the clip",
+      "Gerald (introduced in episode 1) is not named in this moment",
+      "Alexander (introduced in episode 3) is not named in this moment"
+    ],
+    "spoiler_risk": "low",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Alexander",
+      "Juliana",
+      "Clarissa",
+      "Gerald"
+    ],
+    "event_category": "confrontation",
+    "secondary_category": "emotional_breakdown",
+    "scoring": {
+      "components": {
+        "hook": 7.21,
+        "cliff": 6.78,
+        "emotion": 8.07,
+        "standalone": 6.83,
+        "coherence": 10.0,
+        "character": 8.35
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 75.53,
+      "cap": 92.8,
+      "capped": false,
+      "final": 75.53,
+      "explanations": {
+        "hook": "Shows: Juliana drops to her knees in front of the frozen blackthorn branches, steadying her trembling breath. 0.0s in. Cues: strong physical / visual shock.",
+        "cliff": "Ends on Juliana: \"Ah!\" Open because: sudden event / shock image: Juliana drags her body across the frozen, cracked soil beneath the den; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"Juliana drops to her knees in front of the frozen blackthorn branches, steady...\" (intensity 0.86); average over 15 spoken/physical beats 0.41. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 4 speaker(s); situation cues: authority, danger, emotion, marriage; 3/8 lines self-contained; Alexander is never addressed by name in the clip; Clarissa is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "4 speaking role(s) (Alexander, Juliana, Clarissa, Gerald); 2-4 is easiest to follow; identification 0.70."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.7,
+          "situation": 0.9,
+          "self_contained": 0.38,
+          "simplicity": 0.75,
+          "setup": 1.0,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Alexander is never addressed by name in the clip",
+            "Clarissa is never addressed by name in the clip",
+            "Gerald is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "ALEXANDER",
+            "JULIANA",
+            "CLARISSA",
+            "GERALD"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 1.0,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 1.0,
+              "speaker_continuity": 1.0,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 1.0
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 70
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E042-0017.90-0077.80",
+    "rank": 3,
+    "in_top5": true,
+    "top5_rank": 3,
+    "title": "E42: Betrayal — “And yet, here I stand. That is the lie you built yo…”",
+    "episodes": [
+      42
+    ],
+    "total_duration": 59.9,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "flagged",
+    "flags": [
+      "modest cliffhanger (5.8)"
+    ],
+    "reasons": [],
+    "segments": [
+      {
+        "episode": 42,
+        "source_file": "episode-042-Episode 1686802.txt",
+        "scene_numbers": [
+          1
+        ],
+        "start": 17.9,
+        "end": 77.8,
+        "start_ts": "00:17.90",
+        "end_ts": "01:17.80",
+        "duration": 59.9,
+        "selected_dialogue": [
+          {
+            "element_id": "E042-S01-010",
+            "kind": "dialogue",
+            "speaker": "BLOND NOBLEMAN",
+            "delivery": [
+              "Furious",
+              "Hysterical"
+            ],
+            "voice": null,
+            "text": "Guards! Arrest this imposter!",
+            "start": 18.0,
+            "end": 21.2,
+            "start_ts": "00:18.00",
+            "end_ts": "00:21.20",
+            "line_no": 50,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E042-S01-012",
+            "kind": "dialogue",
+            "speaker": "ROYAL GUARD",
+            "delivery": [
+              "Stoic",
+              "Defiant"
+            ],
+            "voice": null,
+            "text": "We will not.",
+            "start": 22.0,
+            "end": 23.4,
+            "start_ts": "00:22.00",
+            "end_ts": "00:23.40",
+            "line_no": 58,
+            "canonical": "Royal Guard"
+          },
+          {
+            "element_id": "E042-S01-014",
+            "kind": "dialogue",
+            "speaker": "BLOND NOBLEMAN",
+            "delivery": [
+              "Screaming",
+              "Outraged"
+            ],
+            "voice": null,
+            "text": "I said arrest him!",
+            "start": 23.5,
+            "end": 25.2,
+            "start_ts": "00:23.50",
+            "end_ts": "00:25.20",
+            "line_no": 66,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E042-S01-015",
+            "kind": "dialogue",
+            "speaker": "BLOND NOBLEMAN",
+            "delivery": [
+              "Desperate",
+              "Unhinged"
+            ],
+            "voice": null,
+            "text": "Why?!",
+            "start": 25.5,
+            "end": 26.5,
+            "start_ts": "00:25.50",
+            "end_ts": "00:26.50",
+            "line_no": 70,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E042-S01-017",
+            "kind": "dialogue",
+            "speaker": "ROYAL GUARD",
+            "delivery": [
+              "Firm",
+              "Reverent"
+            ],
+            "voice": null,
+            "text": "Because we know who he is.",
+            "start": 26.7,
+            "end": 28.8,
+            "start_ts": "00:26.70",
+            "end_ts": "00:28.80",
+            "line_no": 78,
+            "canonical": "Royal Guard"
+          },
+          {
+            "element_id": "E042-S01-019",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Trembling",
+              "Apprehensive"
+            ],
+            "voice": null,
+            "text": "Rupert...",
+            "start": 29.0,
+            "end": 30.3,
+            "start_ts": "00:29.00",
+            "end_ts": "00:30.30",
+            "line_no": 86,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E042-S01-021",
+            "kind": "dialogue",
+            "speaker": "BLOND NOBLEMAN",
+            "delivery": [
+              "Denial",
+              "Shaken"
+            ],
+            "voice": null,
+            "text": "You cannot be him. Alexander died!",
+            "start": 30.5,
+            "end": 33.8,
+            "start_ts": "00:30.50",
+            "end_ts": "00:33.80",
+            "line_no": 94,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E042-S01-023",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Cold",
+              "Commanding"
+            ],
+            "voice": null,
+            "text": "And yet, here I stand. That is the lie you built your life upon.",
+            "start": 34.0,
+            "end": 39.8,
+            "start_ts": "00:34.00",
+            "end_ts": "00:39.80",
+            "line_no": 102,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E042-S01-025",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER'S MOTHER",
+            "delivery": [
+              "Choked with Tears"
+            ],
+            "voice": null,
+            "text": "Alexander...",
+            "start": 40.2,
+            "end": 42.5,
+            "start_ts": "00:40.20",
+            "end_ts": "00:42.50",
+            "line_no": 110,
+            "canonical": "Alexander's Mother"
+          },
+          {
+            "element_id": "E042-S01-027",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Soft",
+              "Reverent"
+            ],
+            "voice": null,
+            "text": "Mother.",
+            "start": 48.0,
+            "end": 49.0,
+            "start_ts": "00:48.00",
+            "end_ts": "00:49.00",
+            "line_no": 118,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E042-S01-029",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER'S MOTHER",
+            "delivery": [
+              "Overcome",
+              "Loving"
+            ],
+            "voice": null,
+            "text": "Look at you... my beautiful boy.",
+            "start": 49.2,
+            "end": 53.8,
+            "start_ts": "00:49.20",
+            "end_ts": "00:53.80",
+            "line_no": 126,
+            "canonical": "Alexander's Mother"
+          },
+          {
+            "element_id": "E042-S01-031",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER'S MOTHER",
+            "delivery": [
+              "Tearful",
+              "Proud"
+            ],
+            "voice": null,
+            "text": "I saw you again... but seeing you like this... I see my son as he was always meant to be.",
+            "start": 54.0,
+            "end": 61.8,
+            "start_ts": "00:54.00",
+            "end_ts": "01:01.80",
+            "line_no": 134,
+            "canonical": "Alexander's Mother"
+          },
+          {
+            "element_id": "E042-S01-032",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Tender",
+              "Resolute"
+            ],
+            "voice": null,
+            "text": "I have come home, Mother.",
+            "start": 62.0,
+            "end": 64.0,
+            "start_ts": "01:02.00",
+            "end_ts": "01:04.00",
+            "line_no": 138,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E042-S01-034",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER'S MOTHER",
+            "delivery": [
+              "Ringing",
+              "Authoritative"
+            ],
+            "voice": null,
+            "text": "Let everyone hear me! This is my son... Alexander Ashburn. The rightful Duke of Ashburn!",
+            "start": 64.2,
+            "end": 72.4,
+            "start_ts": "01:04.20",
+            "end_ts": "01:12.40",
+            "line_no": 146,
+            "canonical": "Alexander's Mother"
+          },
+          {
+            "element_id": "E042-S01-037",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Grim",
+              "Vengeful"
+            ],
+            "voice": null,
+            "text": "And now, Rupert... we settle what you stole.",
+            "start": 73.8,
+            "end": 77.5,
+            "start_ts": "01:13.80",
+            "end_ts": "01:17.50",
+            "line_no": 158,
+            "canonical": "Alexander"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E042-S01-026",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander halts his march as his mother reaches him, placing her frail hands gently upon his chest.",
+            "start": 44.8,
+            "end": 48.0,
+            "start_ts": "00:44.80",
+            "end_ts": "00:48.00",
+            "line_no": 114
+          },
+          {
+            "element_id": "E042-S01-028",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "His mother gently cradles Alexander's scarred cheek, tears streaming down her face as guests in the background watch in stunned silence.",
+            "start": 49.0,
+            "end": 54.0,
+            "start_ts": "00:49.00",
+            "end_ts": "00:54.00",
+            "line_no": 122
+          },
+          {
+            "element_id": "E042-S01-033",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander's mother turns toward the gathered nobility and guards, raising her chin and pointing proudly toward Alexander.",
+            "start": 64.0,
+            "end": 72.5,
+            "start_ts": "01:04.00",
+            "end_ts": "01:12.50",
+            "line_no": 142
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E042-S01-009",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Rupert descending the altar steps, furiously pointing toward Alexander.",
+            "start": 17.9,
+            "end": 21.5,
+            "start_ts": "00:17.90",
+            "end_ts": "00:21.50",
+            "line_no": 46
+          },
+          {
+            "element_id": "E042-S01-011",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of the royal guardsman standing rigidly in red uniform and bearskin cap, resting his white-gloved hand on his sabre.",
+            "start": 21.5,
+            "end": 23.4,
+            "start_ts": "00:21.50",
+            "end_ts": "00:23.40",
+            "line_no": 54
+          },
+          {
+            "element_id": "E042-S01-013",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on Rupert, veins bulging in his neck as his composure shatters.",
+            "start": 23.4,
+            "end": 26.5,
+            "start_ts": "00:23.40",
+            "end_ts": "00:26.50",
+            "line_no": 62
+          },
+          {
+            "element_id": "E042-S01-016",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on the Royal Guard holding his upright blade with unwavering conviction.",
+            "start": 26.5,
+            "end": 28.8,
+            "start_ts": "00:26.50",
+            "end_ts": "00:28.80",
+            "line_no": 74
+          },
+          {
+            "element_id": "E042-S01-018",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Catherine clutching her father's arm, her bridal bouquet drooping as panic seizes her face.",
+            "start": 28.8,
+            "end": 30.4,
+            "start_ts": "00:28.80",
+            "end_ts": "00:30.40",
+            "line_no": 82
+          },
+          {
+            "element_id": "E042-S01-020",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of Rupert gripping the edge of a pew for balance, his eyes wild with terror.",
+            "start": 30.4,
+            "end": 33.8,
+            "start_ts": "00:30.40",
+            "end_ts": "00:33.80",
+            "line_no": 90
+          },
+          {
+            "element_id": "E042-S01-022",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Wide tracking shot behind Alexander as he advances down the center aisle, silhouetted against the ruins of the cathedral nave.",
+            "start": 33.8,
+            "end": 39.9,
+            "start_ts": "00:33.80",
+            "end_ts": "00:39.90",
+            "line_no": 98
+          },
+          {
+            "element_id": "E042-S01-024",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of an elderly silver-haired woman in simple ivory robes stepping into the aisle, her hands outstretched in trembling awe.",
+            "start": 39.9,
+            "end": 44.8,
+            "start_ts": "00:39.90",
+            "end_ts": "00:44.80",
+            "line_no": 106
+          },
+          {
+            "element_id": "E042-S01-030",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot framed down the ruined nave between Alexander and his mother.",
+            "start": 54.0,
+            "end": 63.5,
+            "start_ts": "00:54.00",
+            "end_ts": "01:03.50",
+            "line_no": 130
+          },
+          {
+            "element_id": "E042-S01-035",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Rupert cowering on the altar steps beside Catherine and her father, utterly defeated.",
+            "start": 72.5,
+            "end": 73.8,
+            "start_ts": "01:12.50",
+            "end_ts": "01:13.80",
+            "line_no": 150
+          },
+          {
+            "element_id": "E042-S01-036",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.",
+            "start": 73.8,
+            "end": 77.8,
+            "start_ts": "01:13.80",
+            "end_ts": "01:17.80",
+            "line_no": 154
+          }
+        ],
+        "event_description": "Betrayal between Catherine & Rupert & Alexander - peak line \"And yet, here I stand. That is the lie you built your life upon.\"",
+        "source_lines": [
+          46,
+          158
+        ]
+      }
+    ],
+    "hook": {
+      "score": 9.24,
+      "element_id": "E042-S01-010",
+      "text": "Guards! Arrest this imposter!",
+      "kind": "dialogue",
+      "speaker": "BLOND NOBLEMAN",
+      "timestamp": 18.0,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording",
+        "intense delivery (Furious, Hysterical)",
+        "direct address / command",
+        "reveal / accusation"
+      ],
+      "explanation": "Blond Nobleman Says \"Guards! Arrest this imposter!\" 0.1s in. Cues: high-stakes wording; intense delivery (Furious, Hysterical); direct address / command; reveal / accusation.",
+      "timestamp_str": "00:18.00"
+    },
+    "cliffhanger": {
+      "score": 5.8,
+      "element_id": "E042-S01-036",
+      "text": "Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold retribution.",
+      "kind": "camera",
+      "speaker": null,
+      "timestamp": 77.8,
+      "cues": [
+        "threat",
+        "sudden event / shock image: Tight close-up on Alexander, his hand resting on the hilt of his sabre"
+      ],
+      "negatives": [],
+      "withheld_next": null,
+      "explanation": "Ends on \"Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold r...\" Open because: threat; sudden event / shock image: Tight close-up on Alexander, his hand resting on the hilt of his sabre.",
+      "timestamp_str": "01:17.80",
+      "anchor_start": 73.8,
+      "anchor_end": 77.8
+    },
+    "narrative_summary": "Rupert & Royal Guard & Catherine — Betrayal between Catherine & Rupert & Alexander - peak line \"And yet, here I stand. That is the lie you built your life upon.\". Opens on BLOND NOBLEMAN: “Guards! Arrest this imposter!” and cuts at “Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn w…”. 15 spoken line(s) across scene(s) 1 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Hook 9.2/10 — Blond Nobleman Says \"Guards! Arrest this imposter!\" 0.1s in. Cues: high-stakes wording; intense delivery (Furious, Hysterical); direct address / command; reveal / accusation. Emotion 7.8/10 — Peak beat \"Blond Nobleman: Guards! Arrest this imposter!\" (intensity 0.89); average over 18 spoken/physical beats 0.36. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns. Standalone clarity 6.6/10 — First-time-viewer proxy: 5 speaker(s); situation cues: authority, danger, deceit, emotion, family; 7/15 lines self-contained; Catherine is never addressed by name in the clip.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Flag: modest cliffhanger (5.8)",
+      "Needs context: Catherine is never addressed by name in the clip",
+      "Needs context: Catherine (introduced in episode 20) is not named in this moment",
+      "Speaker label(s) never resolved to a name by the continuity layer: ALEXANDER'S MOTHER, ROYAL GUARD",
+      "Spoiler risk high: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [
+      "Catherine is never addressed by name in the clip",
+      "Catherine (introduced in episode 20) is not named in this moment"
+    ],
+    "spoiler_risk": "high",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Rupert",
+      "Royal Guard",
+      "Catherine",
+      "Alexander",
+      "Alexander's Mother"
+    ],
+    "event_category": "betrayal",
+    "secondary_category": "relationship_conflict",
+    "scoring": {
+      "components": {
+        "hook": 9.24,
+        "cliff": 5.8,
+        "emotion": 7.8,
+        "standalone": 6.58,
+        "coherence": 9.2,
+        "character": 6.43
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 75.48,
+      "cap": 83.0,
+      "capped": false,
+      "final": 75.48,
+      "explanations": {
+        "hook": "Blond Nobleman Says \"Guards! Arrest this imposter!\" 0.1s in. Cues: high-stakes wording; intense delivery (Furious, Hysterical); direct address / command; reveal / accusation.",
+        "cliff": "Ends on \"Tight close-up on Alexander, his hand resting on the hilt of his sabre as his eyes burn with fierce, cold r...\" Open because: threat; sudden event / shock image: Tight close-up on Alexander, his hand resting on the hilt of his sabre.",
+        "emotion": "Peak beat \"Blond Nobleman: Guards! Arrest this imposter!\" (intensity 0.89); average over 18 spoken/physical beats 0.36. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 5 speaker(s); situation cues: authority, danger, deceit, emotion, family; 7/15 lines self-contained; Catherine is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "5 speaking role(s) (Rupert, Royal Guard, Catherine, Alexander, Alexander's Mother); outside the easy 2-4 range; identification 0.80."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.8,
+          "situation": 1.0,
+          "self_contained": 0.47,
+          "simplicity": 0.5,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Catherine is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "BLOND NOBLEMAN",
+            "ROYAL GUARD",
+            "CATHERINE",
+            "ALEXANDER",
+            "ALEXANDER'S MOTHER"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 0.65,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 1.0,
+              "speaker_continuity": 1.0,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 83
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E030-0032.00-0125.10-M2",
+    "rank": 4,
+    "in_top5": true,
+    "top5_rank": 4,
+    "title": "E30: Threat — “Do not hide the evidence, manufacture it. Drag her…”",
+    "episodes": [
+      30
+    ],
+    "total_duration": 49.1,
+    "n_segments": 2,
+    "kind": "multi-segment",
+    "status": "eligible",
+    "flags": [],
+    "reasons": [],
+    "segments": [
+      {
+        "episode": 30,
+        "source_file": "episode-030-Episode 1678583.txt",
+        "scene_numbers": [
+          1,
+          2
+        ],
+        "start": 32.0,
+        "end": 50.5,
+        "start_ts": "00:32.00",
+        "end_ts": "00:50.50",
+        "duration": 18.5,
+        "selected_dialogue": [
+          {
+            "element_id": "E030-S01-016",
+            "kind": "dialogue",
+            "speaker": "RUPERT",
+            "delivery": [
+              "Fearful"
+            ],
+            "voice": null,
+            "text": "If she speaks...",
+            "start": 32.1,
+            "end": 33.3,
+            "start_ts": "00:32.10",
+            "end_ts": "00:33.30",
+            "line_no": 74,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E030-S01-019",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Fierce",
+              "Venomous"
+            ],
+            "voice": null,
+            "text": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+            "start": 33.6,
+            "end": 39.8,
+            "start_ts": "00:33.60",
+            "end_ts": "00:39.80",
+            "line_no": 86,
+            "canonical": "Elder Nobleman"
+          },
+          {
+            "element_id": "E030-S01-021",
+            "kind": "dialogue",
+            "speaker": "RUPERT",
+            "delivery": [
+              "Faltering",
+              "Submissive"
+            ],
+            "voice": null,
+            "text": "What are you suggesting?",
+            "start": 41.8,
+            "end": 43.5,
+            "start_ts": "00:41.80",
+            "end_ts": "00:43.50",
+            "line_no": 94,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E030-S01-023",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Calculated",
+              "Ominous"
+            ],
+            "voice": null,
+            "text": "We stop hiding the prisoner.",
+            "start": 44.8,
+            "end": 47.3,
+            "start_ts": "00:44.80",
+            "end_ts": "00:47.30",
+            "line_no": 102,
+            "canonical": "Elder Nobleman"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E030-S01-018",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The Elder Nobleman thrusts the gold knob of his walking stick directly against Rupert's chest, pinning him against the wall.",
+            "start": 33.4,
+            "end": 35.2,
+            "start_ts": "00:33.40",
+            "end_ts": "00:35.20",
+            "line_no": 82
+          },
+          {
+            "element_id": "E030-S02-002",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The heavy creak of massive mahogany doors gliding open on brass hinges.",
+            "start": 48.0,
+            "end": 50.5,
+            "start_ts": "00:48.00",
+            "end_ts": "00:50.50",
+            "line_no": 117
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E030-S01-015",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up of Rupert swallows hard, breathless with dread.",
+            "start": 32.0,
+            "end": 33.4,
+            "start_ts": "00:32.00",
+            "end_ts": "00:33.40",
+            "line_no": 70
+          },
+          {
+            "element_id": "E030-S01-017",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot as the Elder Nobleman lunges forward aggressively, stepping into Rupert's personal space.",
+            "start": 33.4,
+            "end": 39.8,
+            "start_ts": "00:33.40",
+            "end_ts": "00:39.80",
+            "line_no": 78
+          },
+          {
+            "element_id": "E030-S01-020",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Low-angle close-up of Rupert gasping softly, intimidated by the cane pressed firmly beneath his cravat.",
+            "start": 39.8,
+            "end": 43.8,
+            "start_ts": "00:39.80",
+            "end_ts": "00:43.80",
+            "line_no": 90
+          },
+          {
+            "element_id": "E030-S01-022",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot as the Elder Nobleman withdraws his cane and turns sharply toward the library doors.",
+            "start": 43.8,
+            "end": 47.6,
+            "start_ts": "00:43.80",
+            "end_ts": "00:47.60",
+            "line_no": 98
+          },
+          {
+            "element_id": "E030-S02-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tracking shot from behind the Elder Nobleman as he pushes open the heavy double doors into the dark wood-paneled library.",
+            "start": 47.6,
+            "end": 51.0,
+            "start_ts": "00:47.60",
+            "end_ts": "00:51.00",
+            "line_no": 113
+          }
+        ],
+        "event_description": "Threat between Rupert & Elder Nobleman - peak line \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar\"",
+        "source_lines": [
+          70,
+          117
+        ]
+      },
+      {
+        "episode": 30,
+        "source_file": "episode-030-Episode 1678583.txt",
+        "scene_numbers": [
+          2
+        ],
+        "start": 94.5,
+        "end": 125.1,
+        "start_ts": "01:34.50",
+        "end_ts": "02:05.10",
+        "duration": 30.6,
+        "selected_dialogue": [
+          {
+            "element_id": "E030-S02-026",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Authoritative",
+              "Command"
+            ],
+            "voice": null,
+            "text": "Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame the trial, buy the jury, and let the State hang her.",
+            "start": 94.6,
+            "end": 101.8,
+            "start_ts": "01:34.60",
+            "end_ts": "01:41.80",
+            "line_no": 213,
+            "canonical": "Elder Nobleman"
+          },
+          {
+            "element_id": "E030-S02-028",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Scheming"
+            ],
+            "voice": null,
+            "text": "Her botanical ledger...",
+            "start": 102.2,
+            "end": 103.9,
+            "start_ts": "01:42.20",
+            "end_ts": "01:43.90",
+            "line_no": 221,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E030-S02-030",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Confirming"
+            ],
+            "voice": null,
+            "text": "Exactly.",
+            "start": 104.8,
+            "end": 106.0,
+            "start_ts": "01:44.80",
+            "end_ts": "01:46.00",
+            "line_no": 229,
+            "canonical": "Elder Nobleman"
+          },
+          {
+            "element_id": "E030-S02-032",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Inquiring"
+            ],
+            "voice": null,
+            "text": "And the Dowager?",
+            "start": 107.3,
+            "end": 108.8,
+            "start_ts": "01:47.30",
+            "end_ts": "01:48.80",
+            "line_no": 237,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E030-S02-034",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Dismissive"
+            ],
+            "voice": null,
+            "text": "She is weak, confused. No magistrate will trust a dying woman's accusations against a respected household.",
+            "start": 109.5,
+            "end": 116.5,
+            "start_ts": "01:49.50",
+            "end_ts": "01:56.50",
+            "line_no": 245,
+            "canonical": "Elder Nobleman"
+          },
+          {
+            "element_id": "E030-S02-036",
+            "kind": "dialogue",
+            "speaker": "RUPERT",
+            "delivery": [
+              "Hesitant"
+            ],
+            "voice": null,
+            "text": "And Juliana?",
+            "start": 120.0,
+            "end": 121.5,
+            "start_ts": "02:00.00",
+            "end_ts": "02:01.50",
+            "line_no": 253,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E030-S02-038",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Cold",
+              "Resolute"
+            ],
+            "voice": null,
+            "text": "She goes before the magistrate tomorrow.",
+            "start": 122.4,
+            "end": 124.9,
+            "start_ts": "02:02.40",
+            "end_ts": "02:04.90",
+            "line_no": 261,
+            "canonical": "Elder Nobleman"
+          }
+        ],
+        "selected_action": [],
+        "selected_camera": [
+          {
+            "element_id": "E030-S02-025",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium three-shot framing Rupert, the Elder Nobleman between them, and Catherine listening closely.",
+            "start": 94.5,
+            "end": 101.9,
+            "start_ts": "01:34.50",
+            "end_ts": "01:41.90",
+            "line_no": 209
+          },
+          {
+            "element_id": "E030-S02-027",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Catherine smiling with malicious satisfaction, fluttering her fan.",
+            "start": 101.9,
+            "end": 104.4,
+            "start_ts": "01:41.90",
+            "end_ts": "01:44.40",
+            "line_no": 217
+          },
+          {
+            "element_id": "E030-S02-029",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of the Elder Nobleman nodding slowly.",
+            "start": 104.4,
+            "end": 106.6,
+            "start_ts": "01:44.40",
+            "end_ts": "01:46.60",
+            "line_no": 225
+          },
+          {
+            "element_id": "E030-S02-031",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Catherine leaning slightly forward.",
+            "start": 106.6,
+            "end": 109.0,
+            "start_ts": "01:46.60",
+            "end_ts": "01:49.00",
+            "line_no": 233
+          },
+          {
+            "element_id": "E030-S02-033",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of the Elder Nobleman gesturing dismissively with one gloved hand.",
+            "start": 109.0,
+            "end": 116.8,
+            "start_ts": "01:49.00",
+            "end_ts": "01:56.80",
+            "line_no": 241
+          },
+          {
+            "element_id": "E030-S02-035",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of Rupert exhaling deeply, processing the horrifying certainty of their conspiracy.",
+            "start": 116.8,
+            "end": 121.9,
+            "start_ts": "01:56.80",
+            "end_ts": "02:01.90",
+            "line_no": 249
+          },
+          {
+            "element_id": "E030-S02-037",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of the Elder Nobleman staring sternly across the desk.",
+            "start": 121.9,
+            "end": 125.1,
+            "start_ts": "02:01.90",
+            "end_ts": "02:05.10",
+            "line_no": 257
+          }
+        ],
+        "event_description": "Threat between Elder Nobleman & Catherine - peak line \"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame t\"",
+        "source_lines": [
+          209,
+          261
+        ]
+      }
+    ],
+    "hook": {
+      "score": 8.26,
+      "element_id": "E030-S01-019",
+      "text": "Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!",
+      "kind": "dialogue",
+      "speaker": "ELDER NOBLEMAN",
+      "timestamp": 33.6,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording",
+        "intense delivery (Fierce, Venomous)",
+        "threat"
+      ],
+      "explanation": "Elder Nobleman Says \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\" 1.6s in. Cues: high-stakes wording; intense delivery (Fierce, Venomous); threat.",
+      "timestamp_str": "00:33.60"
+    },
+    "cliffhanger": {
+      "score": 6.78,
+      "element_id": "E030-S02-038",
+      "text": "She goes before the magistrate tomorrow.",
+      "kind": "dialogue",
+      "speaker": "ELDER NOBLEMAN",
+      "timestamp": 125.1,
+      "cues": [
+        "threat",
+        "lingering reaction shot (supporting)",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Catherine: \"She will hang. A perfect solution. The town will cheer as th\"",
+      "explanation": "Ends on Elder Nobleman: \"She goes before the magistrate tomorrow.\" Open because: threat; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+      "timestamp_str": "02:05.10",
+      "anchor_start": 122.4,
+      "anchor_end": 124.9
+    },
+    "narrative_summary": "Rupert & Elder Nobleman & Catherine — Threat between Elder Nobleman & Catherine - peak line \"Do not hide the evidence, manufacture it. Drag her before the magistrate tomorrow, frame t\". Opens on ELDER NOBLEMAN: “Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in…” and cuts at Elder Nobleman: “She goes before the magistrate tomorrow.”. 11 spoken line(s) across scene(s) 1, 2 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Hook 8.3/10 — Elder Nobleman Says \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\" 1.6s in. Cues: high-stakes wording; intense delivery (Fierce, Venomous); threat. Standalone clarity 6.9/10 — First-time-viewer proxy: 3 speaker(s); situation cues: authority, danger, deceit; 4/11 lines self-contained; Catherine is never addressed by name in the clip. Cliffhanger 6.8/10 — Ends on Elder Nobleman: \"She goes before the magistrate tomorrow.\" Open because: threat; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Needs context: Catherine is never addressed by name in the clip",
+      "Needs context: Catherine (introduced in episode 20) is not named in this moment",
+      "Speaker label(s) never resolved to a name by the continuity layer: ELDER NOBLEMAN"
+    ],
+    "context_required": [
+      "Catherine is never addressed by name in the clip",
+      "Catherine (introduced in episode 20) is not named in this moment"
+    ],
+    "spoiler_risk": "low",
+    "why_multi_segment": "The best continuous cut in episode 30 (0-40s) scores 70.6 (hook 6.5, cliffhanger 6.2). The strongest hook (32s) and the strongest unresolved beat (125s) are 93s apart, so one continuous cut cannot hold both. Joining them skips 44s of lower-value material and scores 75.3 (4.6 vs the best continuous cut). Join quality: shared characters ['Elder Nobleman', 'Rupert'], scenes 2->2.",
+    "main_characters": [
+      "Rupert",
+      "Elder Nobleman",
+      "Catherine"
+    ],
+    "event_category": "threat",
+    "secondary_category": null,
+    "scoring": {
+      "components": {
+        "hook": 8.26,
+        "cliff": 6.78,
+        "emotion": 6.64,
+        "standalone": 6.88,
+        "coherence": 9.61,
+        "character": 8.9
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 75.26,
+      "cap": 92.8,
+      "capped": false,
+      "final": 75.26,
+      "explanations": {
+        "hook": "Elder Nobleman Says \"Then make certain she isn't! A peasant weed, Rupert! You do not store weeds in your cellar, you burn them!\" 1.6s in. Cues: high-stakes wording; intense delivery (Fierce, Venomous); threat.",
+        "cliff": "Ends on Elder Nobleman: \"She goes before the magistrate tomorrow.\" Open because: threat; lingering reaction shot (supporting); the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"Elder Nobleman: Then make certain she isn't! A peasant weed, Rupert! You do not store weeds i...\" (intensity 0.86); average over 13 spoken/physical beats 0.29. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 3 speaker(s); situation cues: authority, danger, deceit; 4/11 lines self-contained; Catherine is never addressed by name in the clip.",
+        "coherence": "2 segments joined: shared characters ['Elder Nobleman', 'Rupert'], scenes 2->2, 44s skipped; transition score 0.97.",
+        "character": "3 speaking role(s) (Rupert, Elder Nobleman, Catherine); 2-4 is easiest to follow; identification 0.80."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.8,
+          "situation": 0.9,
+          "self_contained": 0.36,
+          "simplicity": 1.0,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Catherine is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "RUPERT",
+            "ELDER NOBLEMAN",
+            "CATHERINE"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 1.0,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 1.0,
+              "scene_cross": true,
+              "notes": []
+            },
+            {
+              "clean_open": 1.0,
+              "arc": 0.65,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 1.0,
+              "speaker_continuity": 0.99,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 1.0,
+          "transitions": [
+            {
+              "shared_characters": [
+                "Elder Nobleman",
+                "Rupert"
+              ],
+              "scene_a": 2,
+              "scene_b": 2,
+              "gap_s": 44.0,
+              "shared": 1.0,
+              "clean_open_b": 1.0
+            }
+          ],
+          "transition_score": 0.97
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 16
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E012-0063.20-0087.21",
+    "rank": 5,
+    "in_top5": true,
+    "top5_rank": 5,
+    "title": "E12: Emotional breakdown — “Juliana, no. Do not let them hurt you. I can handle…”",
+    "episodes": [
+      12
+    ],
+    "total_duration": 24.01,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "eligible",
+    "flags": [],
+    "reasons": [],
+    "segments": [
+      {
+        "episode": 12,
+        "source_file": "episode-012-Episode 1671714.txt",
+        "scene_numbers": [
+          1
+        ],
+        "start": 63.2,
+        "end": 87.21,
+        "start_ts": "01:03.20",
+        "end_ts": "01:27.21",
+        "duration": 24.01,
+        "selected_dialogue": [
+          {
+            "element_id": "E012-S01-043",
+            "kind": "dialogue",
+            "speaker": "CLARISSA",
+            "delivery": [
+              "Cold",
+              "Transactional"
+            ],
+            "voice": null,
+            "text": "Do it, and we withdraw the charges.",
+            "start": 63.3,
+            "end": 65.1,
+            "start_ts": "01:03.30",
+            "end_ts": "01:05.10",
+            "line_no": 182,
+            "canonical": "Clarissa"
+          },
+          {
+            "element_id": "E012-S01-045",
+            "kind": "dialogue",
+            "speaker": "CLARISSA",
+            "delivery": [
+              "Whispering",
+              "Menacing"
+            ],
+            "voice": null,
+            "text": "Fail, or refuse, and your husband hangs from the gallows.",
+            "start": 65.4,
+            "end": 69.2,
+            "start_ts": "01:05.40",
+            "end_ts": "01:09.20",
+            "line_no": 190,
+            "canonical": "Clarissa"
+          },
+          {
+            "element_id": "E012-S01-048",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Desperate",
+              "Protective",
+              "Urgent"
+            ],
+            "voice": null,
+            "text": "Juliana, no. Do not let them hurt you. I can handle the law.",
+            "start": 69.8,
+            "end": 73.8,
+            "start_ts": "01:09.80",
+            "end_ts": "01:13.80",
+            "line_no": 202,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E012-S01-051",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Fierce",
+              "Emotional",
+              "Sacrificial"
+            ],
+            "voice": null,
+            "text": "I am not letting them take you.",
+            "start": 75.3,
+            "end": 78.2,
+            "start_ts": "01:15.30",
+            "end_ts": "01:18.20",
+            "line_no": 214,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E012-S01-054",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Steely",
+              "Resolute"
+            ],
+            "voice": null,
+            "text": "Tell me where the garden is.",
+            "start": 82.8,
+            "end": 84.7,
+            "start_ts": "01:22.80",
+            "end_ts": "01:24.70",
+            "line_no": 226,
+            "canonical": "Juliana"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E012-S01-047",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her.",
+            "start": 69.6,
+            "end": 71.2,
+            "start_ts": "01:09.60",
+            "end_ts": "01:11.20",
+            "line_no": 198
+          },
+          {
+            "element_id": "E012-S01-050",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana clutches the front of her rustic grey dress, her breathing trembling.",
+            "start": 74.2,
+            "end": 76.0,
+            "start_ts": "01:14.20",
+            "end_ts": "01:16.00",
+            "line_no": 210
+          },
+          {
+            "element_id": "E012-S01-052",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution.",
+            "start": 81.5,
+            "end": 83.0,
+            "start_ts": "01:21.50",
+            "end_ts": "01:23.00",
+            "line_no": 218
+          },
+          {
+            "element_id": "E012-S01-055",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+            "start": 84.7,
+            "end": 87.21,
+            "start_ts": "01:24.70",
+            "end_ts": "01:27.21",
+            "line_no": 230
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E012-S01-042",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury.",
+            "start": 63.2,
+            "end": 65.2,
+            "start_ts": "01:03.20",
+            "end_ts": "01:05.20",
+            "line_no": 178
+          },
+          {
+            "element_id": "E012-S01-044",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously.",
+            "start": 65.2,
+            "end": 69.5,
+            "start_ts": "01:05.20",
+            "end_ts": "01:09.50",
+            "line_no": 186
+          },
+          {
+            "element_id": "E012-S01-046",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of Alexander stepping up beside Juliana, tenderly placing his large hand on her shoulder.",
+            "start": 69.5,
+            "end": 74.0,
+            "start_ts": "01:09.50",
+            "end_ts": "01:14.00",
+            "line_no": 194
+          },
+          {
+            "element_id": "E012-S01-049",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her heart in agony and resolve.",
+            "start": 74.0,
+            "end": 81.8,
+            "start_ts": "01:14.00",
+            "end_ts": "01:21.80",
+            "line_no": 206
+          },
+          {
+            "element_id": "E012-S01-053",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant stare as the tension peaks.",
+            "start": 81.8,
+            "end": 87.21,
+            "start_ts": "01:21.80",
+            "end_ts": "01:27.21",
+            "line_no": 222
+          }
+        ],
+        "event_description": "Emotional breakdown between Alexander & Juliana - peak line \"Juliana, no. Do not let them hurt you. I can handle the law.\"",
+        "source_lines": [
+          178,
+          230
+        ]
+      }
+    ],
+    "hook": {
+      "score": 8.03,
+      "element_id": "E012-S01-045",
+      "text": "Fail, or refuse, and your husband hangs from the gallows.",
+      "kind": "dialogue",
+      "speaker": "CLARISSA",
+      "timestamp": 65.4,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording",
+        "intense delivery (Whispering, Menacing)",
+        "threat"
+      ],
+      "explanation": "Clarissa Says \"Fail, or refuse, and your husband hangs from the gallows.\" 2.2s in. Cues: high-stakes wording; intense delivery (Whispering, Menacing); threat.",
+      "timestamp_str": "01:05.40"
+    },
+    "cliffhanger": {
+      "score": 7.0,
+      "element_id": "E012-S01-055",
+      "text": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.",
+      "kind": "action",
+      "speaker": null,
+      "timestamp": 87.21,
+      "cues": [
+        "demand / ultimatum / proposal awaiting an answer",
+        "sudden event / shock image: Juliana locks eyes with Clarissa without flinching as the scene freeze",
+        "lingering reaction shot (supporting)",
+        "next episode's continuity note calls this ending a climax"
+      ],
+      "negatives": [],
+      "withheld_next": null,
+      "explanation": "Ends on \"Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.\" Open because: demand / ultimatum / proposal awaiting an answer; sudden event / shock image: Juliana locks eyes with Clarissa without flinching as the scene freeze; lingering reaction shot (supporting); next episode's continuity note calls this ending a climax.",
+      "timestamp_str": "01:27.21",
+      "anchor_start": 84.7,
+      "anchor_end": 87.21
+    },
+    "narrative_summary": "Clarissa & Alexander & Juliana — Emotional breakdown between Alexander & Juliana - peak line \"Juliana, no. Do not let them hurt you. I can handle the law.\". Opens on CLARISSA: “Fail, or refuse, and your husband hangs from the gallows.” and cuts at “Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sac…”. 5 spoken line(s) across scene(s) 1 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Hook 8.0/10 — Clarissa Says \"Fail, or refuse, and your husband hangs from the gallows.\" 2.2s in. Cues: high-stakes wording; intense delivery (Whispering, Menacing); threat. Standalone clarity 8.0/10 — First-time-viewer proxy: 3 speaker(s); situation cues: danger, emotion, marriage; 5/5 lines self-contained; Clarissa is never addressed by name in the clip; Alexander is never addressed by name in the clip. Cliffhanger 7.0/10 — Ends on \"Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.\" Open because: demand / ultimatum / proposal awaiting an answer; sudden event / shock image: Juliana locks eyes with Clarissa without flinching as the scene freeze; lingering reaction shot (supporting); next episode's continuity note calls this ending a climax.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Needs context: Clarissa is never addressed by name in the clip",
+      "Needs context: Alexander is never addressed by name in the clip",
+      "Needs context: Alexander (introduced in episode 3) is not named in this moment"
+    ],
+    "context_required": [
+      "Clarissa is never addressed by name in the clip",
+      "Alexander is never addressed by name in the clip",
+      "Alexander (introduced in episode 3) is not named in this moment"
+    ],
+    "spoiler_risk": "low",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Clarissa",
+      "Alexander",
+      "Juliana"
+    ],
+    "event_category": "emotional_breakdown",
+    "secondary_category": null,
+    "scoring": {
+      "components": {
+        "hook": 8.03,
+        "cliff": 7.0,
+        "emotion": 6.32,
+        "standalone": 7.95,
+        "coherence": 8.57,
+        "character": 8.53
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 74.98,
+      "cap": 95.0,
+      "capped": false,
+      "final": 74.98,
+      "explanations": {
+        "hook": "Clarissa Says \"Fail, or refuse, and your husband hangs from the gallows.\" 2.2s in. Cues: high-stakes wording; intense delivery (Whispering, Menacing); threat.",
+        "cliff": "Ends on \"Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance.\" Open because: demand / ultimatum / proposal awaiting an answer; sudden event / shock image: Juliana locks eyes with Clarissa without flinching as the scene freeze; lingering reaction shot (supporting); next episode's continuity note calls this ending a climax.",
+        "emotion": "Peak beat \"Clarissa: Fail, or refuse, and your husband hangs from the gallows.\" (intensity 0.75); average over 9 spoken/physical beats 0.36. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 3 speaker(s); situation cues: danger, emotion, marriage; 5/5 lines self-contained; Clarissa is never addressed by name in the clip; Alexander is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "3 speaking role(s) (Clarissa, Alexander, Juliana); 2-4 is easiest to follow; identification 0.73."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.73,
+          "situation": 0.9,
+          "self_contained": 1.0,
+          "simplicity": 1.0,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Clarissa is never addressed by name in the clip",
+            "Alexander is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "CLARISSA",
+            "ALEXANDER",
+            "JULIANA"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 0.65,
+              "turn_taking": 0.9333333333333333,
+              "closure": 1.0,
+              "cut_quality": 1.0,
+              "speaker_continuity": 0.5,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 4
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  }
+]

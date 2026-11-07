@@ -1,0 +1,27 @@
+[
+  {
+    "promo_id": "P-E017-0026.00-0048.50",
+    "segments": [
+      [
+        26.0,
+        48.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 55.58,
+    "components": {
+      "hook": 5.93,
+      "cliff": 4.38,
+      "emotion": 4.65,
+      "standalone": 5.05,
+      "coherence": 9.03,
+      "character": 7.8
+    },
+    "reasons": [
+      "no meaningful cliffhanger (score 4.38 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  }
+]

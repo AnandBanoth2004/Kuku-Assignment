@@ -1,0 +1,11 @@
+# core pipeline (rule-based run) - Python 3.10+
+pyyaml>=6.0
+# optional LLM layer (anthropic / openai_compat back-ends call plain HTTPS)
+requests>=2.31
+# viewer app only
+streamlit>=1.30
+pandas>=2.0
+# tests / PDF build
+pytest>=8.0
+reportlab>=4.0
+pypdf>=4.0

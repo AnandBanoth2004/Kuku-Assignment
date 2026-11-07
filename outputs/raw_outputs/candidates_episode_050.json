@@ -1,0 +1,188 @@
+[
+  {
+    "promo_id": "P-E050-0026.50-0078.60",
+    "segments": [
+      [
+        26.5,
+        78.6
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 54.0,
+    "components": {
+      "hook": 2.9,
+      "cliff": 5.7,
+      "emotion": 5.23,
+      "standalone": 6.96,
+      "coherence": 8.29,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)"
+    ],
+    "flags": [
+      "score capped at 54 by the weakest-link rule (raw 55.1)"
+    ],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E050-0026.50-0080.00",
+    "segments": [
+      [
+        26.5,
+        80.0
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 54.0,
+    "components": {
+      "hook": 2.9,
+      "cliff": 6.4,
+      "emotion": 5.23,
+      "standalone": 6.96,
+      "coherence": 8.46,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)"
+    ],
+    "flags": [
+      "score capped at 54 by the weakest-link rule (raw 57.1)"
+    ],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E050-0026.50-0078.50",
+    "segments": [
+      [
+        26.5,
+        78.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 52.87,
+    "components": {
+      "hook": 2.9,
+      "cliff": 4.95,
+      "emotion": 5.23,
+      "standalone": 6.58,
+      "coherence": 8.46,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)",
+      "no meaningful cliffhanger (score 4.95 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E050-0026.50-0076.50",
+    "segments": [
+      [
+        26.5,
+        76.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 47.37,
+    "components": {
+      "hook": 2.9,
+      "cliff": 3.75,
+      "emotion": 3.89,
+      "standalone": 6.58,
+      "coherence": 8.64,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)",
+      "no meaningful cliffhanger (score 3.75 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E050-0026.50-0056.50",
+    "segments": [
+      [
+        26.5,
+        56.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 43.37,
+    "components": {
+      "hook": 2.9,
+      "cliff": 3.6,
+      "emotion": 3.09,
+      "standalone": 5.99,
+      "coherence": 7.5,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)",
+      "no meaningful cliffhanger (score 3.60 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E050-0011.80-0056.50",
+    "segments": [
+      [
+        11.8,
+        56.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 42.48,
+    "components": {
+      "hook": 2.9,
+      "cliff": 3.6,
+      "emotion": 2.97,
+      "standalone": 4.65,
+      "coherence": 8.86,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)",
+      "no meaningful cliffhanger (score 3.60 < 5.00)",
+      "emotionally flat (emotion 2.97 < 3.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E050-0012.00-0056.50",
+    "segments": [
+      [
+        12.0,
+        56.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 42.3,
+    "components": {
+      "hook": 2.9,
+      "cliff": 3.6,
+      "emotion": 2.97,
+      "standalone": 4.65,
+      "coherence": 8.68,
+      "character": 8.9
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)",
+      "no meaningful cliffhanger (score 3.60 < 5.00)",
+      "emotionally flat (emotion 2.97 < 3.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  }
+]

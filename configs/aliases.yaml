@@ -1,0 +1,12 @@
+# Editor-supplied aliases (human-in-the-loop, OPTIONAL).
+# The pipeline runs without this file; unresolved descriptor labels are listed in outputs/continuity.json
+# ("unresolved_descriptors") so an editor can decide which ones to map here.
+# Format:  SPEAKER LABEL AS WRITTEN IN THE SCREENPLAY: Canonical name
+# Evidence for each line below was read from the supplied pack (loglines / continuity notes), not guessed.
+aliases:
+  THE BEARDED STRANGER: Alexander         # ep3 proposal; ep4 note calls him "the Mysterious Bearded Man"; ep8 logline names Alexander as her husband
+  MYSTERIOUS BEARDED MAN: Alexander       # ep4-5 husband of Juliana (ep5 logline: "her rugged new husband")
+  SCARRED BEARDED MAN: Alexander          # ep7 logline: "her stoic new husband"; ep8 note: "Alexander chased off Gerald"
+  LADY IN GOLD GOWN: Clarissa             # ep1 logline: sister Clarissa; ep1 camera: "Clarissa ... elegantly in gold"
+  THE FORMER GROOM: Gerald                # ep1 logline: fiancé Gerald abandons her; camera lines name Gerald beside the 'former groom' lines
+  DOWAGER DUCHESS: Alexander's Mother     # ep27 logline: ring "belonging to her lost son"; ep35 logline: Alexander's mother

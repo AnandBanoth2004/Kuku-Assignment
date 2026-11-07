@@ -1,0 +1,11 @@
+### SYSTEM
+You label the dramatic beats of one screenplay episode. Use only the text given; refer to beats by their IDs; never invent
+dialogue or timestamps; never use knowledge of later episodes. Reply with ONE JSON object and nothing else.
+
+### USER
+Episode {episode}. Logline: {logline}
+Beats (id, time range, lines):
+{beats}
+
+Return {{"moments": [{{"id": "<beat id>", "event_category": one of {categories}, "event_description": "<=30 words",
+"emotional_category": "<one or two words>", "significance": 0-10, "context_required": ["what a first-time viewer would need to know"]}}]}}

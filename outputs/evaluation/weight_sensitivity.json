@@ -1,0 +1,17 @@
+{
+  "trials": 200,
+  "relative_weight_perturbation": 0.3,
+  "seed": 7,
+  "k": 5,
+  "mean_top_k_overlap": 0.792,
+  "min_top_k_overlap": 0.4,
+  "share_of_trials_with_same_number_one": 0.535,
+  "baseline_top_k": [
+    "P-E003-0058.30-0089.30",
+    "P-E013-0045.80-0080.50",
+    "P-E042-0017.90-0077.80",
+    "P-E030-0032.00-0125.10-M2",
+    "P-E012-0063.20-0087.21"
+  ],
+  "note": "Robustness of the ranking to the weight ASSUMPTION only; not evidence that the ranking matches audience preference."
+}

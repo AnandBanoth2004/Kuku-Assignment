@@ -1,0 +1,43 @@
+{
+  "episodes_processed": 50,
+  "windows_scored": 6981,
+  "status_counts": {
+    "eligible": 221,
+    "flagged": 1450,
+    "rejected": 5310
+  },
+  "rejection_reasons_first_failed_gate": {
+    "hook not effective in the first 3 seconds": 3987,
+    "no meaningful cliffhanger": 1257,
+    "depends heavily on unexplained context": 66
+  },
+  "near_duplicates_suppressed": 1555,
+  "promos_recommended": 86,
+  "promos_by_status": {
+    "flagged": 61,
+    "eligible": 25
+  },
+  "multi_segment_promos": 4,
+  "episodes_without_valid_promo": [
+    8,
+    17,
+    39,
+    40,
+    41,
+    48,
+    49,
+    50
+  ],
+  "promos_excluded_for_failing_validation": 0,
+  "validation_overall_ok": true,
+  "checks_run": 3864,
+  "llm": null,
+  "human_eval": {
+    "rows": 25,
+    "sheet": "outputs\\evaluation\\human_eval_sheet.csv",
+    "key": "outputs\\evaluation\\human_eval_key.csv",
+    "note": "Rating columns are EMPTY - no human results exist yet."
+  },
+  "skipped_for_top5_diversity": [],
+  "runtime_s": 6.2
+}

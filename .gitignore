@@ -1,0 +1,8 @@
+# The supplied screenplay pack is CONFIDENTIAL (Kuku assessment material) - never commit or publish it.
+data/input/
+data/extracted/
+data/processed/
+.env
+__pycache__/
+.pytest_cache/
+outputs/raw_outputs/llm_cache/

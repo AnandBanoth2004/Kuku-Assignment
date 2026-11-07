@@ -1,0 +1,485 @@
+[
+  {
+    "promo_id": "P-E038-0020.50-0051.00",
+    "segments": [
+      [
+        20.5,
+        51.0
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 64.77,
+    "components": {
+      "hook": 5.47,
+      "cliff": 6.26,
+      "emotion": 5.9,
+      "standalone": 6.75,
+      "coherence": 9.34,
+      "character": 8.35
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.5)"
+    ],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0020.50-0050.50",
+    "segments": [
+      [
+        20.5,
+        50.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 64.59,
+    "components": {
+      "hook": 5.47,
+      "cliff": 6.26,
+      "emotion": 5.9,
+      "standalone": 6.75,
+      "coherence": 9.17,
+      "character": 8.35
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.5)"
+    ],
+    "duplicate_of": "P-E038-0020.50-0051.00"
+  },
+  {
+    "promo_id": "P-E038-0020.50-0047.50",
+    "segments": [
+      [
+        20.5,
+        47.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 63.51,
+    "components": {
+      "hook": 5.47,
+      "cliff": 6.26,
+      "emotion": 5.43,
+      "standalone": 6.64,
+      "coherence": 9.19,
+      "character": 8.35
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.5)"
+    ],
+    "duplicate_of": "P-E038-0020.50-0051.00"
+  },
+  {
+    "promo_id": "P-E038-0045.50-0087.91",
+    "segments": [
+      [
+        45.5,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 62.82,
+    "components": {
+      "hook": 7.06,
+      "cliff": 4.3,
+      "emotion": 5.91,
+      "standalone": 6.82,
+      "coherence": 9.37,
+      "character": 6.0
+    },
+    "reasons": [
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0023.20-0051.00",
+    "segments": [
+      [
+        23.2,
+        51.0
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 61.65,
+    "components": {
+      "hook": 5.35,
+      "cliff": 6.26,
+      "emotion": 5.65,
+      "standalone": 5.97,
+      "coherence": 9.37,
+      "character": 6.0
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.3)",
+      "limited standalone clarity (6.0)"
+    ],
+    "duplicate_of": "P-E038-0020.50-0051.00"
+  },
+  {
+    "promo_id": "P-E038-0023.20-0050.50",
+    "segments": [
+      [
+        23.2,
+        50.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 61.47,
+    "components": {
+      "hook": 5.35,
+      "cliff": 6.26,
+      "emotion": 5.65,
+      "standalone": 5.97,
+      "coherence": 9.19,
+      "character": 6.0
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.3)",
+      "limited standalone clarity (6.0)"
+    ],
+    "duplicate_of": "P-E038-0020.50-0051.00"
+  },
+  {
+    "promo_id": "P-E038-0043.20-0087.91",
+    "segments": [
+      [
+        43.2,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 61.12,
+    "components": {
+      "hook": 6.46,
+      "cliff": 4.3,
+      "emotion": 5.83,
+      "standalone": 6.91,
+      "coherence": 9.19,
+      "character": 6.0
+    },
+    "reasons": [
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0023.20-0047.50",
+    "segments": [
+      [
+        23.2,
+        47.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 60.0,
+    "components": {
+      "hook": 5.35,
+      "cliff": 6.26,
+      "emotion": 5.11,
+      "standalone": 5.83,
+      "coherence": 9.01,
+      "character": 6.0
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.3)",
+      "limited standalone clarity (5.8)"
+    ],
+    "duplicate_of": "P-E038-0020.50-0051.00"
+  },
+  {
+    "promo_id": "P-E038-0017.50-0051.00",
+    "segments": [
+      [
+        17.5,
+        51.0
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 59.23,
+    "components": {
+      "hook": 3.82,
+      "cliff": 6.26,
+      "emotion": 5.9,
+      "standalone": 6.61,
+      "coherence": 8.14,
+      "character": 8.35
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.82 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0017.50-0050.50",
+    "segments": [
+      [
+        17.5,
+        50.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 59.06,
+    "components": {
+      "hook": 3.82,
+      "cliff": 6.26,
+      "emotion": 5.9,
+      "standalone": 6.61,
+      "coherence": 7.97,
+      "character": 8.35
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.82 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0020.50-0043.00",
+    "segments": [
+      [
+        20.5,
+        43.0
+      ]
+    ],
+    "kind": "continuous",
+    "status": "flagged",
+    "final": 58.64,
+    "components": {
+      "hook": 5.47,
+      "cliff": 5.54,
+      "emotion": 5.07,
+      "standalone": 5.55,
+      "coherence": 8.48,
+      "character": 8.35
+    },
+    "reasons": [],
+    "flags": [
+      "modest hook (5.5)",
+      "modest cliffhanger (5.5)",
+      "limited standalone clarity (5.5)"
+    ],
+    "duplicate_of": "P-E038-0020.50-0051.00"
+  },
+  {
+    "promo_id": "P-E038-0017.50-0047.50",
+    "segments": [
+      [
+        17.5,
+        47.5
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 58.02,
+    "components": {
+      "hook": 3.82,
+      "cliff": 6.26,
+      "emotion": 5.45,
+      "standalone": 6.5,
+      "coherence": 7.99,
+      "character": 8.35
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.82 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0060.50-0087.91",
+    "segments": [
+      [
+        60.5,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 57.47,
+    "components": {
+      "hook": 5.44,
+      "cliff": 4.3,
+      "emotion": 5.3,
+      "standalone": 6.77,
+      "coherence": 9.37,
+      "character": 6.0
+    },
+    "reasons": [
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0060.80-0087.91",
+    "segments": [
+      [
+        60.8,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 57.3,
+    "components": {
+      "hook": 5.44,
+      "cliff": 4.3,
+      "emotion": 5.3,
+      "standalone": 6.77,
+      "coherence": 9.19,
+      "character": 6.0
+    },
+    "reasons": [
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0047.80-0087.91",
+    "segments": [
+      [
+        47.8,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 56.91,
+    "components": {
+      "hook": 5.19,
+      "cliff": 4.3,
+      "emotion": 5.47,
+      "standalone": 6.7,
+      "coherence": 9.19,
+      "character": 6.0
+    },
+    "reasons": [
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0062.80-0087.91",
+    "segments": [
+      [
+        62.8,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 55.34,
+    "components": {
+      "hook": 4.84,
+      "cliff": 4.3,
+      "emotion": 5.25,
+      "standalone": 6.53,
+      "coherence": 9.19,
+      "character": 6.0
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 4.84 < 5.00)",
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0017.50-0043.00",
+    "segments": [
+      [
+        17.5,
+        43.0
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 54.42,
+    "components": {
+      "hook": 3.82,
+      "cliff": 5.54,
+      "emotion": 5.08,
+      "standalone": 6.17,
+      "coherence": 7.43,
+      "character": 8.35
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.82 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0039.50-0087.91",
+    "segments": [
+      [
+        39.5,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 54.38,
+    "components": {
+      "hook": 3.6,
+      "cliff": 4.3,
+      "emotion": 5.88,
+      "standalone": 7.0,
+      "coherence": 9.37,
+      "character": 6.0
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.60 < 5.00)",
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  },
+  {
+    "promo_id": "P-E038-0040.00-0087.91",
+    "segments": [
+      [
+        40.0,
+        87.91
+      ]
+    ],
+    "kind": "continuous",
+    "status": "rejected",
+    "final": 54.2,
+    "components": {
+      "hook": 3.6,
+      "cliff": 4.3,
+      "emotion": 5.88,
+      "standalone": 7.0,
+      "coherence": 9.19,
+      "character": 6.0
+    },
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.60 < 5.00)",
+      "no meaningful cliffhanger (score 4.30 < 5.00)"
+    ],
+    "flags": [],
+    "duplicate_of": null
+  }
+]

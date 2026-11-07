@@ -1,0 +1,927 @@
+{
+  "parse_level": {
+    "episodes_checked": 50,
+    "episodes_with_errors": 0,
+    "episodes_with_warnings": 0,
+    "detail": [
+      {
+        "episode": 1,
+        "file": "episode-001-Episode 1671703.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 2,
+        "file": "episode-002-Episode 1671704.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 3,
+        "file": "episode-003-Episode 1671705.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 4,
+        "file": "episode-004-Episode 1671706.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 5,
+        "file": "episode-005-Episode 1671707.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 6,
+        "file": "episode-006-Episode 1671708.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 7,
+        "file": "episode-007-Episode 1671709.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 8,
+        "file": "episode-008-Episode 1671710.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 9,
+        "file": "episode-009-Episode 1671711.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 10,
+        "file": "episode-010-Episode 1671712.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 11,
+        "file": "episode-011-Episode 1671713.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 12,
+        "file": "episode-012-Episode 1671714.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 13,
+        "file": "episode-013-Episode 1671715.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 14,
+        "file": "episode-014-Episode 1671716.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 15,
+        "file": "episode-015-Episode 1671717.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 16,
+        "file": "episode-016-Episode 1671718.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 17,
+        "file": "episode-017-Episode 1671719.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 18,
+        "file": "episode-018-Episode 1671720.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 19,
+        "file": "episode-019-Episode 1671721.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 20,
+        "file": "episode-020-Episode 1671722.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 21,
+        "file": "episode-021-Episode 1678574.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 22,
+        "file": "episode-022-Episode 1678575.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 23,
+        "file": "episode-023-Episode 1678576.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 24,
+        "file": "episode-024-Episode 1678577.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 25,
+        "file": "episode-025-Episode 1678578.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 26,
+        "file": "episode-026-Episode 1678579.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 27,
+        "file": "episode-027-Episode 1678580.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 28,
+        "file": "episode-028-Episode 1678581.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 29,
+        "file": "episode-029-Episode 1678582.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 30,
+        "file": "episode-030-Episode 1678583.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 31,
+        "file": "episode-031-Episode 1681364.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 32,
+        "file": "episode-032-Episode 1681365.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 33,
+        "file": "episode-033-Episode 1681366.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 34,
+        "file": "episode-034-Episode 1681367.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 35,
+        "file": "episode-035-Episode 1681368.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 36,
+        "file": "episode-036-Episode 1681369.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 37,
+        "file": "episode-037-Episode 1681370.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 38,
+        "file": "episode-038-Episode 1681371.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 39,
+        "file": "episode-039-Episode 1686799.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 40,
+        "file": "episode-040-Episode 1686800.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 41,
+        "file": "episode-041-Episode 1686801.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 42,
+        "file": "episode-042-Episode 1686802.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 43,
+        "file": "episode-043-Episode 1686803.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 44,
+        "file": "episode-044-Episode 1686804.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 45,
+        "file": "episode-045-Episode 1686805.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 46,
+        "file": "episode-046-Episode 1688395.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 47,
+        "file": "episode-047-Episode 1688396.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 48,
+        "file": "episode-048-Episode 1688397.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 49,
+        "file": "episode-049-Episode 1688398.txt",
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "episode": 50,
+        "file": "episode-050-Episode 1697563.txt",
+        "errors": [],
+        "warnings": []
+      }
+    ]
+  },
+  "promo_level": {
+    "promos_checked": 86,
+    "promos_passed": 86,
+    "promos_failed": 0,
+    "checks_run": 3864,
+    "errors_by_code": {},
+    "warnings_by_code": {},
+    "detail": [
+      {
+        "promo_id": "P-E003-0058.30-0089.30",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E013-0045.80-0080.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E042-0017.90-0077.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E030-0032.00-0125.10-M2",
+        "passed": true,
+        "n_checks": 64,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E012-0063.20-0087.21",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E003-0084.00-0140.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E033-0068.50-0137.80-M2",
+        "passed": true,
+        "n_checks": 64,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E036-0117.00-0163.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E003-0023.10-0068.10",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E043-0002.40-0030.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E024-0030.80-0070.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E007-0069.50-0090.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E026-0055.80-0095.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E045-0021.80-0071.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E011-0014.30-0034.90",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E028-0076.80-0101.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E021-0008.50-0035.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E015-0044.80-0086.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E036-0099.00-0127.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E013-0022.00-0056.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E028-0018.50-0075.30",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E047-0060.50-0104.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E016-0019.20-0044.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E009-0003.50-0039.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E015-0007.50-0056.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E043-0071.40-0109.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E018-0109.50-0192.00-M2",
+        "passed": true,
+        "n_checks": 64,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E030-0000.00-0039.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E027-0122.80-0150.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E033-0068.50-0111.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E013-0074.50-0118.88",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E035-0056.50-0092.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E034-0035.30-0075.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E022-0094.50-0131.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E036-0041.50-0086.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E044-0046.40-0070.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E028-0113.00-0138.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E032-0119.50-0154.38",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E027-0034.90-0055.60",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E033-0140.50-0161.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E029-0037.40-0078.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E012-0026.80-0069.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E021-0031.00-0087.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E002-0000.00-0037.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E035-0134.00-0157.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E037-0066.50-0119.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E046-0089.20-0138.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E001-0043.90-0074.60",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E029-0005.10-0049.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E034-0000.00-0043.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E032-0052.50-0108.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E011-0058.00-0112.75",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E014-0000.00-0025.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E025-0013.20-0063.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E025-0090.20-0142.40",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E001-0063.00-0089.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E043-0024.00-0076.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E032-0025.50-0079.40",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E024-0006.00-0034.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E023-0079.00-0116.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E031-0138.00-0160.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E035-0111.00-0145.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E020-0012.80-0039.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E027-0075.20-0124.60",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E018-0070.50-0094.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E011-0027.30-0084.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E018-0109.50-0148.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E038-0020.50-0051.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E045-0051.80-0108.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E005-0010.50-0058.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E001-0090.80-0113.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E031-0070.50-0094.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E009-0038.00-0092.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E034-0085.00-0126.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E047-0035.50-0060.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E030-0041.80-0101.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E046-0026.80-0058.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E016-0048.80-0076.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E006-0033.70-0060.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E047-0104.80-0127.50",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E045-0005.00-0029.80",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E019-0076.50-0103.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E022-0081.80-0102.00",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E004-0007.60-0127.40-M2",
+        "passed": true,
+        "n_checks": 64,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E037-0023.80-0057.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      },
+      {
+        "promo_id": "P-E010-0009.10-0066.20",
+        "passed": true,
+        "n_checks": 44,
+        "errors": [],
+        "warnings": []
+      }
+    ]
+  },
+  "collection_level": {
+    "issues": [],
+    "ok": true
+  },
+  "overall_ok": true,
+  "promos_excluded_for_failing_validation": []
+}

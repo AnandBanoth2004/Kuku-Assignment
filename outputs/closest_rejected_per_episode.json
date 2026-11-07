@@ -1,0 +1,3897 @@
+[
+  {
+    "promo_id": "P-E008-0015.00-0042.00",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E8: General drama — “Not yet.”",
+    "episodes": [
+      8
+    ],
+    "total_duration": 27.0,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 3.74 < 5.00)",
+      "no meaningful cliffhanger (score 3.33 < 5.00)",
+      "emotionally flat (emotion 2.44 < 3.00)"
+    ],
+    "segments": [
+      {
+        "episode": 8,
+        "source_file": "episode-008-Episode 1671710.txt",
+        "scene_numbers": [
+          1
+        ],
+        "start": 15.0,
+        "end": 42.0,
+        "start_ts": "00:15.00",
+        "end_ts": "00:42.00",
+        "duration": 27.0,
+        "selected_dialogue": [
+          {
+            "element_id": "E008-S01-015",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Inquiring",
+              "Soft"
+            ],
+            "voice": null,
+            "text": "How do you know that?",
+            "start": 15.1,
+            "end": 16.1,
+            "start_ts": "00:15.10",
+            "end_ts": "00:16.10",
+            "line_no": 70,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E008-S01-017",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Somber",
+              "Matter-of-Fact"
+            ],
+            "voice": null,
+            "text": "Soldiers learn quickly which plants keep a man alive.",
+            "start": 16.3,
+            "end": 18.9,
+            "start_ts": "00:16.30",
+            "end_ts": "00:18.90",
+            "line_no": 78,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E008-S01-019",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Observant",
+              "Lightly Teasing"
+            ],
+            "voice": null,
+            "text": "You know more about healing than you let on.",
+            "start": 19.4,
+            "end": 21.8,
+            "start_ts": "00:19.40",
+            "end_ts": "00:21.80",
+            "line_no": 86,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E008-S01-021",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Quiet",
+              "Gritty"
+            ],
+            "voice": null,
+            "text": "Enough to survive.",
+            "start": 22.8,
+            "end": 24.2,
+            "start_ts": "00:22.80",
+            "end_ts": "00:24.20",
+            "line_no": 94,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E008-S01-023",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Hesitant",
+              "Soft"
+            ],
+            "voice": null,
+            "text": "Your hair and beard...",
+            "start": 25.0,
+            "end": 26.8,
+            "start_ts": "00:25.00",
+            "end_ts": "00:26.80",
+            "line_no": 102,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E008-S01-026",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Gentle",
+              "Tender"
+            ],
+            "voice": null,
+            "text": "I could trim them for you.",
+            "start": 30.1,
+            "end": 31.9,
+            "start_ts": "00:30.10",
+            "end_ts": "00:31.90",
+            "line_no": 114,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E008-S01-029",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Firm",
+              "Low"
+            ],
+            "voice": null,
+            "text": "Not yet.",
+            "start": 33.2,
+            "end": 34.5,
+            "start_ts": "00:33.20",
+            "end_ts": "00:34.50",
+            "line_no": 126,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E008-S01-031",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Puzzled",
+              "Curious"
+            ],
+            "voice": null,
+            "text": "Not yet?",
+            "start": 35.8,
+            "end": 36.9,
+            "start_ts": "00:35.80",
+            "end_ts": "00:36.90",
+            "line_no": 134,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E008-S01-033",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Grounded",
+              "Steady"
+            ],
+            "voice": null,
+            "text": "Let them grow.",
+            "start": 37.7,
+            "end": 38.9,
+            "start_ts": "00:37.70",
+            "end_ts": "00:38.90",
+            "line_no": 142,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E008-S01-035",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Playful",
+              "Amused"
+            ],
+            "voice": null,
+            "text": "You prefer looking like a forest hermit?",
+            "start": 39.9,
+            "end": 42.0,
+            "start_ts": "00:39.90",
+            "end_ts": "00:42.00",
+            "line_no": 150,
+            "canonical": "Juliana"
+          }
+        ],
+        "selected_action": [],
+        "selected_camera": [
+          {
+            "element_id": "E008-S01-014",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of Juliana looking up at him with genuine curiosity.",
+            "start": 15.0,
+            "end": 16.3,
+            "start_ts": "00:15.00",
+            "end_ts": "00:16.30",
+            "line_no": 66
+          },
+          {
+            "element_id": "E008-S01-016",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Alexander speaking in a steady, measured tone.",
+            "start": 16.3,
+            "end": 19.3,
+            "start_ts": "00:16.30",
+            "end_ts": "00:19.30",
+            "line_no": 74
+          },
+          {
+            "element_id": "E008-S01-018",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop.",
+            "start": 19.3,
+            "end": 21.5,
+            "start_ts": "00:19.30",
+            "end_ts": "00:21.50",
+            "line_no": 82
+          },
+          {
+            "element_id": "E008-S01-020",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile.",
+            "start": 21.5,
+            "end": 24.3,
+            "start_ts": "00:21.50",
+            "end_ts": "00:24.30",
+            "line_no": 90
+          },
+          {
+            "element_id": "E008-S01-022",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage.",
+            "start": 24.3,
+            "end": 26.5,
+            "start_ts": "00:24.30",
+            "end_ts": "00:26.50",
+            "line_no": 98
+          },
+          {
+            "element_id": "E008-S01-024",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Alexander standing tall over her, looking down patiently.",
+            "start": 26.5,
+            "end": 28.1,
+            "start_ts": "00:26.50",
+            "end_ts": "00:28.10",
+            "line_no": 106
+          },
+          {
+            "element_id": "E008-S01-025",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple.",
+            "start": 28.1,
+            "end": 31.9,
+            "start_ts": "00:28.10",
+            "end_ts": "00:31.90",
+            "line_no": 110
+          },
+          {
+            "element_id": "E008-S01-027",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair.",
+            "start": 31.9,
+            "end": 33.2,
+            "start_ts": "00:31.90",
+            "end_ts": "00:33.20",
+            "line_no": 118
+          },
+          {
+            "element_id": "E008-S01-028",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers.",
+            "start": 33.2,
+            "end": 35.5,
+            "start_ts": "00:33.20",
+            "end_ts": "00:35.50",
+            "line_no": 122
+          },
+          {
+            "element_id": "E008-S01-030",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question.",
+            "start": 35.5,
+            "end": 37.3,
+            "start_ts": "00:35.50",
+            "end_ts": "00:37.30",
+            "line_no": 130
+          },
+          {
+            "element_id": "E008-S01-032",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Alexander, still maintaining his gentle hold on her arm.",
+            "start": 37.3,
+            "end": 39.6,
+            "start_ts": "00:37.30",
+            "end_ts": "00:39.60",
+            "line_no": 138
+          },
+          {
+            "element_id": "E008-S01-034",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Juliana smiling with playful warmth.",
+            "start": 39.6,
+            "end": 42.3,
+            "start_ts": "00:39.60",
+            "end_ts": "00:42.30",
+            "line_no": 146
+          }
+        ],
+        "event_description": "General drama between Juliana & Alexander - peak line \"Not yet.\"",
+        "source_lines": [
+          66,
+          150
+        ]
+      }
+    ],
+    "hook": {
+      "score": 3.74,
+      "element_id": "E008-S01-017",
+      "text": "Soldiers learn quickly which plants keep a man alive.",
+      "kind": "dialogue",
+      "speaker": "ALEXANDER",
+      "timestamp": 16.3,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording"
+      ],
+      "explanation": "Alexander Says \"Soldiers learn quickly which plants keep a man alive.\" 1.3s in. Cues: high-stakes wording.",
+      "timestamp_str": "00:16.30"
+    },
+    "cliffhanger": {
+      "score": 3.33,
+      "element_id": "E008-S01-035",
+      "text": "You prefer looking like a forest hermit?",
+      "kind": "dialogue",
+      "speaker": "JULIANA",
+      "timestamp": 42.0,
+      "cues": [
+        "mild yes/no question",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Alexander: \"It has advantages.\"",
+      "explanation": "Ends on Juliana: \"You prefer looking like a forest hermit?\" Open because: mild yes/no question; the reply is cut off (next line withheld).",
+      "timestamp_str": "00:42.00",
+      "anchor_start": 39.9,
+      "anchor_end": 42.0
+    },
+    "narrative_summary": "Juliana & Alexander — General drama between Juliana & Alexander - peak line \"Not yet.\". Opens on ALEXANDER: “Soldiers learn quickly which plants keep a man alive.” and cuts at Juliana: “You prefer looking like a forest hermit?”. 10 spoken line(s) across scene(s) 1 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Standalone clarity 4.5/10 — First-time-viewer proxy: 2 speaker(s); situation cues: none; 6/10 lines self-contained; Juliana is never addressed by name in the clip; Alexander is never addressed by name in the clip. Hook 3.7/10 — Alexander Says \"Soldiers learn quickly which plants keep a man alive.\" 1.3s in. Cues: high-stakes wording. Cliffhanger 3.3/10 — Ends on Juliana: \"You prefer looking like a forest hermit?\" Open because: mild yes/no question; the reply is cut off (next line withheld).",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: hook not effective in the first 3 seconds (score 3.74 < 5.00)",
+      "Gate failed: no meaningful cliffhanger (score 3.33 < 5.00)",
+      "Gate failed: emotionally flat (emotion 2.44 < 3.00)",
+      "Needs context: Juliana is never addressed by name in the clip",
+      "Needs context: Alexander is never addressed by name in the clip",
+      "Needs context: Juliana (introduced in episode 1) is not named in this moment"
+    ],
+    "context_required": [
+      "Juliana is never addressed by name in the clip",
+      "Alexander is never addressed by name in the clip",
+      "Juliana (introduced in episode 1) is not named in this moment",
+      "Alexander (introduced in episode 3) is not named in this moment"
+    ],
+    "spoiler_risk": "low",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Juliana",
+      "Alexander"
+    ],
+    "event_category": "general_drama",
+    "secondary_category": null,
+    "scoring": {
+      "components": {
+        "hook": 3.74,
+        "cliff": 3.33,
+        "emotion": 2.44,
+        "standalone": 4.5,
+        "coherence": 8.86,
+        "character": 7.8
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 42.06,
+      "cap": 58.3,
+      "capped": false,
+      "final": 42.06,
+      "explanations": {
+        "hook": "Alexander Says \"Soldiers learn quickly which plants keep a man alive.\" 1.3s in. Cues: high-stakes wording.",
+        "cliff": "Ends on Juliana: \"You prefer looking like a forest hermit?\" Open because: mild yes/no question; the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"Alexander: Not yet.\" (intensity 0.27); average over 10 spoken/physical beats 0.12. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 2 speaker(s); situation cues: none; 6/10 lines self-contained; Juliana is never addressed by name in the clip; Alexander is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "2 speaking role(s) (Juliana, Alexander); 2-4 is easiest to follow; identification 0.60."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.6,
+          "situation": 0.0,
+          "self_contained": 0.6,
+          "simplicity": 1.0,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Juliana is never addressed by name in the clip",
+            "Alexander is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "JULIANA",
+            "ALEXANDER"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 0.45,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 1.0,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 1.0
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E017-0026.00-0048.50",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E17: Unexpected proposal — “You cannot promise that.”",
+    "episodes": [
+      17
+    ],
+    "total_duration": 22.5,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "no meaningful cliffhanger (score 4.38 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 17,
+        "source_file": "episode-017-Episode 1671719.txt",
+        "scene_numbers": [
+          1,
+          2
+        ],
+        "start": 26.0,
+        "end": 48.5,
+        "start_ts": "00:26.00",
+        "end_ts": "00:48.50",
+        "duration": 22.5,
+        "selected_dialogue": [
+          {
+            "element_id": "E017-S01-020",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Deep",
+              "Resolute"
+            ],
+            "voice": null,
+            "text": "As long as I draw breath...",
+            "start": 26.0,
+            "end": 27.7,
+            "start_ts": "00:26.00",
+            "end_ts": "00:27.70",
+            "line_no": 90,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E017-S01-023",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Gentle",
+              "Vowing"
+            ],
+            "voice": null,
+            "text": "...no one will hurt you again.",
+            "start": 28.8,
+            "end": 31.0,
+            "start_ts": "00:28.80",
+            "end_ts": "00:31.00",
+            "line_no": 102,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E017-S01-025",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Choked Up",
+              "Pained"
+            ],
+            "voice": null,
+            "text": "You cannot promise that.",
+            "start": 32.8,
+            "end": 34.2,
+            "start_ts": "00:32.80",
+            "end_ts": "00:34.20",
+            "line_no": 110,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E017-S01-027",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Quiet",
+              "Absolute"
+            ],
+            "voice": null,
+            "text": "I just did.",
+            "start": 34.8,
+            "end": 35.8,
+            "start_ts": "00:34.80",
+            "end_ts": "00:35.80",
+            "line_no": 118,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E017-S02-004",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Tender",
+              "Reproachful"
+            ],
+            "voice": null,
+            "text": "You were bleeding last night.",
+            "start": 42.8,
+            "end": 44.7,
+            "start_ts": "00:42.80",
+            "end_ts": "00:44.70",
+            "line_no": 149,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E017-S02-006",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Quiet",
+              "Fond"
+            ],
+            "voice": null,
+            "text": "So were you.",
+            "start": 46.0,
+            "end": 47.3,
+            "start_ts": "00:46.00",
+            "end_ts": "00:47.30",
+            "line_no": 157,
+            "canonical": "Alexander"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E017-S01-022",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.",
+            "start": 28.0,
+            "end": 31.5,
+            "start_ts": "00:28.00",
+            "end_ts": "00:31.50",
+            "line_no": 98
+          },
+          {
+            "element_id": "E017-S01-029",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander squeezes Juliana's hands reassuringly as she rests her fingertips against his skin. The scene fades to black.",
+            "start": 36.5,
+            "end": 39.0,
+            "start_ts": "00:36.50",
+            "end_ts": "00:39.00",
+            "line_no": 126
+          },
+          {
+            "element_id": "E017-S02-002",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana wrings out a clean linen cloth from the basin and tenderly dabs at the fresh cuts and abrasions on the back of Alexander's right hand.",
+            "start": 40.0,
+            "end": 44.5,
+            "start_ts": "00:40.00",
+            "end_ts": "00:44.50",
+            "line_no": 141
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E017-S01-021",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tracking shot following Alexander as he strides across the muddy garden and approaches Juliana.",
+            "start": 26.5,
+            "end": 30.0,
+            "start_ts": "00:26.50",
+            "end_ts": "00:30.00",
+            "line_no": 94
+          },
+          {
+            "element_id": "E017-S01-024",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on Juliana's tear-filled face, overwhelmed by his fierce devotion.",
+            "start": 31.5,
+            "end": 34.5,
+            "start_ts": "00:31.50",
+            "end_ts": "00:34.50",
+            "line_no": 106
+          },
+          {
+            "element_id": "E017-S01-026",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Extreme close-up of Alexander's intense, protective gaze locking onto hers.",
+            "start": 34.5,
+            "end": 36.5,
+            "start_ts": "00:34.50",
+            "end_ts": "00:36.50",
+            "line_no": 114
+          },
+          {
+            "element_id": "E017-S01-028",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of their joined hands, his rugged, scarred fingers wrapping securely around her bandaged fingers.",
+            "start": 36.5,
+            "end": 39.0,
+            "start_ts": "00:36.50",
+            "end_ts": "00:39.00",
+            "line_no": 122
+          },
+          {
+            "element_id": "E017-S02-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot in the warm, flickering firelight of the stone cottage. Juliana kneels on the stone floor beside a washbasin of water while Alexander sits quietly in a chair beside the blazing hearth.",
+            "start": 39.0,
+            "end": 42.0,
+            "start_ts": "00:39.00",
+            "end_ts": "00:42.00",
+            "line_no": 137
+          },
+          {
+            "element_id": "E017-S02-003",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Juliana's bandaged hands delicately pressing the white cloth against Alexander's wounded knuckles.",
+            "start": 42.0,
+            "end": 45.0,
+            "start_ts": "00:42.00",
+            "end_ts": "00:45.00",
+            "line_no": 145
+          },
+          {
+            "element_id": "E017-S02-005",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up showing Alexander gazing down at her, his expression softening with unspoken affection as he gently takes hold of her wrist.",
+            "start": 45.0,
+            "end": 48.5,
+            "start_ts": "00:45.00",
+            "end_ts": "00:48.50",
+            "line_no": 153
+          }
+        ],
+        "event_description": "Unexpected proposal between Juliana & Alexander - peak line \"You cannot promise that.\"",
+        "source_lines": [
+          90,
+          157
+        ]
+      }
+    ],
+    "hook": {
+      "score": 5.93,
+      "element_id": "E017-S01-022",
+      "text": "Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, weathered palms.",
+      "kind": "action",
+      "speaker": null,
+      "timestamp": 28.0,
+      "in_first_3s": true,
+      "cues": [
+        "strong physical / visual shock"
+      ],
+      "explanation": "Shows: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, wea... 2.0s in. Cues: strong physical / visual shock.",
+      "timestamp_str": "00:28.00"
+    },
+    "cliffhanger": {
+      "score": 4.38,
+      "element_id": "E017-S02-006",
+      "text": "So were you.",
+      "kind": "dialogue",
+      "speaker": "ALEXANDER",
+      "timestamp": 48.5,
+      "cues": [
+        "sudden event / shock image: Close-up of Juliana's bandaged hands delicately pressing the white clo",
+        "lingering reaction shot (supporting)",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [
+        "warm / peaceful picture or sound"
+      ],
+      "withheld_next": "Juliana: \"You make it very difficult to argue with you.\"",
+      "explanation": "Ends on Alexander: \"So were you.\" Open because: sudden event / shock image: Close-up of Juliana's bandaged hands delicately pressing the white clo; lingering reaction shot (supporting); the reply is cut off (next line withheld). Weakened by: warm / peaceful picture or sound.",
+      "timestamp_str": "00:48.50",
+      "anchor_start": 46.0,
+      "anchor_end": 47.3
+    },
+    "narrative_summary": "Alexander & Juliana — Unexpected proposal between Juliana & Alexander - peak line \"You cannot promise that.\". Opens on the screen: “Alexander drops to one knee before Juliana, gently taking her trembling, bandag…” and cuts at Alexander: “So were you.”. 6 spoken line(s) across scene(s) 1, 2 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Hook 5.9/10 — Shows: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, wea... 2.0s in. Cues: strong physical / visual shock. Standalone clarity 5.0/10 — First-time-viewer proxy: 2 speaker(s); situation cues: emotion; 3/6 lines self-contained; Alexander is never addressed by name in the clip; Juliana is never addressed by name in the clip. Emotion 4.7/10 — Peak beat \"Alexander drops to one knee before Juliana, gently taking her trembling, band...\" (intensity 0.71); average over 9 spoken/physical beats 0.24. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: no meaningful cliffhanger (score 4.38 < 5.00)",
+      "Needs context: Alexander is never addressed by name in the clip",
+      "Needs context: Juliana is never addressed by name in the clip",
+      "Needs context: Juliana (introduced in episode 1) is not named in this moment"
+    ],
+    "context_required": [
+      "Alexander is never addressed by name in the clip",
+      "Juliana is never addressed by name in the clip",
+      "Juliana (introduced in episode 1) is not named in this moment",
+      "Alexander (introduced in episode 3) is not named in this moment"
+    ],
+    "spoiler_risk": "low",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Alexander",
+      "Juliana"
+    ],
+    "event_category": "proposal",
+    "secondary_category": "romantic_tension",
+    "scoring": {
+      "components": {
+        "hook": 5.93,
+        "cliff": 4.38,
+        "emotion": 4.65,
+        "standalone": 5.05,
+        "coherence": 9.03,
+        "character": 7.8
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 55.58,
+      "cap": 68.8,
+      "capped": false,
+      "final": 55.58,
+      "explanations": {
+        "hook": "Shows: Alexander drops to one knee before Juliana, gently taking her trembling, bandaged hands into his large, wea... 2.0s in. Cues: strong physical / visual shock.",
+        "cliff": "Ends on Alexander: \"So were you.\" Open because: sudden event / shock image: Close-up of Juliana's bandaged hands delicately pressing the white clo; lingering reaction shot (supporting); the reply is cut off (next line withheld). Weakened by: warm / peaceful picture or sound.",
+        "emotion": "Peak beat \"Alexander drops to one knee before Juliana, gently taking her trembling, band...\" (intensity 0.71); average over 9 spoken/physical beats 0.24. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 2 speaker(s); situation cues: emotion; 3/6 lines self-contained; Alexander is never addressed by name in the clip; Juliana is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "2 speaking role(s) (Alexander, Juliana); 2-4 is easiest to follow; identification 0.60."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.6,
+          "situation": 0.3,
+          "self_contained": 0.5,
+          "simplicity": 1.0,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Alexander is never addressed by name in the clip",
+            "Juliana is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "ALEXANDER",
+            "JULIANA"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 0.65,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 1.0,
+              "scene_cross": true,
+              "notes": []
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E039-0029.80-0074.80",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E39: Power shift — “Stop!”",
+    "episodes": [
+      39
+    ],
+    "total_duration": 45.0,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "no meaningful cliffhanger (score 4.83 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 39,
+        "source_file": "episode-039-Episode 1686799.txt",
+        "scene_numbers": [
+          3,
+          5
+        ],
+        "start": 29.8,
+        "end": 74.8,
+        "start_ts": "00:29.80",
+        "end_ts": "01:14.80",
+        "duration": 45.0,
+        "selected_dialogue": [
+          {
+            "element_id": "E039-S03-004",
+            "kind": "dialogue",
+            "speaker": "ROYAL SENTRY",
+            "delivery": [
+              "Commanding"
+            ],
+            "voice": null,
+            "text": "Stop!",
+            "start": 29.8,
+            "end": 30.6,
+            "start_ts": "00:29.80",
+            "end_ts": "00:30.60",
+            "line_no": 100,
+            "canonical": "Royal Sentry"
+          },
+          {
+            "element_id": "E039-S03-005",
+            "kind": "dialogue",
+            "speaker": "CART DRIVER",
+            "delivery": [
+              "Meek",
+              "Deferential"
+            ],
+            "voice": null,
+            "text": "Firewood for the kitchens, sir.",
+            "start": 30.8,
+            "end": 32.4,
+            "start_ts": "00:30.80",
+            "end_ts": "00:32.40",
+            "line_no": 104,
+            "canonical": "Cart Driver"
+          },
+          {
+            "element_id": "E039-S03-011",
+            "kind": "dialogue",
+            "speaker": "LOYALIST FIGHTER",
+            "delivery": [
+              "Whispering",
+              "Cold"
+            ],
+            "voice": null,
+            "text": "Sleep.",
+            "start": 41.0,
+            "end": 42.2,
+            "start_ts": "00:41.00",
+            "end_ts": "00:42.20",
+            "line_no": 128,
+            "canonical": "Loyalist Fighter"
+          },
+          {
+            "element_id": "E039-S03-014",
+            "kind": "dialogue",
+            "speaker": "CART DRIVER",
+            "delivery": [
+              "Relieved",
+              "Firm"
+            ],
+            "voice": null,
+            "text": "The road is clear.",
+            "start": 47.0,
+            "end": 48.1,
+            "start_ts": "00:47.00",
+            "end_ts": "00:48.10",
+            "line_no": 140,
+            "canonical": "Cart Driver"
+          },
+          {
+            "element_id": "E039-S03-015",
+            "kind": "dialogue",
+            "speaker": "LOYALIST FIGHTER",
+            "delivery": [
+              "Resolute"
+            ],
+            "voice": null,
+            "text": "Tell the Duke.",
+            "start": 48.2,
+            "end": 49.2,
+            "start_ts": "00:48.20",
+            "end_ts": "00:49.20",
+            "line_no": 144,
+            "canonical": "Loyalist Fighter"
+          },
+          {
+            "element_id": "E039-S04-010",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Deep",
+              "Steely Resolve"
+            ],
+            "voice": null,
+            "text": "Enough hiding.",
+            "start": 62.0,
+            "end": 62.8,
+            "start_ts": "01:02.00",
+            "end_ts": "01:02.80",
+            "line_no": 191,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E039-S04-011",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Dark",
+              "Unforgiving"
+            ],
+            "voice": null,
+            "text": "They buried Alexander Ashwin three years ago.",
+            "start": 63.0,
+            "end": 65.5,
+            "start_ts": "01:03.00",
+            "end_ts": "01:05.50",
+            "line_no": 195,
+            "canonical": "Alexander"
+          },
+          {
+            "element_id": "E039-S04-012",
+            "kind": "dialogue",
+            "speaker": "ALEXANDER",
+            "delivery": [
+              "Fierce",
+              "Commanding"
+            ],
+            "voice": null,
+            "text": "Today, he comes home.",
+            "start": 65.6,
+            "end": 66.9,
+            "start_ts": "01:05.60",
+            "end_ts": "01:06.90",
+            "line_no": 199,
+            "canonical": "Alexander"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E039-S03-007",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.",
+            "start": 32.8,
+            "end": 36.5,
+            "start_ts": "00:32.80",
+            "end_ts": "00:36.50",
+            "line_no": 112
+          },
+          {
+            "element_id": "E039-S03-008",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise.",
+            "start": 33.1,
+            "end": 36.0,
+            "start_ts": "00:33.10",
+            "end_ts": "00:36.00",
+            "line_no": 116
+          },
+          {
+            "element_id": "E039-S03-010",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp.",
+            "start": 37.0,
+            "end": 42.5,
+            "start_ts": "00:37.00",
+            "end_ts": "00:42.50",
+            "line_no": 124
+          },
+          {
+            "element_id": "E039-S04-002",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute.",
+            "start": 50.0,
+            "end": 52.8,
+            "start_ts": "00:50.00",
+            "end_ts": "00:52.80",
+            "line_no": 159
+          },
+          {
+            "element_id": "E039-S04-005",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage.",
+            "start": 56.5,
+            "end": 59.8,
+            "start_ts": "00:56.50",
+            "end_ts": "00:59.80",
+            "line_no": 171
+          },
+          {
+            "element_id": "E039-S04-006",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Rhythmic, metallic snips of heavy shears cutting through thick hair.",
+            "start": 57.2,
+            "end": 60.8,
+            "start_ts": "00:57.20",
+            "end_ts": "01:00.80",
+            "line_no": 175
+          },
+          {
+            "element_id": "E039-S04-009",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power.",
+            "start": 62.0,
+            "end": 66.6,
+            "start_ts": "01:02.00",
+            "end_ts": "01:06.60",
+            "line_no": 187
+          },
+          {
+            "element_id": "E039-S05-002",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.",
+            "start": 68.5,
+            "end": 71.8,
+            "start_ts": "01:08.50",
+            "end_ts": "01:11.80",
+            "line_no": 218
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E039-S03-006",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench.",
+            "start": 32.4,
+            "end": 36.5,
+            "start_ts": "00:32.40",
+            "end_ts": "00:36.50",
+            "line_no": 108
+          },
+          {
+            "element_id": "E039-S03-009",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind.",
+            "start": 36.5,
+            "end": 42.8,
+            "start_ts": "00:36.50",
+            "end_ts": "00:42.80",
+            "line_no": 120
+          },
+          {
+            "element_id": "E039-S03-012",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors.",
+            "start": 42.8,
+            "end": 46.8,
+            "start_ts": "00:42.80",
+            "end_ts": "00:46.80",
+            "line_no": 132
+          },
+          {
+            "element_id": "E039-S03-013",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary.",
+            "start": 46.8,
+            "end": 50.0,
+            "start_ts": "00:46.80",
+            "end_ts": "00:50.00",
+            "line_no": 136
+          },
+          {
+            "element_id": "E039-S04-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek.",
+            "start": 50.0,
+            "end": 52.8,
+            "start_ts": "00:50.00",
+            "end_ts": "00:52.80",
+            "line_no": 155
+          },
+          {
+            "element_id": "E039-S04-003",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors.",
+            "start": 52.8,
+            "end": 55.8,
+            "start_ts": "00:52.80",
+            "end_ts": "00:55.80",
+            "line_no": 163
+          },
+          {
+            "element_id": "E039-S04-004",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair.",
+            "start": 55.8,
+            "end": 59.8,
+            "start_ts": "00:55.80",
+            "end_ts": "00:59.80",
+            "line_no": 167
+          },
+          {
+            "element_id": "E039-S04-007",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot as Alexander trims his beard at the jawline.",
+            "start": 59.8,
+            "end": 61.2,
+            "start_ts": "00:59.80",
+            "end_ts": "01:01.20",
+            "line_no": 179
+          },
+          {
+            "element_id": "E039-S04-008",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features.",
+            "start": 61.2,
+            "end": 66.6,
+            "start_ts": "01:01.20",
+            "end_ts": "01:06.60",
+            "line_no": 183
+          },
+          {
+            "element_id": "E039-S04-013",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench.",
+            "start": 66.6,
+            "end": 68.5,
+            "start_ts": "01:06.60",
+            "end_ts": "01:08.50",
+            "line_no": 203
+          },
+          {
+            "element_id": "E039-S05-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light.",
+            "start": 68.5,
+            "end": 71.8,
+            "start_ts": "01:08.50",
+            "end_ts": "01:11.80",
+            "line_no": 214
+          },
+          {
+            "element_id": "E039-S05-003",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat.",
+            "start": 71.8,
+            "end": 74.8,
+            "start_ts": "01:11.80",
+            "end_ts": "01:14.80",
+            "line_no": 222
+          }
+        ],
+        "event_description": "Power shift between Royal Sentry & Cart Driver & Loyalist Fighter - peak line \"Stop!\"",
+        "source_lines": [
+          100,
+          222
+        ]
+      }
+    ],
+    "hook": {
+      "score": 6.81,
+      "element_id": "E039-S03-007",
+      "text": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel.",
+      "kind": "action",
+      "speaker": null,
+      "timestamp": 32.8,
+      "in_first_3s": true,
+      "cues": [
+        "strong physical / visual shock"
+      ],
+      "explanation": "Shows: The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him vio... 3.0s in. Cues: strong physical / visual shock.",
+      "timestamp_str": "00:32.80"
+    },
+    "cliffhanger": {
+      "score": 4.83,
+      "element_id": "E039-S05-002",
+      "text": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat.",
+      "kind": "action",
+      "speaker": null,
+      "timestamp": 74.8,
+      "cues": [
+        "sudden event / shock image: Alexander emerges in full ducal splendor—dressed in an immaculate navy",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Loyalist: \"Your Grace.\"",
+      "explanation": "Ends on \"Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery,...\" Open because: sudden event / shock image: Alexander emerges in full ducal splendor—dressed in an immaculate navy; the reply is cut off (next line withheld).",
+      "timestamp_str": "01:14.80",
+      "anchor_start": 68.5,
+      "anchor_end": 71.8
+    },
+    "narrative_summary": "Royal Sentry & Cart Driver & Loyalist Fighter — Power shift between Royal Sentry & Cart Driver & Loyalist Fighter - peak line \"Stop!\". Opens on the screen: “The driver leaps off the cart, striking the sentry across the chest, seizing hi…” and cuts at “Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined wit…”. 8 spoken line(s) across scene(s) 3, 5 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Hook 6.8/10 — Shows: The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him vio... 3.0s in. Cues: strong physical / visual shock. Standalone clarity 6.2/10 — First-time-viewer proxy: 4 speaker(s); situation cues: authority, danger, deceit; 4/8 lines self-contained. Emotion 5.7/10 — Peak beat \"The driver leaps off the cart, striking the sentry across the chest, seizing ...\" (intensity 0.79); average over 16 spoken/physical beats 0.26. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: no meaningful cliffhanger (score 4.83 < 5.00)",
+      "Speaker label(s) never resolved to a name by the continuity layer: CART DRIVER, LOYALIST FIGHTER, ROYAL SENTRY",
+      "Spoiler risk medium: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [],
+    "spoiler_risk": "medium",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Royal Sentry",
+      "Cart Driver",
+      "Loyalist Fighter",
+      "Alexander"
+    ],
+    "event_category": "power_shift",
+    "secondary_category": null,
+    "scoring": {
+      "components": {
+        "hook": 6.81,
+        "cliff": 4.83,
+        "emotion": 5.67,
+        "standalone": 6.17,
+        "coherence": 7.38,
+        "character": 9.18
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 61.66,
+      "cap": 73.3,
+      "capped": false,
+      "final": 61.66,
+      "explanations": {
+        "hook": "Shows: The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him vio... 3.0s in. Cues: strong physical / visual shock.",
+        "cliff": "Ends on \"Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery,...\" Open because: sudden event / shock image: Alexander emerges in full ducal splendor—dressed in an immaculate navy; the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"The driver leaps off the cart, striking the sentry across the chest, seizing ...\" (intensity 0.79); average over 16 spoken/physical beats 0.26. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 4 speaker(s); situation cues: authority, danger, deceit; 4/8 lines self-contained.",
+        "coherence": "Single continuous cut: crosses a scene change with a different cast.",
+        "character": "4 speaking role(s) (Royal Sentry, Cart Driver, Loyalist Fighter, Alexander); 2-4 is easiest to follow; identification 0.85."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.85,
+          "situation": 0.6,
+          "self_contained": 0.5,
+          "simplicity": 0.75,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [],
+          "dependency_note": null,
+          "speakers": [
+            "ROYAL SENTRY",
+            "CART DRIVER",
+            "LOYALIST FIGHTER",
+            "ALEXANDER"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 0.65,
+              "turn_taking": 1.0,
+              "closure": 0.8,
+              "cut_quality": 0.8,
+              "speaker_continuity": 0.5,
+              "scene_cross": true,
+              "notes": [
+                "crosses a scene change with a different cast"
+              ]
+            }
+          ],
+          "duration_fit": 1.0
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E040-0012.40-0066.80",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E40: Power shift — “Look at them. Every noble family in the county is h…”",
+    "episodes": [
+      40
+    ],
+    "total_duration": 54.4,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 4.10 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 40,
+        "source_file": "episode-040-Episode 1686800.txt",
+        "scene_numbers": [
+          1,
+          3
+        ],
+        "start": 12.4,
+        "end": 66.8,
+        "start_ts": "00:12.40",
+        "end_ts": "01:06.80",
+        "duration": 54.4,
+        "selected_dialogue": [
+          {
+            "element_id": "E040-S01-007",
+            "kind": "dialogue",
+            "speaker": "LADY HARRINGTON",
+            "delivery": [
+              "Smug",
+              "Impressed"
+            ],
+            "voice": null,
+            "text": "Look at them. Every noble family in the county is here today.",
+            "start": 12.4,
+            "end": 17.3,
+            "start_ts": "00:12.40",
+            "end_ts": "00:17.30",
+            "line_no": 38,
+            "canonical": "Lady Harrington"
+          },
+          {
+            "element_id": "E040-S01-010",
+            "kind": "dialogue",
+            "speaker": "LORD HARRINGTON",
+            "delivery": [
+              "Ambitious",
+              "Proud"
+            ],
+            "voice": null,
+            "text": "And soon, we'll be connected to the Duchess of Ashburgh.",
+            "start": 19.2,
+            "end": 23.0,
+            "start_ts": "00:19.20",
+            "end_ts": "00:23.00",
+            "line_no": 50,
+            "canonical": "Lord Harrington"
+          },
+          {
+            "element_id": "E040-S01-012",
+            "kind": "dialogue",
+            "speaker": "LADY HARRINGTON",
+            "delivery": [
+              "Malicious",
+              "Taunting"
+            ],
+            "voice": null,
+            "text": "Imagine Juliana seeing this.",
+            "start": 23.2,
+            "end": 26.0,
+            "start_ts": "00:23.20",
+            "end_ts": "00:26.00",
+            "line_no": 58,
+            "canonical": "Lady Harrington"
+          },
+          {
+            "element_id": "E040-S01-014",
+            "kind": "dialogue",
+            "speaker": "LORD HARRINGTON",
+            "delivery": [
+              "Sinister",
+              "Dismissive"
+            ],
+            "voice": null,
+            "text": "She won't be seeing anything for long.",
+            "start": 26.2,
+            "end": 28.9,
+            "start_ts": "00:26.20",
+            "end_ts": "00:28.90",
+            "line_no": 66,
+            "canonical": "Lord Harrington"
+          },
+          {
+            "element_id": "E040-S01-015",
+            "kind": "dialogue",
+            "speaker": "LADY HARRINGTON",
+            "delivery": [
+              "Pleased",
+              "Cold"
+            ],
+            "voice": null,
+            "text": "Good.",
+            "start": 29.0,
+            "end": 29.9,
+            "start_ts": "00:29.00",
+            "end_ts": "00:29.90",
+            "line_no": 70,
+            "canonical": "Lady Harrington"
+          },
+          {
+            "element_id": "E040-S01-016",
+            "kind": "dialogue",
+            "speaker": "LORD HARRINGTON",
+            "delivery": [
+              "Chuckling",
+              "Scornful"
+            ],
+            "voice": null,
+            "text": "This place has always been unlucky for Juliana.",
+            "start": 30.1,
+            "end": 33.2,
+            "start_ts": "00:30.10",
+            "end_ts": "00:33.20",
+            "line_no": 74,
+            "canonical": "Lord Harrington"
+          },
+          {
+            "element_id": "E040-S02-002",
+            "kind": "dialogue",
+            "speaker": "LADY HARRINGTON",
+            "delivery": [
+              "Vindictive",
+              "Pious"
+            ],
+            "voice": null,
+            "text": "She stands beneath God's watch and still gets exactly what she deserves.",
+            "start": 34.4,
+            "end": 39.0,
+            "start_ts": "00:34.40",
+            "end_ts": "00:39.00",
+            "line_no": 93,
+            "canonical": "Lady Harrington"
+          },
+          {
+            "element_id": "E040-S02-005",
+            "kind": "dialogue",
+            "speaker": "LADY HARRINGTON",
+            "delivery": [
+              "Anticipatory",
+              "Eager"
+            ],
+            "voice": null,
+            "text": "We have an excellent view.",
+            "start": 42.0,
+            "end": 44.0,
+            "start_ts": "00:42.00",
+            "end_ts": "00:44.00",
+            "line_no": 105,
+            "canonical": "Lady Harrington"
+          },
+          {
+            "element_id": "E040-S02-006",
+            "kind": "dialogue",
+            "speaker": "LORD HARRINGTON",
+            "delivery": [
+              "Inquiring",
+              "Subdued"
+            ],
+            "voice": null,
+            "text": "Of the wedding?",
+            "start": 44.1,
+            "end": 45.2,
+            "start_ts": "00:44.10",
+            "end_ts": "00:45.20",
+            "line_no": 109,
+            "canonical": "Lord Harrington"
+          },
+          {
+            "element_id": "E040-S02-008",
+            "kind": "dialogue",
+            "speaker": "LADY HARRINGTON",
+            "delivery": [
+              "Chilling",
+              "Sarcastic"
+            ],
+            "voice": null,
+            "text": "And everything that comes after it.",
+            "start": 45.3,
+            "end": 48.3,
+            "start_ts": "00:45.30",
+            "end_ts": "00:48.30",
+            "line_no": 117,
+            "canonical": "Lady Harrington"
+          },
+          {
+            "element_id": "E040-S03-002",
+            "kind": "dialogue",
+            "speaker": "BLOND NOBLEMAN",
+            "delivery": [
+              "Nervous",
+              "Determined"
+            ],
+            "voice": null,
+            "text": "Everything must go perfectly.",
+            "start": 50.8,
+            "end": 53.2,
+            "start_ts": "00:50.80",
+            "end_ts": "00:53.20",
+            "line_no": 132,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E040-S03-007",
+            "kind": "dialogue",
+            "speaker": "ELDER NOBLEMAN",
+            "delivery": [
+              "Stern",
+              "Scheming"
+            ],
+            "voice": null,
+            "text": "All entrances are covered?",
+            "start": 65.0,
+            "end": 66.8,
+            "start_ts": "01:05.00",
+            "end_ts": "01:06.80",
+            "line_no": 152,
+            "canonical": "Elder Nobleman"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E040-S01-017",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors.",
+            "start": 32.8,
+            "end": 34.2,
+            "start_ts": "00:32.80",
+            "end_ts": "00:34.20",
+            "line_no": 78
+          },
+          {
+            "element_id": "E040-S02-003",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments.",
+            "start": 40.5,
+            "end": 42.2,
+            "start_ts": "00:40.50",
+            "end_ts": "00:42.20",
+            "line_no": 97
+          },
+          {
+            "element_id": "E040-S03-003",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Rupert smooths the lapels of his coat, checking his posture as he waits for the bride.",
+            "start": 53.2,
+            "end": 55.8,
+            "start_ts": "00:53.20",
+            "end_ts": "00:55.80",
+            "line_no": 136
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E040-S01-008",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot tracking slightly as Lord and Lady Harrington pause arm-in-arm, taking in the gathering crowd of high society.",
+            "start": 12.4,
+            "end": 19.0,
+            "start_ts": "00:12.40",
+            "end_ts": "00:19.00",
+            "line_no": 42
+          },
+          {
+            "element_id": "E040-S01-009",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Low-angle shot from behind as they ascend the stone steps toward the arched cathedral entrance.",
+            "start": 19.0,
+            "end": 23.0,
+            "start_ts": "00:19.00",
+            "end_ts": "00:23.00",
+            "line_no": 46
+          },
+          {
+            "element_id": "E040-S01-011",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up profile of Lady Harrington, her eyes glistening with cruel satisfaction in the soft sunlight.",
+            "start": 23.0,
+            "end": 26.2,
+            "start_ts": "00:23.00",
+            "end_ts": "00:26.20",
+            "line_no": 54
+          },
+          {
+            "element_id": "E040-S01-013",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up of Lord Harrington looking down at her, his expression cold and ruthless.",
+            "start": 26.2,
+            "end": 30.0,
+            "start_ts": "00:26.20",
+            "end_ts": "00:30.00",
+            "line_no": 62
+          },
+          {
+            "element_id": "E040-S02-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew.",
+            "start": 34.2,
+            "end": 40.5,
+            "start_ts": "00:34.20",
+            "end_ts": "00:40.50",
+            "line_no": 89
+          },
+          {
+            "element_id": "E040-S02-004",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium profile shot of the couple seated in the pew, looking toward the grand altar.",
+            "start": 40.5,
+            "end": 45.2,
+            "start_ts": "00:40.50",
+            "end_ts": "00:45.20",
+            "line_no": 101
+          },
+          {
+            "element_id": "E040-S02-007",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk.",
+            "start": 45.2,
+            "end": 49.8,
+            "start_ts": "00:45.20",
+            "end_ts": "00:49.80",
+            "line_no": 113
+          },
+          {
+            "element_id": "E040-S03-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves.",
+            "start": 49.8,
+            "end": 55.8,
+            "start_ts": "00:49.80",
+            "end_ts": "00:55.80",
+            "line_no": 128
+          },
+          {
+            "element_id": "E040-S03-004",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot up on the stone balcony overlooking the nave, where an elder conspirator nobleman in black gloves stands gripping a cane.",
+            "start": 55.8,
+            "end": 58.2,
+            "start_ts": "00:55.80",
+            "end_ts": "00:58.20",
+            "line_no": 140
+          },
+          {
+            "element_id": "E040-S03-005",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "High-angle wide shot looking down from the balcony across the entire cathedral filled with guests, candles lining the central aisle, and royal guards standing at attention.",
+            "start": 58.2,
+            "end": 63.8,
+            "start_ts": "00:58.20",
+            "end_ts": "01:03.80",
+            "line_no": 144
+          },
+          {
+            "element_id": "E040-S03-006",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot on the balcony as a Royal Guard in red uniform and tall bearskin hat steps up and bows respectfully to the elder nobleman.",
+            "start": 63.8,
+            "end": 69.5,
+            "start_ts": "01:03.80",
+            "end_ts": "01:09.50",
+            "line_no": 148
+          }
+        ],
+        "event_description": "Power shift between Lady Harrington & Lord Harrington - peak line \"Look at them. Every noble family in the county is here today.\"",
+        "source_lines": [
+          38,
+          152
+        ]
+      }
+    ],
+    "hook": {
+      "score": 4.1,
+      "element_id": "E040-S01-007",
+      "text": "Look at them. Every noble family in the county is here today.",
+      "kind": "dialogue",
+      "speaker": "LADY HARRINGTON",
+      "timestamp": 12.4,
+      "in_first_3s": true,
+      "cues": [
+        "intense delivery (Smug, Impressed)",
+        "direct address / command"
+      ],
+      "explanation": "Lady Harrington Says \"Look at them. Every noble family in the county is here today.\" 0.0s in. Cues: intense delivery (Smug, Impressed); direct address / command.",
+      "timestamp_str": "00:12.40"
+    },
+    "cliffhanger": {
+      "score": 6.08,
+      "element_id": "E040-S03-007",
+      "text": "All entrances are covered?",
+      "kind": "dialogue",
+      "speaker": "ELDER NOBLEMAN",
+      "timestamp": 66.8,
+      "cues": [
+        "loaded unanswered question",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Royal Guard: \"Every one, my Lord.\"",
+      "explanation": "Ends on Elder Nobleman: \"All entrances are covered?\" Open because: loaded unanswered question; the reply is cut off (next line withheld).",
+      "timestamp_str": "01:06.80",
+      "anchor_start": 65.0,
+      "anchor_end": 66.8
+    },
+    "narrative_summary": "Lady Harrington & Lord Harrington & Rupert — Power shift between Lady Harrington & Lord Harrington - peak line \"Look at them. Every noble family in the county is here today.\". Opens on LADY HARRINGTON: “Look at them. Every noble family in the county is here today.” and cuts at Elder Nobleman: “All entrances are covered?”. 12 spoken line(s) across scene(s) 1, 3 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Standalone clarity 6.8/10 — First-time-viewer proxy: 4 speaker(s); situation cues: authority, family, marriage; 8/12 lines self-contained; Lady Harrington is never addressed by name in the clip; Lord Harrington is never addressed by name in the clip. Cliffhanger 6.1/10 — Ends on Elder Nobleman: \"All entrances are covered?\" Open because: loaded unanswered question; the reply is cut off (next line withheld). Hook 4.1/10 — Lady Harrington Says \"Look at them. Every noble family in the county is here today.\" 0.0s in. Cues: intense delivery (Smug, Impressed); direct address / command.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: hook not effective in the first 3 seconds (score 4.10 < 5.00)",
+      "Needs context: Lady Harrington is never addressed by name in the clip",
+      "Needs context: Lord Harrington is never addressed by name in the clip",
+      "Speaker label(s) never resolved to a name by the continuity layer: ELDER NOBLEMAN",
+      "Spoiler risk medium: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [
+      "Lady Harrington is never addressed by name in the clip",
+      "Lord Harrington is never addressed by name in the clip"
+    ],
+    "spoiler_risk": "medium",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Lady Harrington",
+      "Lord Harrington",
+      "Rupert",
+      "Elder Nobleman"
+    ],
+    "event_category": "power_shift",
+    "secondary_category": "relationship_conflict",
+    "scoring": {
+      "components": {
+        "hook": 4.1,
+        "cliff": 6.08,
+        "emotion": 3.92,
+        "standalone": 6.81,
+        "coherence": 9.64,
+        "character": 8.35
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 57.32,
+      "cap": 66.0,
+      "capped": false,
+      "final": 57.32,
+      "explanations": {
+        "hook": "Lady Harrington Says \"Look at them. Every noble family in the county is here today.\" 0.0s in. Cues: intense delivery (Smug, Impressed); direct address / command.",
+        "cliff": "Ends on Elder Nobleman: \"All entrances are covered?\" Open because: loaded unanswered question; the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"Lady Harrington: And everything that comes after it.\" (intensity 0.42); average over 15 spoken/physical beats 0.22. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 4 speaker(s); situation cues: authority, family, marriage; 8/12 lines self-contained; Lady Harrington is never addressed by name in the clip; Lord Harrington is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "4 speaking role(s) (Lady Harrington, Lord Harrington, Rupert, Elder Nobleman); 2-4 is easiest to follow; identification 0.70."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.7,
+          "situation": 0.9,
+          "self_contained": 0.67,
+          "simplicity": 0.75,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Lady Harrington is never addressed by name in the clip",
+            "Lord Harrington is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "LADY HARRINGTON",
+            "LORD HARRINGTON",
+            "BLOND NOBLEMAN",
+            "ELDER NOBLEMAN"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 1.0,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 1.0,
+              "scene_cross": true,
+              "notes": []
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E041-0028.80-0085.50",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E41: General drama — “Lady Juliana Ashcroft. Look around.”",
+    "episodes": [
+      41
+    ],
+    "total_duration": 56.7,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 4.68 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 41,
+        "source_file": "episode-041-Episode 1686801.txt",
+        "scene_numbers": [
+          1
+        ],
+        "start": 28.8,
+        "end": 85.5,
+        "start_ts": "00:28.80",
+        "end_ts": "01:25.50",
+        "duration": 56.7,
+        "selected_dialogue": [
+          {
+            "element_id": "E041-S01-020",
+            "kind": "dialogue",
+            "speaker": "NOBLEWOMAN",
+            "delivery": [
+              "Gleeful",
+              "Whispering"
+            ],
+            "voice": null,
+            "text": "Look at her.",
+            "start": 30.5,
+            "end": 31.6,
+            "start_ts": "00:30.50",
+            "end_ts": "00:31.60",
+            "line_no": 90,
+            "canonical": "Noblewoman"
+          },
+          {
+            "element_id": "E041-S01-021",
+            "kind": "dialogue",
+            "speaker": "NOBLEMAN",
+            "delivery": [
+              "Mocking",
+              "Chuckling"
+            ],
+            "voice": null,
+            "text": "She actually came back to the chapel.",
+            "start": 31.7,
+            "end": 33.8,
+            "start_ts": "00:31.70",
+            "end_ts": "00:33.80",
+            "line_no": 94,
+            "canonical": "Nobleman"
+          },
+          {
+            "element_id": "E041-S01-023",
+            "kind": "dialogue",
+            "speaker": "NOBLEWOMAN",
+            "delivery": [
+              "Scornful",
+              "Smug"
+            ],
+            "voice": null,
+            "text": "Not as a bride this time.",
+            "start": 34.8,
+            "end": 36.8,
+            "start_ts": "00:34.80",
+            "end_ts": "00:36.80",
+            "line_no": 102,
+            "canonical": "Noblewoman"
+          },
+          {
+            "element_id": "E041-S01-026",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Derisive",
+              "Projecting"
+            ],
+            "voice": "O.S.",
+            "text": "Lady Juliana Ashcroft. Look around.",
+            "start": 41.0,
+            "end": 44.2,
+            "start_ts": "00:41.00",
+            "end_ts": "00:44.20",
+            "line_no": 114,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E041-S01-028",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Mocking",
+              "Resonant"
+            ],
+            "voice": "V.O.",
+            "text": "This is the world you thought you belonged to.",
+            "start": 45.0,
+            "end": 48.0,
+            "start_ts": "00:45.00",
+            "end_ts": "00:48.00",
+            "line_no": 122,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E041-S01-030",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Spiteful",
+              "Boastful"
+            ],
+            "voice": null,
+            "text": "And now they can all see what you truly are.",
+            "start": 48.6,
+            "end": 52.4,
+            "start_ts": "00:48.60",
+            "end_ts": "00:52.40",
+            "line_no": 130,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E041-S01-034",
+            "kind": "dialogue",
+            "speaker": "JULIANA",
+            "delivery": [
+              "Defiant",
+              "Unbowed"
+            ],
+            "voice": null,
+            "text": "You needed an entire chapel to feel powerful over one chained woman?",
+            "start": 58.0,
+            "end": 60.5,
+            "start_ts": "00:58.00",
+            "end_ts": "01:00.50",
+            "line_no": 146,
+            "canonical": "Juliana"
+          },
+          {
+            "element_id": "E041-S01-036",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Murmured",
+              "Cold"
+            ],
+            "voice": "O.S.",
+            "text": "Still arrogant. Still standing.",
+            "start": 61.0,
+            "end": 63.5,
+            "start_ts": "01:01.00",
+            "end_ts": "01:03.50",
+            "line_no": 154,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E041-S01-038",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Dismissive"
+            ],
+            "voice": null,
+            "text": "Come.",
+            "start": 64.5,
+            "end": 65.4,
+            "start_ts": "01:04.50",
+            "end_ts": "01:05.40",
+            "line_no": 162,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E041-S01-041",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Intimate",
+              "Ambitious"
+            ],
+            "voice": null,
+            "text": "Soon, there will be nothing left between us and the Ashburgh title.",
+            "start": 70.5,
+            "end": 74.8,
+            "start_ts": "01:10.50",
+            "end_ts": "01:14.80",
+            "line_no": 174,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E041-S01-043",
+            "kind": "dialogue",
+            "speaker": "BLOND NOBLEMAN",
+            "delivery": [
+              "Quietly Triumphant"
+            ],
+            "voice": null,
+            "text": "Nothing.",
+            "start": 75.8,
+            "end": 77.0,
+            "start_ts": "01:15.80",
+            "end_ts": "01:17.00",
+            "line_no": 182,
+            "canonical": "Rupert"
+          },
+          {
+            "element_id": "E041-S01-045",
+            "kind": "dialogue",
+            "speaker": "PRIEST",
+            "delivery": [
+              "Solemn",
+              "Polite"
+            ],
+            "voice": null,
+            "text": "Shall we?",
+            "start": 78.0,
+            "end": 79.3,
+            "start_ts": "01:18.00",
+            "end_ts": "01:19.30",
+            "line_no": 190,
+            "canonical": "Priest"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E041-S01-032",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain.",
+            "start": 54.8,
+            "end": 57.5,
+            "start_ts": "00:54.80",
+            "end_ts": "00:57.50",
+            "line_no": 138
+          },
+          {
+            "element_id": "E041-S01-047",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation.",
+            "start": 81.0,
+            "end": 85.5,
+            "start_ts": "01:21.00",
+            "end_ts": "01:25.50",
+            "line_no": 198
+          },
+          {
+            "element_id": "E041-S01-048",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.",
+            "start": 81.8,
+            "end": 84.0,
+            "start_ts": "01:21.80",
+            "end_ts": "01:24.00",
+            "line_no": 202
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E041-S01-018",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar.",
+            "start": 28.8,
+            "end": 30.0,
+            "start_ts": "00:28.80",
+            "end_ts": "00:30.00",
+            "line_no": 82
+          },
+          {
+            "element_id": "E041-S01-019",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan.",
+            "start": 30.0,
+            "end": 34.0,
+            "start_ts": "00:30.00",
+            "end_ts": "00:34.00",
+            "line_no": 86
+          },
+          {
+            "element_id": "E041-S01-022",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride.",
+            "start": 34.0,
+            "end": 36.8,
+            "start_ts": "00:34.00",
+            "end_ts": "00:36.80",
+            "line_no": 98
+          },
+          {
+            "element_id": "E041-S01-024",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement.",
+            "start": 36.8,
+            "end": 39.8,
+            "start_ts": "00:36.80",
+            "end_ts": "00:39.80",
+            "line_no": 106
+          },
+          {
+            "element_id": "E041-S01-025",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers.",
+            "start": 39.8,
+            "end": 43.8,
+            "start_ts": "00:39.80",
+            "end_ts": "00:43.80",
+            "line_no": 110
+          },
+          {
+            "element_id": "E041-S01-027",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral.",
+            "start": 43.8,
+            "end": 48.5,
+            "start_ts": "00:43.80",
+            "end_ts": "00:48.50",
+            "line_no": 118
+          },
+          {
+            "element_id": "E041-S01-029",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress.",
+            "start": 48.5,
+            "end": 52.8,
+            "start_ts": "00:48.50",
+            "end_ts": "00:52.80",
+            "line_no": 126
+          },
+          {
+            "element_id": "E041-S01-031",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze.",
+            "start": 52.8,
+            "end": 57.8,
+            "start_ts": "00:52.80",
+            "end_ts": "00:57.80",
+            "line_no": 134
+          },
+          {
+            "element_id": "E041-S01-033",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up on Juliana's bruised, unshaken face.",
+            "start": 57.8,
+            "end": 60.8,
+            "start_ts": "00:57.80",
+            "end_ts": "01:00.80",
+            "line_no": 142
+          },
+          {
+            "element_id": "E041-S01-035",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains.",
+            "start": 60.8,
+            "end": 64.0,
+            "start_ts": "01:00.80",
+            "end_ts": "01:04.00",
+            "line_no": 150
+          },
+          {
+            "element_id": "E041-S01-037",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her.",
+            "start": 64.0,
+            "end": 68.5,
+            "start_ts": "01:04.00",
+            "end_ts": "01:08.50",
+            "line_no": 158
+          },
+          {
+            "element_id": "E041-S01-039",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion.",
+            "start": 68.5,
+            "end": 70.5,
+            "start_ts": "01:08.50",
+            "end_ts": "01:10.50",
+            "line_no": 166
+          },
+          {
+            "element_id": "E041-S01-040",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate.",
+            "start": 70.5,
+            "end": 75.0,
+            "start_ts": "01:10.50",
+            "end_ts": "01:15.00",
+            "line_no": 170
+          },
+          {
+            "element_id": "E041-S01-042",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up of Rupert's face breaking into a calculating, ambitious grin.",
+            "start": 75.0,
+            "end": 77.5,
+            "start_ts": "01:15.00",
+            "end_ts": "01:17.50",
+            "line_no": 178
+          },
+          {
+            "element_id": "E041-S01-044",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine.",
+            "start": 77.5,
+            "end": 80.5,
+            "start_ts": "01:17.50",
+            "end_ts": "01:20.50",
+            "line_no": 186
+          },
+          {
+            "element_id": "E041-S01-046",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Wide shot centered down the aisle toward the massive closed entrance doors.",
+            "start": 80.5,
+            "end": 81.8,
+            "start_ts": "01:20.50",
+            "end_ts": "01:21.80",
+            "line_no": 194
+          },
+          {
+            "element_id": "E041-S01-049",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down.",
+            "start": 81.8,
+            "end": 84.5,
+            "start_ts": "01:21.80",
+            "end_ts": "01:24.50",
+            "line_no": 206
+          },
+          {
+            "element_id": "E041-S01-050",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock.",
+            "start": 84.5,
+            "end": 88.5,
+            "start_ts": "01:24.50",
+            "end_ts": "01:28.50",
+            "line_no": 210
+          }
+        ],
+        "event_description": "General drama between Catherine & Juliana - peak line \"Lady Juliana Ashcroft. Look around.\"",
+        "source_lines": [
+          82,
+          210
+        ]
+      }
+    ],
+    "hook": {
+      "score": 4.68,
+      "element_id": "E041-S01-020",
+      "text": "Look at her.",
+      "kind": "dialogue",
+      "speaker": "NOBLEWOMAN",
+      "timestamp": 30.5,
+      "in_first_3s": true,
+      "cues": [
+        "intense delivery (Gleeful, Whispering)",
+        "direct address / command"
+      ],
+      "explanation": "Noblewoman Says \"Look at her.\" 1.7s in. Cues: intense delivery (Gleeful, Whispering); direct address / command.",
+      "timestamp_str": "00:30.50"
+    },
+    "cliffhanger": {
+      "score": 6.01,
+      "element_id": "E041-S01-048",
+      "text": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke.",
+      "kind": "action",
+      "speaker": null,
+      "timestamp": 85.5,
+      "cues": [
+        "mild yes/no question",
+        "sudden event / shock image: A violent fireball bursts inward as the entire cathedral entrance expl",
+        "lingering reaction shot (supporting)"
+      ],
+      "negatives": [],
+      "withheld_next": null,
+      "explanation": "Ends on \"A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doo...\" Open because: mild yes/no question; sudden event / shock image: A violent fireball bursts inward as the entire cathedral entrance expl; lingering reaction shot (supporting).",
+      "timestamp_str": "01:25.50",
+      "anchor_start": 81.8,
+      "anchor_end": 84.0
+    },
+    "narrative_summary": "Noblewoman & Nobleman & Catherine — General drama between Catherine & Juliana - peak line \"Lady Juliana Ashcroft. Look around.\". Opens on NOBLEWOMAN: “Look at her.” and cuts at “A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the…”. 12 spoken line(s) across scene(s) 1 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Emotion 7.7/10 — Peak beat \"A violent fireball bursts inward as the entire cathedral entrance explodes, b...\" (intensity 0.98); average over 15 spoken/physical beats 0.34. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns. Standalone clarity 6.2/10 — First-time-viewer proxy: 6 speaker(s); situation cues: authority, danger, marriage; 7/12 lines self-contained; Catherine is never addressed by name in the clip. Cliffhanger 6.0/10 — Ends on \"A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doo...\" Open because: mild yes/no question; sudden event / shock image: A violent fireball bursts inward as the entire cathedral entrance expl; lingering reaction shot (supporting).",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: hook not effective in the first 3 seconds (score 4.68 < 5.00)",
+      "Needs context: Catherine is never addressed by name in the clip",
+      "Needs context: Catherine (introduced in episode 20) is not named in this moment",
+      "Speaker label(s) never resolved to a name by the continuity layer: NOBLEMAN, NOBLEWOMAN, PRIEST",
+      "Spoiler risk medium: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [
+      "Catherine is never addressed by name in the clip",
+      "Catherine (introduced in episode 20) is not named in this moment"
+    ],
+    "spoiler_risk": "medium",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Noblewoman",
+      "Nobleman",
+      "Catherine",
+      "Juliana",
+      "Rupert",
+      "Priest"
+    ],
+    "event_category": "general_drama",
+    "secondary_category": null,
+    "scoring": {
+      "components": {
+        "hook": 4.68,
+        "cliff": 6.01,
+        "emotion": 7.66,
+        "standalone": 6.19,
+        "coherence": 9.06,
+        "character": 6.43
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 63.61,
+      "cap": 71.8,
+      "capped": false,
+      "final": 63.61,
+      "explanations": {
+        "hook": "Noblewoman Says \"Look at her.\" 1.7s in. Cues: intense delivery (Gleeful, Whispering); direct address / command.",
+        "cliff": "Ends on \"A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doo...\" Open because: mild yes/no question; sudden event / shock image: A violent fireball bursts inward as the entire cathedral entrance expl; lingering reaction shot (supporting).",
+        "emotion": "Peak beat \"A violent fireball bursts inward as the entire cathedral entrance explodes, b...\" (intensity 0.98); average over 15 spoken/physical beats 0.34. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 6 speaker(s); situation cues: authority, danger, marriage; 7/12 lines self-contained; Catherine is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "6 speaking role(s) (Noblewoman, Nobleman, Catherine, Juliana, Rupert, Priest); outside the easy 2-4 range; identification 0.80."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.8,
+          "situation": 0.75,
+          "self_contained": 0.58,
+          "simplicity": 0.5,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Catherine is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "NOBLEWOMAN",
+            "NOBLEMAN",
+            "CATHERINE",
+            "JULIANA",
+            "BLOND NOBLEMAN",
+            "PRIEST"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 1.0,
+              "turn_taking": 0.8,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 0.75,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E048-0000.00-0023.70",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E48: Power shift — “Ten days for a decree to be undone.”",
+    "episodes": [
+      48
+    ],
+    "total_duration": 23.7,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 4.20 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 48,
+        "source_file": "episode-048-Episode 1688397.txt",
+        "scene_numbers": [
+          1
+        ],
+        "start": 0.0,
+        "end": 23.7,
+        "start_ts": "00:00.00",
+        "end_ts": "00:23.70",
+        "duration": 23.7,
+        "selected_dialogue": [
+          {
+            "element_id": "E048-S01-003",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Vindictive",
+              "Cold"
+            ],
+            "voice": null,
+            "text": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+            "start": 2.4,
+            "end": 7.5,
+            "start_ts": "00:02.40",
+            "end_ts": "00:07.50",
+            "line_no": 22,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E048-S01-006",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Scheming"
+            ],
+            "voice": null,
+            "text": "Ten days. He gave himself ten days to fix it.",
+            "start": 8.0,
+            "end": 12.3,
+            "start_ts": "00:08.00",
+            "end_ts": "00:12.30",
+            "line_no": 34,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E048-S01-008",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Intense",
+              "Measured"
+            ],
+            "voice": null,
+            "text": "Ten days for the council to sit.",
+            "start": 12.6,
+            "end": 14.9,
+            "start_ts": "00:12.60",
+            "end_ts": "00:14.90",
+            "line_no": 42,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E048-S01-010",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Calculating"
+            ],
+            "voice": null,
+            "text": "Ten days for witnesses to be gathered.",
+            "start": 15.1,
+            "end": 17.2,
+            "start_ts": "00:15.10",
+            "end_ts": "00:17.20",
+            "line_no": 50,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E048-S01-011",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Dark",
+              "Threatening"
+            ],
+            "voice": null,
+            "text": "Ten days for a decree to be undone.",
+            "start": 17.4,
+            "end": 19.7,
+            "start_ts": "00:17.40",
+            "end_ts": "00:19.70",
+            "line_no": 54,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E048-S01-013",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Menacing",
+              "Resolute"
+            ],
+            "voice": null,
+            "text": "Ten days is not a wall, Alexander. It's a door.",
+            "start": 20.1,
+            "end": 23.7,
+            "start_ts": "00:20.10",
+            "end_ts": "00:23.70",
+            "line_no": 62,
+            "canonical": "Catherine"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E048-S01-002",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk.",
+            "start": 0.0,
+            "end": 3.0,
+            "start_ts": "00:00.00",
+            "end_ts": "00:03.00",
+            "line_no": 18
+          },
+          {
+            "element_id": "E048-S01-005",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table.",
+            "start": 7.8,
+            "end": 12.3,
+            "start_ts": "00:07.80",
+            "end_ts": "00:12.30",
+            "line_no": 30
+          },
+          {
+            "element_id": "E048-S01-009",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Catherine raises a gloved index finger, emphasizing each point with sinister precision.",
+            "start": 15.0,
+            "end": 18.5,
+            "start_ts": "00:15.00",
+            "end_ts": "00:18.50",
+            "line_no": 46
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E048-S01-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires.",
+            "start": 0.0,
+            "end": 4.5,
+            "start_ts": "00:00.00",
+            "end_ts": "00:04.50",
+            "line_no": 14
+          },
+          {
+            "element_id": "E048-S01-004",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on Catherine's profile and jewelry as she speaks with calculating contempt.",
+            "start": 4.5,
+            "end": 8.5,
+            "start_ts": "00:04.50",
+            "end_ts": "00:08.50",
+            "line_no": 26
+          },
+          {
+            "element_id": "E048-S01-007",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination.",
+            "start": 12.3,
+            "end": 20.0,
+            "start_ts": "00:12.30",
+            "end_ts": "00:20.00",
+            "line_no": 38
+          },
+          {
+            "element_id": "E048-S01-012",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Slight push-in on Catherine as she clenches her fist against her chest, her eyes blazing with malice.",
+            "start": 20.0,
+            "end": 26.7,
+            "start_ts": "00:20.00",
+            "end_ts": "00:26.70",
+            "line_no": 58
+          }
+        ],
+        "event_description": "Power shift involving Catherine - peak line \"Ten days for a decree to be undone.\"",
+        "source_lines": [
+          14,
+          62
+        ]
+      }
+    ],
+    "hook": {
+      "score": 4.2,
+      "element_id": "E048-S01-003",
+      "text": "Two words, and that healer's crown rolls right back into the gutter where it belongs.",
+      "kind": "dialogue",
+      "speaker": "CATHERINE",
+      "timestamp": 2.4,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording",
+        "intense delivery (Vindictive, Cold)"
+      ],
+      "explanation": "Catherine Says \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\" 2.4s in. Cues: high-stakes wording; intense delivery (Vindictive, Cold).",
+      "timestamp_str": "00:02.40"
+    },
+    "cliffhanger": {
+      "score": 5.31,
+      "element_id": "E048-S01-013",
+      "text": "Ten days is not a wall, Alexander. It's a door.",
+      "kind": "dialogue",
+      "speaker": "CATHERINE",
+      "timestamp": 23.7,
+      "cues": [
+        "threat",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Catherine: \"And doors can be closed from the other side.\"",
+      "explanation": "Ends on Catherine: \"Ten days is not a wall, Alexander. It's a door.\" Open because: threat; the reply is cut off (next line withheld).",
+      "timestamp_str": "00:23.70",
+      "anchor_start": 20.1,
+      "anchor_end": 23.7
+    },
+    "narrative_summary": "Catherine — Power shift involving Catherine - peak line \"Ten days for a decree to be undone.\". Opens on CATHERINE: “Two words, and that healer's crown rolls right back into the gutter where it be…” and cuts at Catherine: “Ten days is not a wall, Alexander. It's a door.”. 6 spoken line(s) across scene(s) 1 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Emotion 5.4/10 — Peak beat \"Catherine: Ten days for a decree to be undone.\" (intensity 0.50); average over 9 spoken/physical beats 0.33. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns. Cliffhanger 5.3/10 — Ends on Catherine: \"Ten days is not a wall, Alexander. It's a door.\" Open because: threat; the reply is cut off (next line withheld). Standalone clarity 5.2/10 — First-time-viewer proxy: 1 speaker(s); situation cues: authority; 6/6 lines self-contained; Catherine is never addressed by name in the clip; opens 0s into an episode that picks up directly from episode 47's ending.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: hook not effective in the first 3 seconds (score 4.20 < 5.00)",
+      "Needs context: Catherine is never addressed by name in the clip",
+      "Needs context: opens 0s into an episode that picks up directly from episode 47's ending",
+      "Needs context: Catherine (introduced in episode 20) is not named in this moment",
+      "Spoiler risk medium: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [
+      "Catherine is never addressed by name in the clip",
+      "opens 0s into an episode that picks up directly from episode 47's ending",
+      "Catherine (introduced in episode 20) is not named in this moment"
+    ],
+    "spoiler_risk": "medium",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Catherine"
+    ],
+    "event_category": "power_shift",
+    "secondary_category": "suspense",
+    "scoring": {
+      "components": {
+        "hook": 4.2,
+        "cliff": 5.31,
+        "emotion": 5.4,
+        "standalone": 5.25,
+        "coherence": 9.01,
+        "character": 6.0
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 54.46,
+      "cap": 67.0,
+      "capped": false,
+      "final": 54.46,
+      "explanations": {
+        "hook": "Catherine Says \"Two words, and that healer's crown rolls right back into the gutter where it belongs.\" 2.4s in. Cues: high-stakes wording; intense delivery (Vindictive, Cold).",
+        "cliff": "Ends on Catherine: \"Ten days is not a wall, Alexander. It's a door.\" Open because: threat; the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"Catherine: Ten days for a decree to be undone.\" (intensity 0.50); average over 9 spoken/physical beats 0.33. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 1 speaker(s); situation cues: authority; 6/6 lines self-contained; Catherine is never addressed by name in the clip; opens 0s into an episode that picks up directly from episode 47's ending.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "1 speaking role(s) (Catherine); outside the easy 2-4 range; identification 0.60."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.6,
+          "situation": 0.3,
+          "self_contained": 1.0,
+          "simplicity": 1.0,
+          "setup": 1.0,
+          "dependency_penalty": 0.18000000000000002,
+          "needs_context": [
+            "Catherine is never addressed by name in the clip"
+          ],
+          "dependency_note": "opens 0s into an episode that picks up directly from episode 47's ending",
+          "speakers": [
+            "CATHERINE"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 1.0,
+              "turn_taking": 0.6,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 1.0,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E049-0098.00-0124.80",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E49: Threat — “Careful men still hang, my lady, when the crime is…”",
+    "episodes": [
+      49
+    ],
+    "total_duration": 26.8,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [],
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 4.70 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 49,
+        "source_file": "episode-049-Episode 1688398.txt",
+        "scene_numbers": [
+          1
+        ],
+        "start": 98.0,
+        "end": 124.8,
+        "start_ts": "01:38.00",
+        "end_ts": "02:04.80",
+        "duration": 26.8,
+        "selected_dialogue": [
+          {
+            "element_id": "E049-S01-044",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Bitterly Resolute"
+            ],
+            "voice": null,
+            "text": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?",
+            "start": 98.3,
+            "end": 103.2,
+            "start_ts": "01:38.30",
+            "end_ts": "01:43.20",
+            "line_no": 186,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E049-S01-046",
+            "kind": "dialogue",
+            "speaker": "FATHER THOMAS",
+            "delivery": [
+              "Wary",
+              "Grave"
+            ],
+            "voice": null,
+            "text": "If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?",
+            "start": 104.2,
+            "end": 112.8,
+            "start_ts": "01:44.20",
+            "end_ts": "01:52.80",
+            "line_no": 194,
+            "canonical": "Father Thomas"
+          },
+          {
+            "element_id": "E049-S01-048",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Seductive",
+              "Reassuring"
+            ],
+            "voice": null,
+            "text": "Then make certain he doesn't find out. You're careful. I've seen how careful.",
+            "start": 113.2,
+            "end": 117.8,
+            "start_ts": "01:53.20",
+            "end_ts": "01:57.80",
+            "line_no": 202,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E049-S01-050",
+            "kind": "dialogue",
+            "speaker": "FATHER THOMAS",
+            "delivery": [
+              "Stern",
+              "Stark"
+            ],
+            "voice": null,
+            "text": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.",
+            "start": 118.2,
+            "end": 124.5,
+            "start_ts": "01:58.20",
+            "end_ts": "02:04.50",
+            "line_no": 210,
+            "canonical": "Father Thomas"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E049-S01-043",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words.",
+            "start": 98.2,
+            "end": 102.5,
+            "start_ts": "01:38.20",
+            "end_ts": "01:42.50",
+            "line_no": 182
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E049-S01-042",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway.",
+            "start": 98.0,
+            "end": 103.8,
+            "start_ts": "01:38.00",
+            "end_ts": "01:43.80",
+            "line_no": 178
+          },
+          {
+            "element_id": "E049-S01-045",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern.",
+            "start": 103.8,
+            "end": 113.0,
+            "start_ts": "01:43.80",
+            "end_ts": "01:53.00",
+            "line_no": 190
+          },
+          {
+            "element_id": "E049-S01-047",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot tracking closer as Catherine steps closer toward him.",
+            "start": 113.0,
+            "end": 118.0,
+            "start_ts": "01:53.00",
+            "end_ts": "01:58.00",
+            "line_no": 198
+          },
+          {
+            "element_id": "E049-S01-049",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up on Father Thomas's intense, brooding face.",
+            "start": 118.0,
+            "end": 124.8,
+            "start_ts": "01:58.00",
+            "end_ts": "02:04.80",
+            "line_no": 206
+          }
+        ],
+        "event_description": "Threat between Father Thomas & Catherine - peak line \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself\"",
+        "source_lines": [
+          178,
+          210
+        ]
+      }
+    ],
+    "hook": {
+      "score": 4.7,
+      "element_id": "E049-S01-044",
+      "text": "Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?",
+      "kind": "dialogue",
+      "speaker": "CATHERINE",
+      "timestamp": 98.3,
+      "in_first_3s": true,
+      "cues": [
+        "high-stakes wording",
+        "intense delivery (Bitterly Resolute)",
+        "loaded question"
+      ],
+      "explanation": "Catherine Says \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\" 0.3s in. Cues: high-stakes wording; intense delivery (Bitterly Resolute); loaded question.",
+      "timestamp_str": "01:38.30"
+    },
+    "cliffhanger": {
+      "score": 5.58,
+      "element_id": "E049-S01-050",
+      "text": "Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.",
+      "kind": "dialogue",
+      "speaker": "FATHER THOMAS",
+      "timestamp": 124.8,
+      "cues": [
+        "threat",
+        "the reply is cut off (next line withheld)"
+      ],
+      "negatives": [],
+      "withheld_next": "Catherine: \"Careful men who help me also get remembered.\"",
+      "explanation": "Ends on Father Thomas: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\" Open because: threat; the reply is cut off (next line withheld).",
+      "timestamp_str": "02:04.80",
+      "anchor_start": 118.2,
+      "anchor_end": 124.5
+    },
+    "narrative_summary": "Catherine & Father Thomas — Threat between Father Thomas & Catherine - peak line \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself\". Opens on CATHERINE: “Is that so unreasonable coming from a woman the church itself just humiliated b…” and cuts at Father Thomas: “Careful men still hang, my lady, when the crime is treason against a Duke the King himsel…”. 4 spoken line(s) across scene(s) 1 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Standalone clarity 7.0/10 — First-time-viewer proxy: 2 speaker(s); situation cues: authority, danger, family; 3/4 lines self-contained; Catherine is never addressed by name in the clip; Father Thomas is never addressed by name in the clip. Cliffhanger 5.6/10 — Ends on Father Thomas: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\" Open because: threat; the reply is cut off (next line withheld). Emotion 5.5/10 — Peak beat \"Father Thomas: Careful men still hang, my lady, when the crime is treason against a Duke the...\" (intensity 0.60); average over 5 spoken/physical beats 0.32. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Gate failed: hook not effective in the first 3 seconds (score 4.70 < 5.00)",
+      "Needs context: Catherine is never addressed by name in the clip",
+      "Needs context: Father Thomas is never addressed by name in the clip",
+      "Needs context: Catherine (introduced in episode 20) is not named in this moment",
+      "Spoiler risk medium: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [
+      "Catherine is never addressed by name in the clip",
+      "Father Thomas is never addressed by name in the clip",
+      "Catherine (introduced in episode 20) is not named in this moment"
+    ],
+    "spoiler_risk": "medium",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Catherine",
+      "Father Thomas"
+    ],
+    "event_category": "threat",
+    "secondary_category": "power_shift",
+    "scoring": {
+      "components": {
+        "hook": 4.7,
+        "cliff": 5.58,
+        "emotion": 5.48,
+        "standalone": 6.97,
+        "coherence": 10.0,
+        "character": 7.8
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 61.02,
+      "cap": 72.0,
+      "capped": false,
+      "final": 61.02,
+      "explanations": {
+        "hook": "Catherine Says \"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\" 0.3s in. Cues: high-stakes wording; intense delivery (Bitterly Resolute); loaded question.",
+        "cliff": "Ends on Father Thomas: \"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\" Open because: threat; the reply is cut off (next line withheld).",
+        "emotion": "Peak beat \"Father Thomas: Careful men still hang, my lady, when the crime is treason against a Duke the...\" (intensity 0.60); average over 5 spoken/physical beats 0.32. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 2 speaker(s); situation cues: authority, danger, family; 3/4 lines self-contained; Catherine is never addressed by name in the clip; Father Thomas is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a self-standing line, rising intensity, ends right after the beat.",
+        "character": "2 speaking role(s) (Catherine, Father Thomas); 2-4 is easiest to follow; identification 0.60."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.6,
+          "situation": 0.75,
+          "self_contained": 0.75,
+          "simplicity": 1.0,
+          "setup": 0.7,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Catherine is never addressed by name in the clip",
+            "Father Thomas is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "CATHERINE",
+            "FATHER THOMAS"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 1.0,
+              "arc": 1.0,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 1.0,
+              "speaker_continuity": 1.0,
+              "scene_cross": false,
+              "notes": []
+            }
+          ],
+          "duration_fit": 1.0
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  },
+  {
+    "promo_id": "P-E050-0026.50-0078.60",
+    "rank": null,
+    "in_top5": false,
+    "top5_rank": null,
+    "title": "E50: General drama — “Or perhaps discretion isn't the only thing you've d…”",
+    "episodes": [
+      50
+    ],
+    "total_duration": 52.1,
+    "n_segments": 1,
+    "kind": "continuous",
+    "status": "rejected",
+    "flags": [
+      "score capped at 54 by the weakest-link rule (raw 55.1)"
+    ],
+    "reasons": [
+      "hook not effective in the first 3 seconds (score 2.90 < 5.00)"
+    ],
+    "segments": [
+      {
+        "episode": 50,
+        "source_file": "episode-050-Episode 1697563.txt",
+        "scene_numbers": [
+          1,
+          2
+        ],
+        "start": 26.5,
+        "end": 78.6,
+        "start_ts": "00:26.50",
+        "end_ts": "01:18.60",
+        "duration": 52.1,
+        "selected_dialogue": [
+          {
+            "element_id": "E050-S01-015",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Scoffing",
+              "Incredulous"
+            ],
+            "voice": null,
+            "text": "That's not absolution, Thomas. That's a fortune.",
+            "start": 27.2,
+            "end": 30.2,
+            "start_ts": "00:27.20",
+            "end_ts": "00:30.20",
+            "line_no": 70,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E050-S01-017",
+            "kind": "dialogue",
+            "speaker": "FATHER THOMAS",
+            "delivery": [
+              "Steady",
+              "Cold"
+            ],
+            "voice": null,
+            "text": "Absolution is free. Discretion has a price.",
+            "start": 31.0,
+            "end": 35.0,
+            "start_ts": "00:31.00",
+            "end_ts": "00:35.00",
+            "line_no": 78,
+            "canonical": "Father Thomas"
+          },
+          {
+            "element_id": "E050-S01-019",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Soft",
+              "Calculating"
+            ],
+            "voice": null,
+            "text": "Unsupervised. In your hands alone.",
+            "start": 36.5,
+            "end": 39.4,
+            "start_ts": "00:36.50",
+            "end_ts": "00:39.40",
+            "line_no": 86,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E050-S01-021",
+            "kind": "dialogue",
+            "speaker": "FATHER THOMAS",
+            "delivery": [
+              "Grave"
+            ],
+            "voice": null,
+            "text": "For as long as it holds.",
+            "start": 40.4,
+            "end": 42.5,
+            "start_ts": "00:40.40",
+            "end_ts": "00:42.50",
+            "line_no": 94,
+            "canonical": "Father Thomas"
+          },
+          {
+            "element_id": "E050-S01-023",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Softly",
+              "Teasing"
+            ],
+            "voice": null,
+            "text": "Done. You told yourself this ends when the hearing does.",
+            "start": 43.2,
+            "end": 48.0,
+            "start_ts": "00:43.20",
+            "end_ts": "00:48.00",
+            "line_no": 102,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E050-S01-025",
+            "kind": "dialogue",
+            "speaker": "FATHER THOMAS",
+            "delivery": [
+              "Chuckle",
+              "Resigned"
+            ],
+            "voice": null,
+            "text": "I've told myself that since the dawn in your bedchamber, and here we are again.",
+            "start": 49.8,
+            "end": 54.0,
+            "start_ts": "00:49.80",
+            "end_ts": "00:54.00",
+            "line_no": 110,
+            "canonical": "Father Thomas"
+          },
+          {
+            "element_id": "E050-S01-027",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Murmuring"
+            ],
+            "voice": null,
+            "text": "In another room no one uses?",
+            "start": 54.8,
+            "end": 56.5,
+            "start_ts": "00:54.80",
+            "end_ts": "00:56.50",
+            "line_no": 118,
+            "canonical": "Catherine"
+          },
+          {
+            "element_id": "E050-S01-028",
+            "kind": "dialogue",
+            "speaker": "FATHER THOMAS",
+            "delivery": [
+              "Whispering"
+            ],
+            "voice": null,
+            "text": "Perhaps I like rooms no one uses.",
+            "start": 56.8,
+            "end": 59.2,
+            "start_ts": "00:56.80",
+            "end_ts": "00:59.20",
+            "line_no": 122,
+            "canonical": "Father Thomas"
+          },
+          {
+            "element_id": "E050-S01-030",
+            "kind": "dialogue",
+            "speaker": "CATHERINE",
+            "delivery": [
+              "Low",
+              "Carnal"
+            ],
+            "voice": null,
+            "text": "Or perhaps discretion isn't the only thing you've developed a taste for.",
+            "start": 60.3,
+            "end": 64.8,
+            "start_ts": "01:00.30",
+            "end_ts": "01:04.80",
+            "line_no": 130,
+            "canonical": "Catherine"
+          }
+        ],
+        "selected_action": [
+          {
+            "element_id": "E050-S01-032",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Catherine closes her eyes in surrender as Father Thomas holds her tight against his naked chest, lost in their forbidden entanglement.",
+            "start": 65.8,
+            "end": 70.5,
+            "start_ts": "01:05.80",
+            "end_ts": "01:10.50",
+            "line_no": 138
+          },
+          {
+            "element_id": "E050-S02-002",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Agnes scans the desolate hallway nervously, her lantern casting elongated shadows against the wall.",
+            "start": 70.8,
+            "end": 73.5,
+            "start_ts": "01:10.80",
+            "end_ts": "01:13.50",
+            "line_no": 153
+          },
+          {
+            "element_id": "E050-S02-004",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Through the crack of the door, Agnes sees Catherine and the shirtless priest locked in an intimate, passionate embrace upon the bed.",
+            "start": 74.0,
+            "end": 76.5,
+            "start_ts": "01:14.00",
+            "end_ts": "01:16.50",
+            "line_no": 161
+          },
+          {
+            "element_id": "E050-S02-006",
+            "kind": "action",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Agnes's jaw drops open in shock as she stifles a cry.",
+            "start": 76.8,
+            "end": 78.5,
+            "start_ts": "01:16.80",
+            "end_ts": "01:18.50",
+            "line_no": 169
+          },
+          {
+            "element_id": "E050-S02-007",
+            "kind": "sfx",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Sharp, terrified gasp catching in Agnes's throat.",
+            "start": 77.2,
+            "end": 78.6,
+            "start_ts": "01:17.20",
+            "end_ts": "01:18.60",
+            "line_no": 173
+          }
+        ],
+        "selected_camera": [
+          {
+            "element_id": "E050-S01-014",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Slight pull back as Catherine pulls her hand back slightly, staring at him in disbelief.",
+            "start": 26.5,
+            "end": 30.5,
+            "start_ts": "00:26.50",
+            "end_ts": "00:30.50",
+            "line_no": 66
+          },
+          {
+            "element_id": "E050-S01-016",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Two-shot centering on Father Thomas leaning toward her, his expression resolute and uncompromising.",
+            "start": 30.5,
+            "end": 35.8,
+            "start_ts": "00:30.50",
+            "end_ts": "00:35.80",
+            "line_no": 74
+          },
+          {
+            "element_id": "E050-S01-018",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight profile close-up between their faces, golden candlelight illuminating Catherine's jaw as she raises her hand to touch his cheek.",
+            "start": 35.8,
+            "end": 39.8,
+            "start_ts": "00:35.80",
+            "end_ts": "00:39.80",
+            "line_no": 82
+          },
+          {
+            "element_id": "E050-S01-020",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up as Father Thomas reaches up and firmly clasps Catherine's hand at his neck.",
+            "start": 39.8,
+            "end": 43.0,
+            "start_ts": "00:39.80",
+            "end_ts": "00:43.00",
+            "line_no": 90
+          },
+          {
+            "element_id": "E050-S01-022",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium close-up as Catherine breaks into a knowing, seductive smile and taps his chest with her index finger.",
+            "start": 43.0,
+            "end": 48.5,
+            "start_ts": "00:43.00",
+            "end_ts": "00:48.50",
+            "line_no": 98
+          },
+          {
+            "element_id": "E050-S01-024",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up on Father Thomas letting out a soft, self-deprecating chuckle before meeting her eyes with smoldering hunger.",
+            "start": 48.5,
+            "end": 54.5,
+            "start_ts": "00:48.50",
+            "end_ts": "00:54.50",
+            "line_no": 106
+          },
+          {
+            "element_id": "E050-S01-026",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Extreme close-up of their lips almost grazing, warm candlelight catching the edges of their profiles.",
+            "start": 54.5,
+            "end": 59.8,
+            "start_ts": "00:54.50",
+            "end_ts": "00:59.80",
+            "line_no": 114
+          },
+          {
+            "element_id": "E050-S01-029",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Close-up profile as Catherine slides both hands into the dark hair at the back of his neck, pulling him closer.",
+            "start": 59.8,
+            "end": 65.5,
+            "start_ts": "00:59.80",
+            "end_ts": "01:05.50",
+            "line_no": 126
+          },
+          {
+            "element_id": "E050-S01-031",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium two-shot as Father Thomas pulls Catherine into a fierce, suffocating embrace, burying his face in her neck while she clings to his broad shoulders.",
+            "start": 65.5,
+            "end": 70.5,
+            "start_ts": "01:05.50",
+            "end_ts": "01:10.50",
+            "line_no": 134
+          },
+          {
+            "element_id": "E050-S02-001",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Medium tracking shot following Agnes as she walks cautiously down the dimly lit stone corridor, holding a black iron lantern.",
+            "start": 70.5,
+            "end": 73.5,
+            "start_ts": "01:10.50",
+            "end_ts": "01:13.50",
+            "line_no": 149
+          },
+          {
+            "element_id": "E050-S02-003",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Over-the-shoulder shot behind Agnes as she stops dead in front of an open doorway, peering inside.",
+            "start": 73.5,
+            "end": 76.5,
+            "start_ts": "01:13.50",
+            "end_ts": "01:16.50",
+            "line_no": 157
+          },
+          {
+            "element_id": "E050-S02-005",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Tight close-up on Agnes's face, drained of all color, her eyes bulging in pure terror.",
+            "start": 76.5,
+            "end": 78.5,
+            "start_ts": "01:16.50",
+            "end_ts": "01:18.50",
+            "line_no": 165
+          },
+          {
+            "element_id": "E050-S02-008",
+            "kind": "camera",
+            "speaker": null,
+            "delivery": [],
+            "voice": null,
+            "text": "Frantic backward tracking close-up on Agnes stumbling back into the shadows of the hallway, horrified by the lethal secret she has uncovered before an abrupt cut to black.",
+            "start": 78.5,
+            "end": 80.0,
+            "start_ts": "01:18.50",
+            "end_ts": "01:20.00",
+            "line_no": 177
+          }
+        ],
+        "event_description": "General drama between Catherine & Father Thomas - peak line \"Or perhaps discretion isn't the only thing you've developed a taste for.\"",
+        "source_lines": [
+          66,
+          177
+        ]
+      }
+    ],
+    "hook": {
+      "score": 2.9,
+      "element_id": "E050-S01-015",
+      "text": "That's not absolution, Thomas. That's a fortune.",
+      "kind": "dialogue",
+      "speaker": "CATHERINE",
+      "timestamp": 27.2,
+      "in_first_3s": true,
+      "cues": [
+        "intense delivery (Scoffing, Incredulous)"
+      ],
+      "explanation": "Catherine Says \"That's not absolution, Thomas. That's a fortune.\" 0.7s in. Cues: intense delivery (Scoffing, Incredulous).",
+      "timestamp_str": "00:27.20"
+    },
+    "cliffhanger": {
+      "score": 5.7,
+      "element_id": "E050-S02-007",
+      "text": "Sharp, terrified gasp catching in Agnes's throat.",
+      "kind": "sfx",
+      "speaker": null,
+      "timestamp": 78.6,
+      "cues": [
+        "sudden event / shock image: Sharp, terrified gasp catching in Agnes's throat.",
+        "lingering reaction shot (supporting)"
+      ],
+      "negatives": [],
+      "withheld_next": null,
+      "explanation": "Ends on \"Sharp, terrified gasp catching in Agnes's throat.\" Open because: sudden event / shock image: Sharp, terrified gasp catching in Agnes's throat.; lingering reaction shot (supporting).",
+      "timestamp_str": "01:18.60",
+      "anchor_start": 77.2,
+      "anchor_end": 78.6
+    },
+    "narrative_summary": "Catherine & Father Thomas — General drama between Catherine & Father Thomas - peak line \"Or perhaps discretion isn't the only thing you've developed a taste for.\". Opens on CATHERINE: “That's not absolution, Thomas. That's a fortune.” and cuts at “Sharp, terrified gasp catching in Agnes's throat.”. 9 spoken line(s) across scene(s) 1, 2 (template-generated summary; rule mode does not paraphrase).",
+    "why_it_works": "Standalone clarity 7.0/10 — First-time-viewer proxy: 2 speaker(s); situation cues: authority, danger, deceit, family; 7/9 lines self-contained; Catherine is never addressed by name in the clip. Cliffhanger 5.7/10 — Ends on \"Sharp, terrified gasp catching in Agnes's throat.\" Open because: sudden event / shock image: Sharp, terrified gasp catching in Agnes's throat.; lingering reaction shot (supporting). Emotion 5.2/10 — Peak beat \"Sharp, terrified gasp catching in Agnes's throat.\" (intensity 0.73); average over 14 spoken/physical beats 0.24. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns. The weakest-link rule capped the score at 54 (raw 55.1).",
+    "limitations": [
+      "Hook / cliffhanger / emotion are rule-based proxies computed from wording, delivery tags and structure - they do not read meaning, and the score is not a prediction of audience engagement.",
+      "Flag: score capped at 54 by the weakest-link rule (raw 55.1)",
+      "Gate failed: hook not effective in the first 3 seconds (score 2.90 < 5.00)",
+      "Needs context: Catherine is never addressed by name in the clip",
+      "Needs context: Catherine (introduced in episode 20) is not named in this moment",
+      "Needs context: Father Thomas (introduced in episode 49) is not named in this moment",
+      "Spoiler risk medium: this late-series moment reveals story beats a first-time viewer has not reached."
+    ],
+    "context_required": [
+      "Catherine is never addressed by name in the clip",
+      "Catherine (introduced in episode 20) is not named in this moment",
+      "Father Thomas (introduced in episode 49) is not named in this moment"
+    ],
+    "spoiler_risk": "medium",
+    "why_multi_segment": null,
+    "main_characters": [
+      "Catherine",
+      "Father Thomas"
+    ],
+    "event_category": "general_drama",
+    "secondary_category": null,
+    "scoring": {
+      "components": {
+        "hook": 2.9,
+        "cliff": 5.7,
+        "emotion": 5.23,
+        "standalone": 6.96,
+        "coherence": 8.29,
+        "character": 8.9
+      },
+      "weights": {
+        "hook": 0.25,
+        "cliff": 0.25,
+        "emotion": 0.2,
+        "standalone": 0.15,
+        "coherence": 0.1,
+        "character": 0.05
+      },
+      "raw": 55.14,
+      "cap": 54.0,
+      "capped": true,
+      "final": 54.0,
+      "explanations": {
+        "hook": "Catherine Says \"That's not absolution, Thomas. That's a fortune.\" 0.7s in. Cues: intense delivery (Scoffing, Incredulous).",
+        "cliff": "Ends on \"Sharp, terrified gasp catching in Agnes's throat.\" Open because: sudden event / shock image: Sharp, terrified gasp catching in Agnes's throat.; lingering reaction shot (supporting).",
+        "emotion": "Peak beat \"Sharp, terrified gasp catching in Agnes's throat.\" (intensity 0.73); average over 14 spoken/physical beats 0.24. Intensity = delivery tags + stakes wording + exclamations + threat/reveal patterns.",
+        "standalone": "First-time-viewer proxy: 2 speaker(s); situation cues: authority, danger, deceit, family; 7/9 lines self-contained; Catherine is never addressed by name in the clip.",
+        "coherence": "Single continuous cut: opens on a reply (\"That's not absolution, Thomas.\") whose question is cut.",
+        "character": "2 speaking role(s) (Catherine, Father Thomas); 2-4 is easiest to follow; identification 0.80."
+      },
+      "details": {
+        "standalone": {
+          "identity": 0.8,
+          "situation": 0.6,
+          "self_contained": 0.78,
+          "simplicity": 1.0,
+          "setup": 0.4,
+          "dependency_penalty": 0.04,
+          "needs_context": [
+            "Catherine is never addressed by name in the clip"
+          ],
+          "dependency_note": null,
+          "speakers": [
+            "CATHERINE",
+            "FATHER THOMAS"
+          ]
+        },
+        "coherence": {
+          "segments": [
+            {
+              "clean_open": 0.45,
+              "arc": 1.0,
+              "turn_taking": 1.0,
+              "closure": 1.0,
+              "cut_quality": 0.8,
+              "speaker_continuity": 1.0,
+              "scene_cross": true,
+              "notes": [
+                "opens on a reply (\"That's not absolution, Thomas.\") whose question is cut"
+              ]
+            }
+          ],
+          "duration_fit": 0.85
+        }
+      }
+    },
+    "duplicate_info": {
+      "near_duplicates_suppressed": 0
+    },
+    "provenance": {
+      "engine": "rules",
+      "llm_used": false
+    }
+  }
+]

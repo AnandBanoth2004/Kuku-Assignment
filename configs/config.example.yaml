@@ -1,0 +1,25 @@
+# Copy to configs/config.yaml and pass --config configs/config.yaml.  Every key is optional (defaults live in config.py).
+weights:                 # initial ENGINEERING ASSUMPTIONS (must sum to 1.0) - not fitted to any engagement data
+  hook: 0.25
+  cliff: 0.25
+  emotion: 0.20
+  standalone: 0.15
+  coherence: 0.10
+  character: 0.05
+weakest_link_floor: 0.25 # final <= 100*(min(hook,cliff)/10 + 0.25)
+min_duration: 20
+max_duration: 60
+hook_min: 5.0            # hard gates (0-10)
+cliff_min: 5.0
+standalone_min: 4.5
+coherence_min: 5.0
+emotion_min: 3.0
+top_k: 5
+aliases_file: configs/aliases.yaml
+llm:                     # optional; "none" = fully deterministic run (this is how the delivered outputs were produced)
+  provider: none         # none | anthropic | openai_compat
+  model: ""              # e.g. claude-haiku-5-5, or any OpenAI-compatible model name
+  base_url: ""           # openai_compat only (e.g. http://localhost:11434/v1 for a local Ollama)
+  api_key_env: ANTHROPIC_API_KEY
+  rescore_top_n: 25
+  blend: 0.5
